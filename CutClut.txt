@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.5.4
+! Version: 2.5.4
 ! Syntax: AdBlock
 
 
@@ -258,4 +258,22 @@ scribe.rip##span:nth-of-type(2)
 
 ! Dec 31, 2024 https://read.sudovanilla.org
 read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
+
+! Dec 31, 2024 https://chatgpt.com
+chatgpt.com##.min-h-4 > div
+
+! Dec 31, 2024 https://openai.com
+openai.com##.items-center.w-full.h-full.flex.relative.px-s\/2.duration-250.ease-curve-a.transition
+
+! Dec 31, 2024 https://render.com
+render.com##.lg\:mr-0.py-\[--nav-bar-py\].px-\[--nav-bar-px\].mr-10.dark\:text-gray-100.text-gray-900.text-body-sm.transition-colors.cursor-pointer.inline-flex.z-\[1\].relative.group
+render.com##.lg\:py-15.lg\:px-0.p-\[40px\].border-gray-700.border-t-1.items-center.flex-1.w-full.flex
+render.com##.lg\:border-t-1.text-gray-100.bg-gray-800.border-gray-700.flex-col.w-full.h-full.flex
+render.com##.lg\:p-0.bg-gray-800.row-start-2.row-span-8.col-start-3.col-span-14.z-2.relative
+render.com##.sm\:basis-\[initial\].sm\:inline.text-body-sm.basis-full.flex
+
+! Dec 31, 2024 https://accounts.google.com
+accounts.google.com##.dMNVAe
+accounts.google.com##.OKMeHe
+accounts.google.com##.FZfKCe
 
