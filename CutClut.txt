@@ -252,3 +252,10 @@ store.epicgames.com##.css-1potjqa > .css-1247nep.eds_1ypbntdk.eds_1ypbntda.eds_1
 store.epicgames.com##.css-k204li
 store.epicgames.com##.css-1jd731i > span
 
+! Dec 31, 2024 https://scribe.rip
+scribe.rip##[href="https://sr.ht/~edwardloveall/Scribe"]
+scribe.rip##span:nth-of-type(2)
+
+! Dec 31, 2024 https://read.sudovanilla.org
+read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
+
