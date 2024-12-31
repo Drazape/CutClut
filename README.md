@@ -7,5 +7,5 @@ WebSanitizer cleans and optimizes websites by removing premium content ads, priv
 ### Manual (*others*)
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/WebSanitizer/refs/heads/main/WebSanitizer.txt) (*auto-update*)
   - Manually [download](blob:https://github.com/bcd9d5dc-cd59-4206-bc08-0abac5912151) and import
-
--# [Recommended setup](https://github.com/yokoffing/filterlists)
+---
+[Recommended setup](https://github.com/yokoffing/filterlists)
