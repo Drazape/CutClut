@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/WebSanitizer
 ! License: https://github.com/DestroyerBDT/WebSanitizer/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.0.1
+! Version: 1.0.2
 ! Syntax: AdBlock
 
 
@@ -190,23 +190,12 @@ browsercompany.substack.com##[href^="https://substack.com/ccpa"]
 browsercompany.substack.com##[href^="https://browsercompany.substack.com/tos"]
 browsercompany.substack.com##.subscribe-page-footer._reset_h3mln_1.pc-reset.pencraft
 
-! Dec 31, 2024 https://github.com
-github.com##.mr-2.text-light.Button.Button--medium.Button--link > .Button-content > .Button-label
-github.com##a.mr-2.Link:nth-of-type(4)
-github.com##a.mr-2.Link:nth-of-type(2)
-github.com##a.mr-2.Link:nth-of-type(5)
-github.com##a.mr-2.Link:nth-of-type(3)
-github.com##.mr-3.Link
-github.com###item-b8807af1-3fe5-4611-b21d-0b11d8e14df4 > .ActionListItem-label
-github.com###item-b8807af1-3fe5-4611-b21d-0b11d8e14df4
-github.com##.AppHeader-buttonRight.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
-github.com##.AppHeader-buttonLeft.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
-github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720 > .ActionListItem-label
-github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720
-github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
-github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BI
-github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
-github.com##.js-discussion-sidebar-item.discussion-sidebar-item > .list-style-none > li > [href]
-github.com##.mb-2.text-bold
-github.com##.f6.Link
+! Dec 31, 2024 https://discohook.org
+discohook.org##.bbmwyd.sc-1al5n2i-0
 
+! Dec 31, 2024 https://github.com
+github.com##.mt-3.text-small > [href="/sponsors"]
+github.com##.flex-items-center.d-flex.Button.Button--small.Button--secondary
+github.com##ul.list-style-none > .d-flex.mb-2
+github.com##.text-light.text-small.flex-wrap.d-flex
+github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
