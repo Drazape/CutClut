@@ -5,7 +5,7 @@ CutClut still doesn't cover most of the websites, you can [create issue](https:/
  Websites with front-ends that remove all the clutter won't be accepted but you can request the front-end websites
 
 ## Usage
-### - Automatic (*[U-block origin](https://ublockorigin.com)*)
+### Automatic (*[U-block origin](https://ublockorigin.com)*)
   - [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
 ### Manual (*others*)
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
