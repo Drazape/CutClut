@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Title: WebSanitizer
+! Title: CutClut
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
-! Homepage: https://github.com/DestroyerBDT/WebSanitizer
-! License: https://github.com/DestroyerBDT/WebSanitizer/blob/main/LICENSE
+! Homepage: https://github.com/DestroyerBDT/CutClut
+! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
 ! Version: 1.0.3.1
 ! Syntax: AdBlock
