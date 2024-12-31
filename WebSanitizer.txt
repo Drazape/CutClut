@@ -6,7 +6,7 @@
 ! Last modified: 31 Dec 2024
 ! Version: 1
 ! Syntax: AdBlock
-! Number of entries: 195
+! Number of entries: 167
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
 bw.projectsegfau.lt##.bw-top-banner
