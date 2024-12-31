@@ -4,8 +4,9 @@
 ! Homepage: https://github.com/DestroyerBDT/WebSanitizer
 ! License: https://github.com/DestroyerBDT/WebSanitizer/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1
+! Version: 1.0.1
 ! Syntax: AdBlock
+
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
 bw.projectsegfau.lt##.bw-top-banner
@@ -202,3 +203,10 @@ github.com##.AppHeader-buttonRight.AppHeader-button.Button--medium.Button--secon
 github.com##.AppHeader-buttonLeft.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
 github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720 > .ActionListItem-label
 github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720
+github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
+github.com##.prc-Button-IconButton-szpyj.AskCopilotButton-module__square--o8kDO.prc-Button-ButtonBase-c50BI
+github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
+github.com##.js-discussion-sidebar-item.discussion-sidebar-item > .list-style-none > li > [href]
+github.com##.mb-2.text-bold
+github.com##.f6.Link
+
