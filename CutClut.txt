@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.4.4
+! Version: 1.5.4
 ! Syntax: AdBlock
 
 
@@ -232,4 +232,23 @@ www.roblox.com##.container-footer
 ||images.rbxcdn.com/a057a8bc94e7ab78517765ddb4e77384-generic_dark_11062018.svg$image
 www.roblox.com##.ng-binding.text-error
 www.roblox.com##.text-report
+
+! Dec 31, 2024 https://store.steampowered.com
+store.steampowered.com##a.menuitem:nth-of-type(5)
+
+! Dec 31, 2024 https://steamcommunity.com
+steamcommunity.com###footerText
+steamcommunity.com###footer_spacer
+||community.fastly.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1$image
+
+! Dec 31, 2024 https://store.steampowered.com
+store.steampowered.com##.footer_content
+store.steampowered.com###footer
+
+! Dec 31, 2024 https://store.epicgames.com
+store.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
+store.epicgames.com##.eds_14hl3lj3.eds_14hl3lja.eds_1ypbntdc.eds_14hl3ljj.eds_14hl3ljc.eds_14hl3lj9
+store.epicgames.com##.css-1potjqa > .css-1247nep.eds_1ypbntdk.eds_1ypbntda.eds_1ypbntd0
+store.epicgames.com##.css-k204li
+store.epicgames.com##.css-1jd731i > span
 
