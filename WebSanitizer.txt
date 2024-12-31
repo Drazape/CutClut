@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: WebSanitizer
-! Description: cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
+! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/WebSanitizer
 ! License: https://github.com/DestroyerBDT/WebSanitizer/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
