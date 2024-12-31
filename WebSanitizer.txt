@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/WebSanitizer
 ! License: https://github.com/DestroyerBDT/WebSanitizer/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.0.2
+! Version: 1.0.3
 ! Syntax: AdBlock
 
 
@@ -199,3 +199,9 @@ github.com##.flex-items-center.d-flex.Button.Button--small.Button--secondary
 github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.text-light.text-small.flex-wrap.d-flex
 github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
+
+! Dec 31, 2024 https://getindie.wiki
+getindie.wiki##div.align-center.content.container:nth-of-type(9)
+getindie.wiki##div.align-center.content.container:nth-of-type(8)
+getindie.wiki##div.content:nth-of-type(8)
+
