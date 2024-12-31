@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.0.3.2
+! Version: 1.0.3.3
 ! Syntax: AdBlock
 
 
@@ -211,4 +211,7 @@ ublockorigin.com##.copyright > p
 
 ! Dec 31, 2024 https://github.com
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
+
+! Dec 31, 2024 https://legcord.app
+legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
 
