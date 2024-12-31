@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Dec 2024
-! Version: 1.0.3.4
+! Version: 1.4.4
 ! Syntax: AdBlock
 
 
@@ -218,4 +218,18 @@ legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
 ! Dec 31, 2024 https://github.com
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
+
+! Dec 31, 2024 https://www.roblox.com
+www.roblox.com###navigation-robux-container > div > .robux-menu-btn.text-header.nav-menu-title.font-header-2
+www.roblox.com###header-develop-md-link
+www.roblox.com##.footer-note.text-footer
+www.roblox.com##.text.small.billing-help-pages
+www.roblox.com##.btn-default.btn.dropdown-toggle.input-dropdown-btn
+www.roblox.com##.text-footer-nav
+www.roblox.com##.copyright-container.row
+www.roblox.com##.footer-links.row
+www.roblox.com##.container-footer
+||images.rbxcdn.com/a057a8bc94e7ab78517765ddb4e77384-generic_dark_11062018.svg$image
+www.roblox.com##.ng-binding.text-error
+www.roblox.com##.text-report
 
