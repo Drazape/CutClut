@@ -1,0 +1,195 @@
+! Dec 24, 2024 https://bw.projectsegfau.lt
+bw.projectsegfau.lt##.bw-top-banner
+
+! Dec 24, 2024 https://blox-fruits.fandom.com
+blox-fruits.fandom.com##.global-top-navigation__start-new-wiki__anchor.global-top-navigation__link
+
+! Dec 24, 2024 https://bw.projectsegfau.lt
+bw.projectsegfau.lt##[href="https://gitdab.com/cadence/breezewiki"]
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
+bw.projectsegfau.lt##[href="https://docs.breezewiki.com"]
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
+bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
+bw.projectsegfau.lt##p:nth-of-type(5)
+bw.projectsegfau.lt##p:nth-of-type(2)
+bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
+
+! Dec 24, 2024 https://blox-fruits.fandom.com
+blox-fruits.fandom.com##lalala
+blox-fruits.fandom.com##.rwl-exempt
+||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
+||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
+
+! Dec 24, 2024 https://www.elevenforum.com
+www.elevenforum.com##.js-styleVariationsLink.p-navgroup-link--variations.p-navgroup-link--iconic.p-navgroup-link
+www.elevenforum.com##.xb-footer-block-1.xb-footer-block
+www.elevenforum.com##.p-footer-custom > .p-footer-inner
+www.elevenforum.com##.p-footer-custom
+www.elevenforum.com##.xb-toggle-default.pageWidthToggle
+www.elevenforum.com###js-XFUniqueId158
+www.elevenforum.com###js-XFUniqueId157 > .fa-adjust.fal.fa--xf > svg
+www.elevenforum.com##.p-linkList-changeStyle > .js-styleVariationsLink
+
+! Dec 24, 2024 https://xdaforums.com
+xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row > li > [href="https://xdaforums.com/t/xda-developers-forum-rules.4200559/"]
+xdaforums.com##.block-body > .p-footer-copyright
+xdaforums.com##a.xda_footerLink:nth-of-type(2)
+xdaforums.com##li > .xda_footerLink
+xdaforums.com##a.xda_footerLink:nth-of-type(3)
+xdaforums.com##a.xda_footerLink:nth-of-type(5)
+xdaforums.com##.uix_extendedFooter
+xdaforums.com###js-XFUniqueId6
+xdaforums.com##.p-footer-inner > .pageContent
+xdaforums.com##.p-footer-inner
+
+! Dec 24, 2024 https://www.google.com
+www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(4)
+www.google.com###dk2qOd
+www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(1)
+www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(3)
+
+! Dec 24, 2024 https://github.com
+github.com##.Link.Link--secondary
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
+github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.text-light.text-small.color-fg-subtle
+github.com##a.mr-2.Link:nth-of-type(1)
+
+! Dec 25, 2024 https://bw.projectsegfau.lt
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735097015$image
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735097015$image
+
+! Dec 30, 2024 https://meet.google.com
+meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
+
+! Dec 30, 2024 https://userstyles.world
+userstyles.world##[href="/modlog"]
+
+! Dec 30, 2024 https://www.youtube.com
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! Dec 30, 2024 https://userstyles.world
+userstyles.world##.copyright
+
+! Dec 30, 2024 https://greasyfork.org
+greasyfork.org###site-name-text [href]
+
+! Dec 30, 2024 https://support.mozilla.org
+support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
+support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
+support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
+support.mozilla.org##.mzp-c-footer-legal > ul
+
+! Dec 31, 2024 https://copilot.microsoft.com
+copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
+copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1)
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(2)
+
+! Dec 31, 2024 https://fmhy.net
+fmhy.net##.copyright
+fmhy.net##.feedback-footer
+fmhy.net##.message
+fmhy.net##.VPFooter
+
+! Dec 31, 2024 https://www.elevenforum.com
+www.elevenforum.com###js-XFUniqueId115
+www.elevenforum.com##.totalContainer--lessPadding.totalContainer
+www.elevenforum.com##.block-footer.main-container
+www.elevenforum.com##div.block-footer:nth-of-type(2)
+www.elevenforum.com##.p-body-pageContent > div.block > .block-container > .block-minorHeader
+www.elevenforum.com##.listInline--comma.listInline
+www.elevenforum.com##.block-row--minor.block-row
+www.elevenforum.com##.block-row.block-body
+
+! Dec 31, 2024 https://xdaforums.com
+xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row
+
+! Dec 31, 2024 https://www.freetogame.com
+www.freetogame.com##.pt-3.deep-dark.font-small.page-footer
+
+! Dec 31, 2024 https://bw.projectsegfau.lt
+bw.projectsegfau.lt##.text
+bw.projectsegfau.lt##p:nth-of-type(1)
+
+! Dec 31, 2024 https://www.google.com
+www.google.com##.lJ9FBc.FPdoLc > center > .gNO89b
+www.google.com##.aajZCb > .lJ9FBc > center > .gNO89b
+www.google.com##.iTjxkf.KxwPGc > a.pHiOh
+www.google.com##a.pHiOh:nth-of-type(1)
+www.google.com##a.pHiOh:nth-of-type(2)
+www.google.com##a.MV3Tnb:nth-of-type(2)
+www.google.com##a.MV3Tnb:nth-of-type(1)
+www.google.com##.gb_W
+www.google.com##a.pHiOh:nth-of-type(3)
+
+! Dec 31, 2024 https://www.google.com
+www.google.co.in##.lJ9FBc.FPdoLc > center > .gNO89b
+www.google.co.in##.aajZCb > .lJ9FBc > center > .gNO89b
+www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh
+www.google.co.in##a.pHiOh:nth-of-type(1)
+www.google.co.in##a.pHiOh:nth-of-type(2)
+www.google.co.in##a.MV3Tnb:nth-of-type(2)
+www.google.co.in##a.MV3Tnb:nth-of-type(1)
+www.google.co.in##.gb_W
+www.google.co.in##a.pHiOh:nth-of-type(3)
+
+||ko-fi.com
+
+! Dec 31, 2024 https://getindie.wiki
+getindie.wiki##[href="privacy"]
+getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
+
+! Dec 31, 2024 https://www.google.com
+www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+
+! Dec 31, 2024 https://www.youtube.com
+www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape
+www.youtube.com###startSegmentButton > .playerButtonImage
+www.youtube.com###deleteButton > .playerButtonImage
+www.youtube.com###submitButton
+www.youtube.com###deleteButton
+www.youtube.com###startSegmentButton
+www.youtube.com##.ytp-button.ytp-size-button
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com###pmdEnablePrivacy
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(2)
+www.youtube.com###manage-account > .yt-formatted-string.style-scope.yt-simple-endpoint
+www.youtube.com##ytd-toggle-theme-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope
+www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
+www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
+
+! Dec 31, 2024 https://thebrowser.company
+thebrowser.company##[href="https://arc.net/privacy"]
+thebrowser.company##[href="https://arc.net/security"]
+thebrowser.company##.eloOXn.Elements__BlueSection-sc-qpg4il-0
+
+! Dec 31, 2024 https://browsercompany.substack.com
+browsercompany.substack.com##[href^="https://substack.com/ccpa"]
+browsercompany.substack.com##[href^="https://browsercompany.substack.com/tos"]
+browsercompany.substack.com##.subscribe-page-footer._reset_h3mln_1.pc-reset.pencraft
+
+! Dec 31, 2024 https://github.com
+github.com##.mr-2.text-light.Button.Button--medium.Button--link > .Button-content > .Button-label
+github.com##a.mr-2.Link:nth-of-type(4)
+github.com##a.mr-2.Link:nth-of-type(2)
+github.com##a.mr-2.Link:nth-of-type(5)
+github.com##a.mr-2.Link:nth-of-type(3)
+github.com##.mr-3.Link
+github.com###item-b8807af1-3fe5-4611-b21d-0b11d8e14df4 > .ActionListItem-label
+github.com###item-b8807af1-3fe5-4611-b21d-0b11d8e14df4
+github.com##.AppHeader-buttonRight.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
+github.com##.AppHeader-buttonLeft.AppHeader-button.Button--medium.Button--secondary.Button--iconOnly.Button
+github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720 > .ActionListItem-label
+github.com###item-b6db1a9f-ac5f-489d-b282-9a6408c88720
