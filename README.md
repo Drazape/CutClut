@@ -1,5 +1,4 @@
-# WebSanitizer
-WebSanitizer cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
+Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 
 ## Usage
 ### - Automatic (*[U-block origin](https://ublockorigin.com)*)
