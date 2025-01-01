@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 1 Jan 2025
-! Version: 3.5.5
+! Version: 3.6.5
 ! Syntax: AdBlock
 
 
@@ -365,4 +365,12 @@ privacy.sexy##.brand.child
 
 ! Jan 1, 2025 https://github.com
 github.com##.mr-1.Button.Button--small.Button--secondary
+
+! Jan 1, 2025 https://copilot.microsoft.com
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(3)
+copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(7)
+copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(6)
+copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(5)
+copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(4)
+copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(3)
 
