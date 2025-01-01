@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 1 Jan 2025
-! Version: 3.6.5
+! Version: 4.6.5
 ! Syntax: AdBlock
 
 
@@ -373,4 +373,103 @@ copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-
 copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(5)
 copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(4)
 copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(3)
+
+! Jan 1, 2025 https://account.live.com
+account.live.com###privacyLink
+account.live.com##.c-uhff-base
+
+! Jan 1, 2025 https://answers.microsoft.com
+answers.microsoft.com###c-uhf-nav-cta > .c-uhf-nav-link
+answers.microsoft.com###Announcements > .f-information.m-alert > div
+answers.microsoft.com###Footer
+answers.microsoft.com##.message-voting-text.message-voting-question.c-paragraph-4
+answers.microsoft.com##.message-voting-button-up.message-voting-button.f-lightweight.c-button
+answers.microsoft.com##.message-voting-button-down.message-voting-button.f-lightweight.c-button
+answers.microsoft.com##.message-voting-spacer
+answers.microsoft.com##div.thread-message-content-footer-message-action-link > .hidden-xs.msgAbuseBtn.reportAbuseMessageItem.message-action-button.f-lightweight.c-action-trigger
+answers.microsoft.com##.asking-text-asked-on-link > .hidden-xs.msgAbuseBtn.reportAbuseMessageItem.message-action-button.f-lightweight.c-action-trigger
+answers.microsoft.com##.ucsRailContainer
+
+! Jan 1, 2025 https://support.microsoft.com
+support.microsoft.com###c-shellmenu_0
+support.microsoft.com###c-uhf-nav-cta > .c-uhf-nav-link
+support.microsoft.com###c-shellmenu_1
+support.microsoft.com##.prrColumnWrapper
+support.microsoft.com##.c-uhff-nav
+support.microsoft.com##.c-uhff-base
+support.microsoft.com###articleFooterSupportBridge-supTabControlContent-1 > .supHomeAndLandingPageFeatureGrid.supARG > .supARG-row
+support.microsoft.com###articleFooterSupportBridge-supTabControlContent-1 > .supportBridgeText
+support.microsoft.com###supWrapperToPreventFeedbackFlickering
+
+! Jan 1, 2025 https://account.microsoft.com
+account.microsoft.com###O365_MainLink_Help > .o365cs-base
+||assets.account.microsoft.com/family/compassassets/125e3018-3cdd-494a-9492-254d28a1f5b5.png?n=BackgroundImage$image
+||assets.account.microsoft.com/family/compassassets/69e8bcf3-4d2f-45a5-8247-ef16b26a47e2.svg?n=GrayFeatureCardImageBackground.svg$image
+||assets.account.microsoft.com/family/compassassets/69e8bcf3-4d2f-45a5-8247-ef16b26a47e2.svg?n=GrayFeatureCardImageBackground.svg$image
+account.microsoft.com##.c-uhff-base
+account.microsoft.com###helpIcon_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+account.microsoft.com###helpIcon_container
+account.microsoft.com###home\.banner\.alta-column\.cta
+account.microsoft.com##.root-180.ms-Button--primary.ms-Button
+account.microsoft.com###xboxUpsellCard > .css-210.ms-Stack > .css-211.ms-Stack
+account.microsoft.com###xboxUpsellCard > .css-210.ms-Stack
+account.microsoft.com###home\.drawers\.copilot > .css-210.ms-Stack > .css-211.ms-Stack
+account.microsoft.com###home\.drawers\.copilot > .css-210.ms-Stack
+account.microsoft.com###home\.drawers\.subscriptions > .css-210.ms-Stack > .css-211.ms-Stack
+account.microsoft.com###home\.drawers\.subscriptions > .css-210.ms-Stack
+account.microsoft.com###home\.cards\.card\.outlook\.cold > .css-233.ms-Stack
+account.microsoft.com##div.css-342.ms-StackItem > .css-232.ms-Stack
+
+! Jan 1, 2025 https://wpd.app
+wpd.app##.rounded.px-4.py-1\.5.text-gray-700.border-yellow-400.border.transition-colors.hover\:border-yellow-400.hover\:bg-yellow-300.bg-yellow-400
+wpd.app##a.hover\:text-gray-900.text-gray-500.px-3.py-4.font-medium:nth-of-type(3)
+wpd.app##.p-4.text-xs.text-center > p
+wpd.app##.p-4.text-xs.text-center
+
+! Jan 1, 2025 https://crazymax.dev
+crazymax.dev##.md-announce.md-banner
+
+! Jan 1, 2025 https://community.chocolatey.org
+community.chocolatey.org##.show.fade.alert-dismissible-center.alert-dismissible.alert-purple.alert
+community.chocolatey.org##.pe-md-c75.pe-0.container-fluid > .justify-content-sm-end.flex-sm-fill.flex-wrap.fw-bold.global-nav-ul.nav > .align-items-center.d-md-flex.d-none.nav-item
+community.chocolatey.org##.d-md-block.d-none.col-xl-2.col-md-3 > ul.list-unstyled [href="/packages/windowsspyblocker/4.39.0/ReportAbuse"]
+community.chocolatey.org##li:nth-of-type(13)
+community.chocolatey.org##.d-md-block.d-none.col-xl-2.col-md-3 > ul.list-unstyled [href="/packages/windowsspyblocker/4.39.0/ContactAdmins"]
+community.chocolatey.org##ul.list-unstyled:nth-of-type(3)
+community.chocolatey.org##.pt-3.px-3.text-center.border-top.text-bg-body-secondary
+community.chocolatey.org##.text-md-start.text-center.py-5.border-top.fw-bold.text-bg-adaptive
+community.chocolatey.org##.py-3.border-top.text-bg-primary
+community.chocolatey.org##.dsq-brlink
+
+! Jan 1, 2025 https://www.getblackbird.net
+||www.getblackbird.net/download/images/donate_n4.png$image
+www.getblackbird.net###snotebox2 > .ws11
+www.getblackbird.net##.ws12 > code
+
+! Jan 1, 2025 https://namazso.github.io
+||namazso.github.io/nanami-tan/demoness/html/nanami2016.png$image
+
+! Jan 1, 2025 https://sourceforge.net
+sourceforge.net###img_dggnatab5gign > div
+
+! Jan 1, 2025 https://vsthemes.org
+vsthemes.org##[href="https://vsthemes.org/en/premium/"]
+vsthemes.org##p:nth-of-type(1)
+vsthemes.org##p:nth-of-type(2)
+vsthemes.org##.block.link-black.s2b.guide-menu
+
+! Jan 1, 2025 https://www.stardock.com
+||www.stardock.com/games/images/nav/shopping_cart.svg$image
+www.stardock.com##span:nth-of-type(6)
+www.stardock.com###stardock_organization
+www.stardock.com##.columns.container
+www.stardock.com##.second.container
+www.stardock.com##.altbg.getitnow > p
+
+! Jan 1, 2025 https://nsaneforums.com
+||nsaneforums.com/Matt/bgw.webp$image
+nsaneforums.com##[href="https://nsaneforums.com/privacy/"]
+nsaneforums.com###elCopyright_userLine
+nsaneforums.com##[href="https://www.invisioncommunity.com/"]
+nsaneforums.com##li:nth-of-type(3) > [href="https://nsaneforums.com/contact/"]
 
