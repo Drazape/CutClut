@@ -3,8 +3,8 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 31 Dec 2024
-! Version: 2.5.4
+! Last modified: 1 Jan 2025
+! Version: 3.5.4
 ! Syntax: AdBlock
 
 
@@ -276,4 +276,90 @@ render.com##.sm\:basis-\[initial\].sm\:inline.text-body-sm.basis-full.flex
 accounts.google.com##.dMNVAe
 accounts.google.com##.OKMeHe
 accounts.google.com##.FZfKCe
+
+! Dec 31, 2024 https://dashboard.render.com
+dashboard.render.com##.py-1.space-x-2.outline-2.focus\:outline-focus-action.focus-visible\:outline.hover\:shell-side-nav-item-text--hover.text-secondary.type-interface-01.hover\:shell-side-nav-item-background--hover.shell-side-nav-item-background.text-left.px-2.w-full.items-center.flex.group\/shell-side-nav-item
+
+! Jan 1, 2025 https://webextension.org
+webextension.org###rate-us
+webextension.org##[href="#reviews"]
+webextension.org##[href^="mailto:andy.portmen@gmail.com"]
+webextension.org###donation > b
+webextension.org##[href^="https://www.paypal.com/cgi-bin/webscr"]
+webextension.org##.btc.bubble > div > .pointer
+webextension.org##.lightning.bubble > div > .pointer
+webextension.org###donation > div
+webextension.org###cookie > div
+webextension.org###adb > tbody > tr > td > div
+webextension.org###adb > tbody > tr > td
+
+! Jan 1, 2025 https://ocr.space
+||ocr.space/Content/Images/downArrow.png$image
+||ocr.space/Content/Images/downArrow.png$image
+||ocr.space/Content/Images/downArrow.png$image
+ocr.space###header > .row
+ocr.space###footer-bottom
+ocr.space##body > .row
+ocr.space##.bigborder
+ocr.space##.headline
+ocr.space##p:nth-of-type(10)
+ocr.space##p:nth-of-type(3)
+
+! Jan 1, 2025 https://searchtweaks.com
+||searchtweaks.com/src/mainback.png$image
+
+! Jan 1, 2025 https://www.oo-software.com
+www.oo-software.com##.footer2
+www.oo-software.com##.spacer-3x
+
+! Jan 1, 2025 https://www.bcuninstaller.com
+||img.shields.io/badge/donate-paypal%2Fbitcoin-brightgreen.svg$image
+www.bcuninstaller.com##.site-footer
+www.bcuninstaller.com###licensing-and-commercial-use
+www.bcuninstaller.com##p:nth-of-type(15)
+
+! Jan 1, 2025 https://www.fosshub.com
+www.fosshub.com###head-menu-cta-about > .n-cta__l
+www.fosshub.com###head-menu-cta-faq > .n-cta__l
+www.fosshub.com###head-menu-cta-contact > .n-cta__l
+www.fosshub.com##.vp
+www.fosshub.com##.block--center > .w
+www.fosshub.com##.fm__p > .block--center.nm
+www.fosshub.com##.fm__s
+www.fosshub.com##.pfm__p
+www.fosshub.com###fh-ss
+www.fosshub.com##.ad > .block--center
+www.fosshub.com##.ad
+
+! Jan 1, 2025 https://sourceforge.net
+sourceforge.net##.l-header-nav-bottom.sandiego > .row > .links
+sourceforge.net##.l-header-nav-bottom.sandiego > .row
+sourceforge.net##.links > [href="/software/vendors/"]
+sourceforge.net##.links > [href="/support"]
+sourceforge.net##.links > [href="/create/"]
+sourceforge.net##.show-for-large.l-header-nav-top.sandiego > .row
+sourceforge.net##.show-for-large.l-header-nav-top.sandiego
+sourceforge.net##[href="/projects/bulk-crap-uninstaller/support"]
+sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
+sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
+sourceforge.net##.m-rate-project.row > .columns.small-12
+sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
+sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw
+sourceforge.net###img_ithc48o1m8l161l1i0y
+sourceforge.net###img_ithc13861008p1i86e1h8f8gs8o8p
+sourceforge.net##.footer-wrapper
+sourceforge.net##.l-nav-bottom
+sourceforge.net##.m-wide-projects-widget.m-wide-widget > .as-header
+sourceforge.net##.m-wide-projects-widget.m-wide-widget > .body > ul > li
+sourceforge.net##.img_irrr0oroksh0o3okh6hzlorhz
+sourceforge.net###img_irrrgwogo3h8 > div
+sourceforge.net##.l-side-column
+sourceforge.net###img_irrrco50okojoih44o6vorhhhm
+
+! Jan 1, 2025 https://privacy.sexy
+privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"] > span
+privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"] > .icon.icon-container > .inline-icon > svg > path
+privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"]
+privacy.sexy##div.footer__section__item:nth-of-type(4)
+privacy.sexy##.brand.child
 
