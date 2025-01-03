@@ -1,6 +1,6 @@
 AdBlock filter that cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 
-**New!**: Blocks ugly fake/unofficial websites with ads and trackers
+**New!** Blocks ugly fake/unofficial websites with ads and trackers
 
 # Work in progress
 CutClut still doesn't cover most websites. You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites.
