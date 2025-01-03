@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 3 Jan 2025
-! Version: 4.7.5
+! Version: 4.8.5
 ! Syntax: AdBlock
 
 
@@ -153,7 +153,7 @@ www.google.co.in##a.MV3Tnb:nth-of-type(1)
 www.google.co.in##.gb_W
 www.google.co.in##a.pHiOh:nth-of-type(3)
 
-||ko-fi.com
+||ko-fi.com^
 
 ! Dec 31, 2024 https://getindie.wiki
 getindie.wiki##[href="privacy"]
@@ -499,3 +499,24 @@ browser-use.com##.items-center.justify-between.flex > .text-muted-foreground.tex
 ! Jan 3, 2025 https://www.betterbird.eu
 www.betterbird.eu##[href="../donate/index.html"]
 ||https://www.betterbird.eu/end-of-year
+
+! Jan 3, 2025 https://vault.bitwarden.com
+vault.bitwarden.com##div.\!tw-text-sm:nth-of-type(1)
+vault.bitwarden.com##div.\!tw-text-sm:nth-of-type(2)
+vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-border-b.tw-border-solid.tw-bg-clip-padding.tw-border-transparent.tw-text-main.tw-pl-4.tw-p-2.tw-gap-2.tw-items-center.tw-flex
+
+! Jan 3, 2025 https://xdaforums.com
+xdaforums.com##.p-footer-copyrightRow
+
+! Jan 3, 2025 https://libredirect.github.io
+libredirect.github.io##[href="./contact.html"]
+libredirect.github.io##[href="./donate.html"]
+
+! Jan 3, 2025 https://help.adblockplus.org
+help.adblockplus.org##.container.footer__wrapper
+help.adblockplus.org##.article-vote-controls
+help.adblockplus.org##.article-vote-question
+
+||cloudstream.ws^
+||https://vencord.app^
+||bloxstrap.org^
