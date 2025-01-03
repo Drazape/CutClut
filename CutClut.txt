@@ -3,8 +3,8 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 1 Jan 2025
-! Version: 4.6.5
+! Last modified: 3 Jan 2025
+! Version: 4.7.5
 ! Syntax: AdBlock
 
 
@@ -473,3 +473,29 @@ nsaneforums.com###elCopyright_userLine
 nsaneforums.com##[href="https://www.invisioncommunity.com/"]
 nsaneforums.com##li:nth-of-type(3) > [href="https://nsaneforums.com/contact/"]
 
+! Jan 1, 2025 https://rectify11.net
+rectify11.net##.footer
+
+! Jan 2, 2025 https://www.deviantart.com
+www.deviantart.com##._2tlvx.IAIzg._1yv1h.a75R0._2nKf8.reset-button
+||st.deviantart.net/badges/confetti_override.svg$image
+||st.deviantart.net/badges/confetti_override.svg$image
+www.deviantart.com##.NiJf1._2nWL_._3B6eV.ds-surface-tertiary
+www.deviantart.com##._20GZU > ._2wKSP > ._2pnwh > ._355-o.bvpjc.reset-button
+www.deviantart.com##._3IffI._1noJ6
+||st.deviantart.net/badges/confetti_override.svg$image
+
+! Jan 2, 2025 https://uxthemepatcher.com
+uxthemepatcher.com###jet-menu-item-131 > .top-level-link
+uxthemepatcher.com###jet-menu-item-102 > .top-level-link
+||www.google.com/recaptcha/api2/anchor?ar=1&k=6Leig88ZAAAAAFVBdglevZuYwfUR8bBksWFOQhvK&co=aHR0cHM6Ly91eHRoZW1lcGF0Y2hlci5jb206NDQz&hl=en&v=zIriijn3uj5Vpknvt_LnfNbF&size=invisible&cb=mh846icw9rs8$subdocument
+||i0.wp.com/uxthemepatcher.com/wp-content/uploads/2020/09/footer-home-6-line-bg.jpg?fit=1920%2C80&ssl=1$image
+||i0.wp.com/uxthemepatcher.com/wp-content/uploads/2020/09/footer-home-6-line-bg.jpg?fit=1920%2C80&ssl=1$image
+uxthemepatcher.com##.elementor-widget-text-editor.elementor-widget.elementor-element-4cb69726.elementor-element > .elementor-widget-container
+
+! Jan 3, 2025 https://browser-use.com
+browser-use.com##.items-center.justify-between.flex > .text-muted-foreground.text-sm
+
+! Jan 3, 2025 https://www.betterbird.eu
+www.betterbird.eu##[href="../donate/index.html"]
+||https://www.betterbird.eu/end-of-year
