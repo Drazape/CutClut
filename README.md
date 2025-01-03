@@ -14,4 +14,4 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 - [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and sometimes less-cluttered*) alternatives
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
 ---
-[Recommended setup](https://github.com/yokoffing/filterlists)
+[Recommended filters setup](https://github.com/yokoffing/filterlists)
