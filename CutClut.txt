@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 4.8.7
+! Version: 4.8.8
 ! Syntax: AdBlock
 
 
@@ -552,4 +552,11 @@ www.miruro.tv##.bWGwqM.Zisnx.sc-hMEFUH.sc-gCpwsF
 
 ! Jan 4, 2025 https://kuroiru.co
 kuroiru.co###content-footer
+
+! Jan 4, 2025 https://add0n.com
+add0n.com##[href^="mailto:stylus.openstyles@gmail.com"]
+
+! Jan 4, 2025 https://getgreenshot.org
+getgreenshot.org##.servicelinks
+getgreenshot.org##[href="/support/"]
 
