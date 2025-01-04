@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 4.8.6
+! Version: 4.8.7
 ! Syntax: AdBlock
 
 
@@ -516,15 +516,12 @@ libredirect.github.io##[href="./donate.html"]
 help.adblockplus.org##.container.footer__wrapper
 help.adblockplus.org##.article-vote-controls
 help.adblockplus.org##.article-vote-question
-
 ||cloudstream.ws^
 ||https://vencord.app^
 ||bloxstrap.org^
 
 ! Jan 4, 2025 AniList
 ||anilist.co/forum/thread/234^
-
-! Jan 4, 2025 https://anilist.co
 anilist.co##.router-link-active.router-link-exact-active.secondary-link
 anilist.co##.router-link-active.router-link-exact-active.link
 anilist.co##a.link:nth-of-type(2)
@@ -544,4 +541,15 @@ anilist.co##[href="/moderators"]
 anilist.co##[href="mailto:contact@anilist.co"]
 anilist.co##[href="/terms"]
 anilist.co##[href="/sitemap/index.xml"]
+
+! Jan 4, 2025 https://cloudstream-on-fleek-co.ipns.dweb.link
+cloudstream-on-fleek-co.ipns.dweb.link##.gap-2.rounded.text-base-content.bg-base-200.mt-15.p-10.footer-center.footer
+
+! Jan 4, 2025 https://www.miruro.tv
+www.miruro.tv##.dRihCi.sc-bKXUjo
+www.miruro.tv##.jQgLwV.sc-bKXUjo
+www.miruro.tv##.bWGwqM.Zisnx.sc-hMEFUH.sc-gCpwsF
+
+! Jan 4, 2025 https://kuroiru.co
+kuroiru.co###content-footer
 
