@@ -3,8 +3,8 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 3 Jan 2025
-! Version: 4.8.5
+! Last modified: 4 Jan 2025
+! Version: 4.8.6
 ! Syntax: AdBlock
 
 
@@ -520,3 +520,28 @@ help.adblockplus.org##.article-vote-question
 ||cloudstream.ws^
 ||https://vencord.app^
 ||bloxstrap.org^
+
+! Jan 4, 2025 AniList
+||anilist.co/forum/thread/234^
+
+! Jan 4, 2025 https://anilist.co
+anilist.co##.router-link-active.router-link-exact-active.secondary-link
+anilist.co##.router-link-active.router-link-exact-active.link
+anilist.co##a.link:nth-of-type(2)
+anilist.co##section > [href="/forum/thread/2340"]
+anilist.co##[href="#"]
+anilist.co##[href="https://anilist.co"]
+anilist.co##section > [href="/apps"]
+anilist.co##a.secondary-link:nth-of-type(1)
+anilist.co##[href="/site-stats"]
+anilist.co##[href="https://discord.gg/TF428cr"]
+anilist.co##[href="https://twitter.com/AniListco"]
+anilist.co##[href="https://bsky.app/profile/anilist.co"]
+anilist.co##[href="https://www.facebook.com/AniListco"]
+anilist.co##[href="https://github.com/AniList"]
+anilist.co##[href="https://submission-manual.anilist.co/"]
+anilist.co##[href="/moderators"]
+anilist.co##[href="mailto:contact@anilist.co"]
+anilist.co##[href="/terms"]
+anilist.co##[href="/sitemap/index.xml"]
+
