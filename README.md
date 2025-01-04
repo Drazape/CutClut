@@ -3,8 +3,10 @@ AdBlock filter that cleans websites by removing premium content ads, privacy pol
 **New!** Blocks ugly fake/unofficial websites with ADs and trackers
 
 # Work in progress
-CutClut still doesn't cover most websites. You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites.
- [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends).
+CutClut still doesn't cover most websites. You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
+
+## Why will some websites never be added?
+[Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
 
 ## Usage
 ### Automatic (*[U-block origin](https://ublockorigin.com)*)
