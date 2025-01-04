@@ -4,8 +4,121 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 4.8.8
+! Version: 5.9.8
 ! Syntax: AdBlock
+
+! Experimental global rules
+||*privacy*
+||*cookie*
+||*consent*
+||*gdpr*
+||*policy*
+||*terms*
+||*disclaimer*
+||*patreon*
+||*premium*
+||*subscription*
+||*membership*
+||*donate*
+||*sponsor*
+||*fundraiser*
+||*pledge*
+||*tipjar*
+||*supporter*
+##[id*="privacy"]
+##[class*="privacy"]
+##[src*="privacy"]
+##[href*="privacy"]
+##[id*="cookie"]
+##[class*="cookie"]
+##[src*="cookie"]
+##[href*="cookie"]
+##[id*="consent"]
+##[class*="consent"]
+##[src*="consent"]
+##[href*="consent"]
+##[id*="gdpr"]
+##[class*="gdpr"]
+##[src*="gdpr"]
+##[href*="gdpr"]
+##[id*="policy"]
+##[class*="policy"]
+##[src*="policy"]
+##[href*="policy"]
+##[id*="terms"]
+##[class*="terms"]
+##[src*="terms"]
+##[href*="terms"]
+##[id*="disclaimer"]
+##[class*="disclaimer"]
+##[src*="disclaimer"]
+##[href*="disclaimer"]
+##[id*="patreon"]
+##[class*="patreon"]
+##[src*="patreon"]
+##[href*="patreon"]
+##[id*="premium"]
+##[class*="premium"]
+##[src*="premium"]
+##[href*="premium"]
+##[id*="subscription"]
+##[class*="subscription"]
+##[src*="subscription"]
+##[href*="subscription"]
+##[id*="membership"]
+##[class*="membership"]
+##[src*="membership"]
+##[href*="membership"]
+##[id*="donate"]
+##[class*="donate"]
+##[src*="donate"]
+##[href*="donate"]
+##[id*="sponsor"]
+##[class*="sponsor"]
+##[src*="sponsor"]
+##[href*="sponsor"]
+##[id*="fundraiser"]
+##[class*="fundraiser"]
+##[src*="fundraiser"]
+##[href*="fundraiser"]
+##[id*="pledge"]
+##[class*="pledge"]
+##[src*="pledge"]
+##[href*="pledge"]
+##[id*="tipjar"]
+##[class*="tipjar"]
+##[src*="tipjar"]
+##[href*="tipjar"]
+##[id*="supporter"]
+##[class*="supporter"]
+##[src*="supporter"]
+##[href*="supporter"]
+##.cookie-consent
+##.cookie-banner
+##.gdpr-consent
+##.gdpr-banner
+##.privacy-notice
+##.privacy-popup
+##.patreon-banner
+##.patreon-popup
+##.premium-banner
+##.premium-popup
+##.subscription-banner
+##.subscription-popup
+##.membership-banner
+##.membership-popup
+##.donate-banner
+##.donate-popup
+##.sponsor-banner
+##.sponsor-popup
+##.fundraiser-banner
+##.fundraiser-popup
+##.pledge-banner
+##.pledge-popup
+##.tipjar-banner
+##.tipjar-popup
+##.supporter-banner
+##.supporter-popup
 
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
@@ -559,4 +672,9 @@ add0n.com##[href^="mailto:stylus.openstyles@gmail.com"]
 ! Jan 4, 2025 https://getgreenshot.org
 getgreenshot.org##.servicelinks
 getgreenshot.org##[href="/support/"]
+
+! Jan 4, 2025 https://10fastfingers.com
+||10fastfingers.com/img/layout-responsive^$image
+||img.10fastfingers.com/img/layout/background/patterns/dust.jpg$image
+10fastfingers.com##button.btn.btn-danger
 
