@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 5.9.10
+! Version: 5.9.11
 ! Syntax: AdBlock
 
 ! Experimental global rules
@@ -20,6 +20,8 @@
 ||*pledge*
 ||*tipjar*
 ||*supporter*
+||*copyright*
+||*advertis*
 ##[id*="policy"]
 ##[class*="policy"]
 ##[src*="policy"]
@@ -68,6 +70,14 @@
 ##[class*="supporter"]
 ##[src*="supporter"]
 ##[href*="supporter"]
+##[id*="copyright"]
+##[class*="copyright"]
+##[src*="copyright"]
+##[href*="copyright"]
+##[id*="advertis"]
+##[class*="advertis"]
+##[src*="advertis"]
+##[href*="advertis"]
 ##.patreon-banner
 ##.patreon-popup
 ##.premium-banner
@@ -86,7 +96,10 @@
 ##.tipjar-popup
 ##.supporter-banner
 ##.supporter-popup
-
+##.copyright-banner
+##.copyright-popup
+##.advertis-banner
+##.advertis-popup
 
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
