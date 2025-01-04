@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 5.9.8
+! Version: 5.9.9
 ! Syntax: AdBlock
 
 ! Experimental global rules
@@ -127,22 +127,16 @@ bw.projectsegfau.lt##.bw-top-banner
 ! Dec 24, 2024 https://blox-fruits.fandom.com
 blox-fruits.fandom.com##.global-top-navigation__start-new-wiki__anchor.global-top-navigation__link
 
-! Dec 24, 2024 https://bw.projectsegfau.lt
 bw.projectsegfau.lt##[href="https://gitdab.com/cadence/breezewiki"]
 ||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##[href="https://docs.breezewiki.com"]
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
 bw.projectsegfau.lt##p:nth-of-type(5)
 bw.projectsegfau.lt##p:nth-of-type(2)
 bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 
-! Dec 24, 2024 https://blox-fruits.fandom.com
 blox-fruits.fandom.com##lalala
 blox-fruits.fandom.com##.rwl-exempt
-||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
 ||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
 
 ! Dec 24, 2024 https://www.elevenforum.com
@@ -182,7 +176,6 @@ github.com##a.mr-2.Link:nth-of-type(1)
 
 ! Dec 25, 2024 https://bw.projectsegfau.lt
 ||bw.projectsegfau.lt/static/breezewiki.svg?t=1735097015$image
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735097015$image
 
 ! Dec 30, 2024 https://meet.google.com
 meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
@@ -200,7 +193,6 @@ www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-n
 www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 
-! Dec 30, 2024 https://userstyles.world
 userstyles.world##.copyright
 
 ! Dec 30, 2024 https://greasyfork.org
@@ -255,7 +247,6 @@ www.google.com##a.MV3Tnb:nth-of-type(1)
 www.google.com##.gb_W
 www.google.com##a.pHiOh:nth-of-type(3)
 
-! Dec 31, 2024 https://www.google.com
 www.google.co.in##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.co.in##.aajZCb > .lJ9FBc > center > .gNO89b
 www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh
@@ -272,7 +263,6 @@ www.google.co.in##a.pHiOh:nth-of-type(3)
 getindie.wiki##[href="privacy"]
 getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
 
-! Dec 31, 2024 https://www.google.com
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 
@@ -313,7 +303,6 @@ github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.text-light.text-small.flex-wrap.d-flex
 github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
 
-! Dec 31, 2024 https://getindie.wiki
 getindie.wiki##div.align-center.content.container:nth-of-type(9)
 getindie.wiki##div.align-center.content.container:nth-of-type(8)
 getindie.wiki##div.content:nth-of-type(8)
@@ -322,13 +311,11 @@ getindie.wiki##div.content:nth-of-type(8)
 ublockorigin.com##.author-attribution
 ublockorigin.com##.copyright > p
 
-! Dec 31, 2024 https://github.com
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
 
 ! Dec 31, 2024 https://legcord.app
 legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
 
-! Dec 31, 2024 https://github.com
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
 
@@ -354,7 +341,6 @@ steamcommunity.com###footerText
 steamcommunity.com###footer_spacer
 ||community.fastly.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1$image
 
-! Dec 31, 2024 https://store.steampowered.com
 store.steampowered.com##.footer_content
 store.steampowered.com###footer
 
@@ -407,8 +393,6 @@ webextension.org###adb > tbody > tr > td > div
 webextension.org###adb > tbody > tr > td
 
 ! Jan 1, 2025 https://ocr.space
-||ocr.space/Content/Images/downArrow.png$image
-||ocr.space/Content/Images/downArrow.png$image
 ||ocr.space/Content/Images/downArrow.png$image
 ocr.space###header > .row
 ocr.space###footer-bottom
@@ -518,7 +502,6 @@ support.microsoft.com###supWrapperToPreventFeedbackFlickering
 account.microsoft.com###O365_MainLink_Help > .o365cs-base
 ||assets.account.microsoft.com/family/compassassets/125e3018-3cdd-494a-9492-254d28a1f5b5.png?n=BackgroundImage$image
 ||assets.account.microsoft.com/family/compassassets/69e8bcf3-4d2f-45a5-8247-ef16b26a47e2.svg?n=GrayFeatureCardImageBackground.svg$image
-||assets.account.microsoft.com/family/compassassets/69e8bcf3-4d2f-45a5-8247-ef16b26a47e2.svg?n=GrayFeatureCardImageBackground.svg$image
 account.microsoft.com##.c-uhff-base
 account.microsoft.com###helpIcon_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
 account.microsoft.com###helpIcon_container
@@ -562,7 +545,6 @@ www.getblackbird.net##.ws12 > code
 ! Jan 1, 2025 https://namazso.github.io
 ||namazso.github.io/nanami-tan/demoness/html/nanami2016.png$image
 
-! Jan 1, 2025 https://sourceforge.net
 sourceforge.net###img_dggnatab5gign > div
 
 ! Jan 1, 2025 https://vsthemes.org
@@ -592,17 +574,14 @@ rectify11.net##.footer
 ! Jan 2, 2025 https://www.deviantart.com
 www.deviantart.com##._2tlvx.IAIzg._1yv1h.a75R0._2nKf8.reset-button
 ||st.deviantart.net/badges/confetti_override.svg$image
-||st.deviantart.net/badges/confetti_override.svg$image
 www.deviantart.com##.NiJf1._2nWL_._3B6eV.ds-surface-tertiary
 www.deviantart.com##._20GZU > ._2wKSP > ._2pnwh > ._355-o.bvpjc.reset-button
 www.deviantart.com##._3IffI._1noJ6
-||st.deviantart.net/badges/confetti_override.svg$image
 
 ! Jan 2, 2025 https://uxthemepatcher.com
 uxthemepatcher.com###jet-menu-item-131 > .top-level-link
 uxthemepatcher.com###jet-menu-item-102 > .top-level-link
 ||www.google.com/recaptcha/api2/anchor?ar=1&k=6Leig88ZAAAAAFVBdglevZuYwfUR8bBksWFOQhvK&co=aHR0cHM6Ly91eHRoZW1lcGF0Y2hlci5jb206NDQz&hl=en&v=zIriijn3uj5Vpknvt_LnfNbF&size=invisible&cb=mh846icw9rs8$subdocument
-||i0.wp.com/uxthemepatcher.com/wp-content/uploads/2020/09/footer-home-6-line-bg.jpg?fit=1920%2C80&ssl=1$image
 ||i0.wp.com/uxthemepatcher.com/wp-content/uploads/2020/09/footer-home-6-line-bg.jpg?fit=1920%2C80&ssl=1$image
 uxthemepatcher.com##.elementor-widget-text-editor.elementor-widget.elementor-element-4cb69726.elementor-element > .elementor-widget-container
 
@@ -677,4 +656,7 @@ getgreenshot.org##[href="/support/"]
 ||10fastfingers.com/img/layout-responsive^$image
 ||img.10fastfingers.com/img/layout/background/patterns/dust.jpg$image
 10fastfingers.com##button.btn.btn-danger
+
+! Jan 4, 2025 https://greasyfork.org
+||riedler.wien/sfto/darklearning/double_triangles_top_bottom_AAA.svg$image
 
