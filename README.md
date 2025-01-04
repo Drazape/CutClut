@@ -4,7 +4,7 @@ AdBlock filter that cleans websites by removing premium content ads, privacy pol
 
 # Work in progress
 CutClut still doesn't cover most websites. You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites.
- Websites with front-ends that remove all the clutter won't be accepted but you can request the front-end websites
+ Websites with front-ends that remove all the clutter won't be accepted but you can request the front-end websites.
 
 ## Usage
 ### Automatic (*[U-block origin](https://ublockorigin.com)*)
@@ -16,4 +16,4 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 - [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and sometimes less-cluttered*) alternatives
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
 ---
-[Recommended filters setup](https://github.com/yokoffing/filterlists)
+[Recommended filters setup](https://github.com/yokoffing/filterlists) (*I recommend additionally enabling [AdGuard ADs](https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt)*)
