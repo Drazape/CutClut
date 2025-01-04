@@ -4,20 +4,15 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 4 Jan 2025
-! Version: 5.9.9
+! Version: 5.9.10
 ! Syntax: AdBlock
 
 ! Experimental global rules
-||*privacy*
-||*cookie*
-||*consent*
-||*gdpr*
 ||*policy*
 ||*terms*
 ||*disclaimer*
 ||*patreon*
 ||*premium*
-||*subscription*
 ||*membership*
 ||*donate*
 ||*sponsor*
@@ -25,22 +20,6 @@
 ||*pledge*
 ||*tipjar*
 ||*supporter*
-##[id*="privacy"]
-##[class*="privacy"]
-##[src*="privacy"]
-##[href*="privacy"]
-##[id*="cookie"]
-##[class*="cookie"]
-##[src*="cookie"]
-##[href*="cookie"]
-##[id*="consent"]
-##[class*="consent"]
-##[src*="consent"]
-##[href*="consent"]
-##[id*="gdpr"]
-##[class*="gdpr"]
-##[src*="gdpr"]
-##[href*="gdpr"]
 ##[id*="policy"]
 ##[class*="policy"]
 ##[src*="policy"]
@@ -61,10 +40,6 @@
 ##[class*="premium"]
 ##[src*="premium"]
 ##[href*="premium"]
-##[id*="subscription"]
-##[class*="subscription"]
-##[src*="subscription"]
-##[href*="subscription"]
 ##[id*="membership"]
 ##[class*="membership"]
 ##[src*="membership"]
@@ -93,18 +68,10 @@
 ##[class*="supporter"]
 ##[src*="supporter"]
 ##[href*="supporter"]
-##.cookie-consent
-##.cookie-banner
-##.gdpr-consent
-##.gdpr-banner
-##.privacy-notice
-##.privacy-popup
 ##.patreon-banner
 ##.patreon-popup
 ##.premium-banner
 ##.premium-popup
-##.subscription-banner
-##.subscription-popup
 ##.membership-banner
 ##.membership-popup
 ##.donate-banner
@@ -119,6 +86,7 @@
 ##.tipjar-popup
 ##.supporter-banner
 ##.supporter-popup
+
 
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
