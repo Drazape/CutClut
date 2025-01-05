@@ -3,8 +3,8 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 4 Jan 2025
-! Version: 5.9.11
+! Last modified: 5 Jan 2025
+! Version: 6.9.11
 ! Syntax: AdBlock
 
 ! Experimental global rules
@@ -100,6 +100,8 @@
 ##.copyright-popup
 ##.advertis-banner
 ##.advertis-popup
+
+
 
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
@@ -640,4 +642,52 @@ getgreenshot.org##[href="/support/"]
 
 ! Jan 4, 2025 https://greasyfork.org
 ||riedler.wien/sfto/darklearning/double_triangles_top_bottom_AAA.svg$image
+
+! Jan 4, 2025 https://myanimelist.net
+myanimelist.net##.ga-impression.bottom-bar
+
+! Jan 4, 2025 https://copilot.microsoft.com
+copilot.microsoft.com##.pr-14.sm\:pl-10.sm\:gap-8.pl-7.gap-2\.5.dark\:border-slate-450\/40.border-saddle-250.border.mb-14.py-5.rounded-7xl.flex.relative
+
+! Jan 5, 2025 https://f-droid.org
+f-droid.org##a.page-link:nth-of-type(6)
+
+! Jan 5, 2025 https://forum.mobilism.org
+forum.mobilism.org##.bottomLinks.row-fluid
+forum.mobilism.org##p:nth-of-type(2)
+
+! Jan 5, 2025 https://jytechs.in
+jytechs.in##div.report > .btn-danger.btn
+
+! Jan 5, 2025 https://flash.getpczone.com
+flash.getpczone.com###news_last
+flash.getpczone.com##footer
+flash.getpczone.com###footer2
+flash.getpczone.com##.menufooter
+flash.getpczone.com##header
+flash.getpczone.com##.txt
+flash.getpczone.com##[class*="banner"]
+flash.getpczone.com##li:nth-of-type(n+1):nth-of-type(-n+8)
+
+! Jan 5, 2025 https://upfiles-urls.com
+upfiles-urls.com##fieldset
+upfiles-urls.com##footer
+upfiles-urls.com##.container > h2
+upfiles-urls.com##.col-lg-4
+upfiles-urls.com##.faqs > .container > .row
+upfiles-urls.com##header
+upfiles-urls.com##.spacer
+
+! Jan 5, 2025 https://flash.getpczone.com
+flash.getpczone.com##.report
+
+! Jan 5, 2025 https://katfile.com
+katfile.com##footer > .container-fluid
+katfile.com##.navbar-collapse.collapse
+katfile.com##.navbar-static-top.navbar-default.navbar > .container-fluid
+katfile.com##.navbar-static-top.navbar-default.navbar
+katfile.com##strong > [href^="https://katfile.com/"]
+katfile.com##span.sp:nth-of-type(1)
+katfile.com##span.sp:nth-of-type(2)
+katfile.com##div.container:nth-of-type(1)
 
