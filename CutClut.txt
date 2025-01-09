@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 5 Jan 2025
-! Version: 6.9.11
+! Version: 6.10.11
 ! Syntax: AdBlock
 
 ! Experimental global rules
@@ -690,4 +690,57 @@ katfile.com##strong > [href^="https://katfile.com/"]
 katfile.com##span.sp:nth-of-type(1)
 katfile.com##span.sp:nth-of-type(2)
 katfile.com##div.container:nth-of-type(1)
+
+! Jan 5, 2025 https://app.fing.com
+app.fing.com##.text-center.text-muted
+
+! Jan 5, 2025 https://jytechs.in
+jytechs.in##.navbar-expand-lg.navbar
+jytechs.in##div#about.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(1)
+jytechs.in##div.mb-4.aboutFile.col-md-12.col-lg-6 > .aboutSite
+jytechs.in##.aboutDis
+jytechs.in##.position-absolute.p-5.footer
+
+! Jan 5, 2025 https://aistudio.google.com
+aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger > .mat-focus-indicator
+aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger > .notranslate.material-symbols-outlined
+aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger
+
+! Jan 5, 2025 https://frdl.to
+frdl.to##.d-sm-block.d-none.report > .btn-danger.btn
+frdl.to##.fixed-top.bg-freedlink.header
+frdl.to##.my-4.download-btn
+frdl.to##ol
+frdl.to##.seperate
+frdl.to##.footer
+frdl.to###fdmMsg
+
+! Jan 5, 2025 https://www.dropbox.com
+www.dropbox.com##.dig-Banner--withIcon.dig-Banner--withCloseButton.dig-ekabin2b_3-10-0.dig-w54z3ih_21-2-2.dig-w54z3id_21-2-2.dig-w54z3ic_21-2-2.dig-w54z3i5_21-2-2.dig-w54z3ie_21-2-2.dig-w54z3ia_21-2-2.dig-w54z3i4_21-2-2.dig-Banner--basic.dig-Banner--attention.dig-Banner
+www.dropbox.com##.dig-1f09ta218_21-2-2.dig-1f09ta24_21-2-2.dig-Button-content
+www.dropbox.com##.account-menu-v2__quota-bar-btn.dig-1f09ta220_21-2-2.dig-1f09ta21r_21-2-2.dig-1f09ta21k_21-2-2.dig-1f09ta21p_21-2-2.dig-1f09ta21i_21-2-2.dig-1f09ta212_21-2-2.dig-1f09ta210_21-2-2.dig-t4vtb5c_21-2-2.dig-1f09ta2t_21-2-2.dig-1f09ta23_21-2-2.dig-Button-tone--neutral.dig-Button--small.dig-Button--transparent.dig-Button > .dig-1f09ta21e_21-2-2.dig-1f09ta21d_21-2-2.dig-1f09ta24_21-2-2.dig-Button-content
+
+! 08-Jan-2025 https://github.com
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-items-center.flex-justify-center.d-flex.f6.mt-6.py-6.p-responsive.container-lg.footer
+
+! 08-Jan-2025 https://webextension.org
+webextension.org##[href="#contact"]
+webextension.org###translate
+webextension.org##.darker
+webextension.org##footer:nth-of-type(1)
+webextension.org###contact
+||docs.zoho.com/forms/published.do?rid=03mtu961b743388af4aafa9dd568af06564bb$subdocument
+webextension.org###join > h2
+webextension.org###join > .content > p
+
+! 08-Jan-2025 https://bypass.vip
+bypass.vip##footer
+bypass.vip##header [href="https://bypass.vip/discord"]
+
+! 09-Jan-2025 https://tubestamp.com
+tubestamp.com##.footer-bottom
+
+! 09-Jan-2025 https://bumpups.com
+bumpups.com##.footer-container
+bumpups.com##.cookie-bar
 
