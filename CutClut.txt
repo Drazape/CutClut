@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 5 Jan 2025
-! Version: 6.10.12
+! Version: 6.11.13
 ! Syntax: AdBlock
 
-! Experimental global rules
+! Experimental global rules (applied until WIP)
 ||*policy*
 ||*terms*
 ||*disclaimer*
@@ -755,3 +755,30 @@ x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-p1pxz
 
 ! 10-Jan-2025 https://www.roblox.com
 www.roblox.com##.small.text-name
+
+! 15 Jan 2025 https://x.com
+x.com##.r-1mmae3n.r-1777fci.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
+
+! 15 Jan 2025 https://10minemail.com
+10minemail.com##.main-header
+10minemail.com##.temp-emailbox-text > p
+10minemail.com##.mid-intro-text
+10minemail.com##.section-populer-article
+10minemail.com##.bottom-seo-text
+10minemail.com##.page-footer
+10minemail.com##.temp-emailbox > h2
+
+! 15 Jan 2025 https://client-api.arkoselabs.com
+client-api.arkoselabs.com##.text.embeddedSessionID.kBxvZx.guHXDK.sc-1v6atg6-0.sc-1io4bok-0
+
+! 15 Jan 2025 https://search.bus-hit.me
+search.bus-hit.me##footer
+
+! 15 Jan 2025 https://xcancel.com
+xcancel.com##div.nav-item > [href="/about"]
+
+! 15 Jan 2025 https://x.com
+x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
+@@||api.x.com/graphql
+@@||abs.twimg.com/responsive-web/client-web/shared~bundle.Communities~ondemand.SettingsInternals~ondemand.SettingsRevamp~bundle.PremiumHub~bundle.Profess.7e0f9dca.js
+
