@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 5 Jan 2025
-! Version: 6.11.13
+! Version: 6.11.14
 ! Syntax: AdBlock
 
 ! Experimental global rules (applied until WIP)
@@ -781,4 +781,10 @@ xcancel.com##div.nav-item > [href="/about"]
 x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
 @@||api.x.com/graphql
 @@||abs.twimg.com/responsive-web/client-web/shared~bundle.Communities~ondemand.SettingsInternals~ondemand.SettingsRevamp~bundle.PremiumHub~bundle.Profess.7e0f9dca.js
+
+! 15 Jan 2025 https://docs.github.com
+docs.github.com##div.col-xl-3.col-lg-6.col-12.mb-xl-0.mb-6.pr-4.float-left > .f5
+docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
+docs.github.com##.contribution.f5
+docs.github.com##.f3
 
