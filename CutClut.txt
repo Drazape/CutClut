@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 5 Jan 2025
-! Version: 6.11.14
+! Version: 6.11.15
 ! Syntax: AdBlock
 
 ! Experimental global rules (applied until WIP)
@@ -774,17 +774,22 @@ client-api.arkoselabs.com##.text.embeddedSessionID.kBxvZx.guHXDK.sc-1v6atg6-0.sc
 ! 15 Jan 2025 https://search.bus-hit.me
 search.bus-hit.me##footer
 
-! 15 Jan 2025 https://xcancel.com
+! 15 Jan 2025 Xcancel
 xcancel.com##div.nav-item > [href="/about"]
 
-! 15 Jan 2025 https://x.com
+! 15 Jan 2025 X
 x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
 @@||api.x.com/graphql
 @@||abs.twimg.com/responsive-web/client-web/shared~bundle.Communities~ondemand.SettingsInternals~ondemand.SettingsRevamp~bundle.PremiumHub~bundle.Profess.7e0f9dca.js
 
-! 15 Jan 2025 https://docs.github.com
+! 15 Jan 2025 GitHub Docs
 docs.github.com##div.col-xl-3.col-lg-6.col-12.mb-xl-0.mb-6.pr-4.float-left > .f5
 docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 docs.github.com##.contribution.f5
 docs.github.com##.f3
+
+! 15 Jan 2025 BetterDiscord
+||camo.githubusercontent.com/826e4f512bfb7cec2b18f14a05d2f08b17b4e9d48c21119d542755f8ed70f22e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50617950616c266d6573736167653d446f6e617465267374796c653d666c6174266c6f676f3d70617970616c26636f6c6f723d626c7565$image
+betterdiscord.app##a.nav-item:nth-of-type(4)
+betterdiscord.app##div.footer-column:nth-of-type(4)
 
