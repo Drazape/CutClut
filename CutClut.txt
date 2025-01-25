@@ -3,105 +3,9 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 5 Jan 2025
-! Version: 6.11.15
+! Last modified: 25 Jan 2025
+! Version: 6.12.15
 ! Syntax: AdBlock
-
-! Experimental global rules (applied until WIP)
-||*policy*
-||*terms*
-||*disclaimer*
-||*patreon*
-||*premium*
-||*membership*
-||*donate*
-||*sponsor*
-||*fundraiser*
-||*pledge*
-||*tipjar*
-||*supporter*
-||*copyright*
-||*advertis*
-##[id*="policy"]
-##[class*="policy"]
-##[src*="policy"]
-##[href*="policy"]
-##[id*="terms"]
-##[class*="terms"]
-##[src*="terms"]
-##[href*="terms"]
-##[id*="disclaimer"]
-##[class*="disclaimer"]
-##[src*="disclaimer"]
-##[href*="disclaimer"]
-##[id*="patreon"]
-##[class*="patreon"]
-##[src*="patreon"]
-##[href*="patreon"]
-##[id*="premium"]
-##[class*="premium"]
-##[src*="premium"]
-##[href*="premium"]
-##[id*="membership"]
-##[class*="membership"]
-##[src*="membership"]
-##[href*="membership"]
-##[id*="donate"]
-##[class*="donate"]
-##[src*="donate"]
-##[href*="donate"]
-##[id*="sponsor"]
-##[class*="sponsor"]
-##[src*="sponsor"]
-##[href*="sponsor"]
-##[id*="fundraiser"]
-##[class*="fundraiser"]
-##[src*="fundraiser"]
-##[href*="fundraiser"]
-##[id*="pledge"]
-##[class*="pledge"]
-##[src*="pledge"]
-##[href*="pledge"]
-##[id*="tipjar"]
-##[class*="tipjar"]
-##[src*="tipjar"]
-##[href*="tipjar"]
-##[id*="supporter"]
-##[class*="supporter"]
-##[src*="supporter"]
-##[href*="supporter"]
-##[id*="copyright"]
-##[class*="copyright"]
-##[src*="copyright"]
-##[href*="copyright"]
-##[id*="advertis"]
-##[class*="advertis"]
-##[src*="advertis"]
-##[href*="advertis"]
-##.patreon-banner
-##.patreon-popup
-##.premium-banner
-##.premium-popup
-##.membership-banner
-##.membership-popup
-##.donate-banner
-##.donate-popup
-##.sponsor-banner
-##.sponsor-popup
-##.fundraiser-banner
-##.fundraiser-popup
-##.pledge-banner
-##.pledge-popup
-##.tipjar-banner
-##.tipjar-popup
-##.supporter-banner
-##.supporter-popup
-##.copyright-banner
-##.copyright-popup
-##.advertis-banner
-##.advertis-popup
-
-
 
 
 ! Dec 24, 2024 https://bw.projectsegfau.lt
@@ -756,7 +660,7 @@ x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-p1pxz
 ! 10-Jan-2025 https://www.roblox.com
 www.roblox.com##.small.text-name
 
-! 15 Jan 2025 https://x.com
+! 15 Jan 2025 X (Twitter)
 x.com##.r-1mmae3n.r-1777fci.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
 
 ! 15 Jan 2025 https://10minemail.com
@@ -777,12 +681,12 @@ search.bus-hit.me##footer
 ! 15 Jan 2025 Xcancel
 xcancel.com##div.nav-item > [href="/about"]
 
-! 15 Jan 2025 X
+! 15 Jan 2025 X (Twitter)
 x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
 @@||api.x.com/graphql
 @@||abs.twimg.com/responsive-web/client-web/shared~bundle.Communities~ondemand.SettingsInternals~ondemand.SettingsRevamp~bundle.PremiumHub~bundle.Profess.7e0f9dca.js
 
-! 15 Jan 2025 GitHub Docs
+! 15 Jan 2025 GitHub docs
 docs.github.com##div.col-xl-3.col-lg-6.col-12.mb-xl-0.mb-6.pr-4.float-left > .f5
 docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 docs.github.com##.contribution.f5
@@ -793,3 +697,29 @@ docs.github.com##.f3
 betterdiscord.app##a.nav-item:nth-of-type(4)
 betterdiscord.app##div.footer-column:nth-of-type(4)
 
+! 19 Jan 2025 https://www.hikvision.com
+www.hikvision.com##.lang-a
+www.hikvision.com##.footer-body-content
+www.hikvision.com##.at-action.floating-pop-btn
+www.hikvision.com##.active.partner-nav-item.nav-left-item > .fis-title.cn-header-a.at-navigation
+www.hikvision.com##.active.partner-nav-item.nav-left-item
+
+! 19 Jan 2025 http://192.168.29.34
+192.168.29.34##.footer
+192.168.29.34##.ui-layout-pane-south.ui-layout-pane.layout-south
+192.168.29.34##.privacyTip-login.login-item > .ellipsis.ng-binding
+
+! 19 Jan 2025 https://supportusa.hikvision.com
+supportusa.hikvision.com##.footer-bottom-font
+
+! 25 Jan 2025 https://copilot.microsoft.com
+copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
+
+! 25 Jan 2025 https://semver.org
+semver.org##p:nth-of-type(28)
+
+! 25 Jan 2025 https://heck.ai
+heck.ai##.w-\[260px\].px-4.bottom-4.absolute > .justify-between.flex
+
+! 25 Jan 2025 https://account.microsoft.com
+account.microsoft.com##.root-272.ms-Button--primary.ms-Button
