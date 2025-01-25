@@ -19,5 +19,3 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
----
-[Recommended filters setup](https://github.com/yokoffing/filterlists) (*I recommend additionally enabling [AdGuard ADs](https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt)*)
