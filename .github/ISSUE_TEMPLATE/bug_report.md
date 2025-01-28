@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Site URL
-The issue is on the site [**example.net**](https://example.net)
+[**example.net**](https://example.net)
  
 # problem being faced
 describe the issue you are facing on the site
