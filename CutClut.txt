@@ -1,9 +1,10 @@
+[Adblock Plus]
 ! Title: CutClut
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 25 Jan 2025
-! Version: 6.12.15
+! Last modified: 1 Feb 2025
+! Version: 6.12.16
 ! Syntax: AdBlock
 
 
@@ -387,7 +388,6 @@ support.microsoft.com###supWrapperToPreventFeedbackFlickering
 ! Jan 1, 2025 https://account.microsoft.com
 account.microsoft.com###O365_MainLink_Help > .o365cs-base
 ||assets.account.microsoft.com/family/compassassets/125e3018-3cdd-494a-9492-254d28a1f5b5.png?n=BackgroundImage$image
-||assets.account.microsoft.com/family/compassassets/69e8bcf3-4d2f-45a5-8247-ef16b26a47e2.svg?n=GrayFeatureCardImageBackground.svg$image
 account.microsoft.com##.c-uhff-base
 account.microsoft.com###helpIcon_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
 account.microsoft.com###helpIcon_container
@@ -720,5 +720,20 @@ semver.org##p:nth-of-type(28)
 ! 25 Jan 2025 https://heck.ai
 heck.ai##.w-\[260px\].px-4.bottom-4.absolute > .justify-between.flex
 
-! 25 Jan 2025 https://account.microsoft.com
+! 25 Jan 2025 Microsoft account
 account.microsoft.com##.root-272.ms-Button--primary.ms-Button
+||assets.account.microsoft.com/family/compassassets/*.svg?n=GrayFeatureCardImageBackground.svg$image
+
+! 25 Jan 2025 https://chatgpt.com
+chatgpt.com##.\@lg\/thread\:left-0.\@lg\/thread\:bottom-0.\@lg\/thread\:absolute.md\:px-\[60px\].empty\:hidden.text-token-text-secondary.text-xs.text-center.py-2.px-2.w-full
+
+! 25 Jan 2025 https://auth.openai.com
+auth.openai.com##.oai-footer
+auth.openai.com##button.social-btn:nth-of-type(3)
+
+! 25 Jan 2025 ChatGPT
+chatgpt.com##.px-2.m-0.rounded-lg.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
+
+! 1 Feb 2025 Google Drive
+drive.google.com##.M1zY4b.bMWlzf
+
