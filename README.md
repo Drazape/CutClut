@@ -1,4 +1,5 @@
 AdBlock filter that cleans websites by removing premium content ads, privacy policies, and other unnecessary elements and also blocks ugly fake/unofficial websites with ADs and trackers providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
+
 **New!**: attempts to bypass bot verifications
 
 ### Why will some websites never be added?
