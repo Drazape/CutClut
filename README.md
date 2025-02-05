@@ -1,6 +1,5 @@
-AdBlock filter that cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
-
-**New!** Blocks ugly fake/unofficial websites with ADs and trackers
+AdBlock filter that cleans websites by removing premium content ads, privacy policies, and other unnecessary elements and also blocks ugly fake/unofficial websites with ADs and trackers providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
+**New!**: attempts to bypass bot verifications
 
 ### Why will some websites never be added?
 [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
