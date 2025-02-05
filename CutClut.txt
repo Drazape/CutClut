@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 5 Feb 2025
-! Version: 6.12.17
+! Version: 6.13.17
 ! Syntax: AdBlock
 
 
@@ -747,4 +747,52 @@ cutt.ly##.copyright-text > p
 cutt.ly##div.col-sm-4.col-md-3:nth-of-type(4)
 cutt.ly##.arrow-up
 cutt.ly##.col-sm-12.col-md-3
+
+! 5 Feb 2025 https://www.mediafire.com
+www.mediafire.com##.MFDiscountOffer
+www.mediafire.com##.lifetime-promo
+www.mediafire.com##.footer
+www.mediafire.com##.header
+
+! 5 Feb 2025 https://marketplace.visualstudio.com
+marketplace.visualstudio.com###report
+marketplace.visualstudio.com##[href^="mailto:vsmarketplace@microsoft.com"]
+marketplace.visualstudio.com##[href^="https://www.twitter.com/home"]
+marketplace.visualstudio.com##.item-share-container > [href^="mailto:"]
+marketplace.visualstudio.com###baseFooter
+
+! 5 Feb 2025 https://helpx.adobe.com
+helpx.adobe.com##.sticker
+helpx.adobe.com##.aem-GridColumn--default--12.aem-GridColumn.legal-notices.text.legalNotices > .cmp-text > p
+helpx.adobe.com##.gnavFooter > .feds-navBar-wrapper
+helpx.adobe.com##.container.grid-container
+helpx.adobe.com##.helpx-footer
+helpx.adobe.com##.aem-GridColumn--default--12.aem-GridColumn.feedbackV2
+helpx.adobe.com##.dexter-FlexContainer--mobileAlignItemContentCenter.dexter-FlexContainer--mobileAlignContentCenter.dexter-FlexContainer--mobileAlignItemCenter.dexter-FlexContainer--mobileJustifyCenter.dexter-FlexContainer-Items
+helpx.adobe.com###gnt_490_3 > .feds-navLink
+helpx.adobe.com###gnt_621 > .feds-navLink-contentWrapper
+helpx.adobe.com##.sections--logged-out.plan-card__sections
+helpx.adobe.com###gnt_490_6 > .feds-navList-wrapper
+
+! 5 Feb 2025 https://www.adobe.com
+www.adobe.com##.fragment.georouting-wrapper
+www.adobe.com##.is-open.modal-curtain
+www.adobe.com##circle
+www.adobe.com##.dialog-close > svg
+www.adobe.com##.dialog-close
+
+! 5 Feb 2025 https://creativecloud.adobe.com
+creativecloud.adobe.com##._3zbbX3jLQvy1GJbggH3Rvn
+creativecloud.adobe.com##.primary-signin-btn._131hIB4VaG4wTkmVsFk3XZ.spectrum-Button--primary.spectrum-Button
+creativecloud.adobe.com###unav-help > svg
+creativecloud.adobe.com##span:nth-of-type(2)
+creativecloud.adobe.com##._1nLTjmCtG8kdOilr4cqgq9
+creativecloud.adobe.com##.luoS9a70AhqLhYATU4U41 > span
+creativecloud.adobe.com##.home-component.feedback-survey
+creativecloud.adobe.com##.footer-top
+creativecloud.adobe.com##.footer-bottom
+creativecloud.adobe.com##.cOAJg6tYnT_qgDLICQXjF
+creativecloud.adobe.com##._2vptxiQbl6JUHoXjyDcLn
+creativecloud.adobe.com##.Y_vkSOM6GkzHRWfnm1dWA
+creativecloud.adobe.com##._20wMjdugmJjqypcF4WKjRl
 
