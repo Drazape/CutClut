@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 1 Feb 2025
-! Version: 6.12.16
+! Version: 6.12.17
 ! Syntax: AdBlock
 
 
@@ -682,8 +682,6 @@ xcancel.com##div.nav-item > [href="/about"]
 
 ! 15 Jan 2025 X (Twitter)
 x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
-@@||api.x.com/graphql
-@@||abs.twimg.com/responsive-web/client-web/shared~bundle.Communities~ondemand.SettingsInternals~ondemand.SettingsRevamp~bundle.PremiumHub~bundle.Profess.7e0f9dca.js
 
 ! 15 Jan 2025 GitHub docs
 docs.github.com##div.col-xl-3.col-lg-6.col-12.mb-xl-0.mb-6.pr-4.float-left > .f5
@@ -720,7 +718,7 @@ semver.org##p:nth-of-type(28)
 ! 25 Jan 2025 https://heck.ai
 heck.ai##.w-\[260px\].px-4.bottom-4.absolute > .justify-between.flex
 
-! 25 Jan 2025 Microsoft account
+! 25 Jan 2025 https://account.microsoft.com
 account.microsoft.com##.root-272.ms-Button--primary.ms-Button
 ||assets.account.microsoft.com/family/compassassets/*.svg?n=GrayFeatureCardImageBackground.svg$image
 
@@ -731,9 +729,22 @@ chatgpt.com##.\@lg\/thread\:left-0.\@lg\/thread\:bottom-0.\@lg\/thread\:absolute
 auth.openai.com##.oai-footer
 auth.openai.com##button.social-btn:nth-of-type(3)
 
-! 25 Jan 2025 ChatGPT
+! 25 Jan 2025 https://chatgpt.com
 chatgpt.com##.px-2.m-0.rounded-lg.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
 
-! 1 Feb 2025 Google Drive
+! 1 Feb 2025 https://drive.google.com
 drive.google.com##.M1zY4b.bMWlzf
+
+! 3 Feb 2025 https://cloudstream.miraheze.org
+cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy"]
+cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Terms_of_Use"]
+cloudstream.miraheze.org##[href="/wiki/CloudStream_Wiki:General_disclaimer"]
+cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Donate"]
+cloudstream.miraheze.org##.citizen-footer__bottom
+
+! 3 Feb 2025 https://cutt.ly
+cutt.ly##.copyright-text > p
+cutt.ly##div.col-sm-4.col-md-3:nth-of-type(4)
+cutt.ly##.arrow-up
+cutt.ly##.col-sm-12.col-md-3
 
