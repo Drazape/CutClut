@@ -19,7 +19,7 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 ### Manual (*others*)
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
   - Manually download and import
-## Recommended extensions for further clutter-cutting
+## Recommended tools for further clutter-cutting
 - [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and sometimes less-cluttered*) alternatives
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
