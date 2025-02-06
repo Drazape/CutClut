@@ -25,8 +25,8 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
 - User-scripts
-  - [**ChromeXT**]: Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
-     - [**LSposed**]: A Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework
+  - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
+     - [**LSposed**](https://github.com/JingMatrix/LSPosed): A Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework
   - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open source userscript manager for browsers (*user scripts can enhance UI*)
     - [**GreasyFork**](https://greasyfork.org): User scripts repository
