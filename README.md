@@ -32,6 +32,6 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
     - [**GreasyFork**](https://greasyfork.org): User scripts repository
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
-     - *Background*: a dark color chosen from your wallpaper
-     - *text*: a light shade of the background color
-     - *visited link*: opposite (*light*) colour of the text color
+     - **Background**: a dark color chosen from your wallpaper
+     - **text**: a light shade of the background color
+     - **visited link**: opposite (*light*) colour of the text color
