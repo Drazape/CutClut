@@ -29,7 +29,6 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
   - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
   - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open source userscript manager for browsers
-    - [**GreasyFork**](https://greasyfork.org): User-scripts repository
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
      - **Background**: a dark color chosen from your wallpaper
