@@ -29,7 +29,7 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
      - [**LSposed**](https://github.com/JingMatrix/LSPosed): A Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework
   - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open source userscript manager for browsers
-    - [**GreasyFork**](https://greasyfork.org): User scripts repository
+    - [**GreasyFork**](https://greasyfork.org): User-scripts repository
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
      - **Background**: a dark color chosen from your wallpaper
