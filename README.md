@@ -11,7 +11,8 @@ AdBlock filter that
 [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
 
 # Work in progress
-CutClut currently covers very few websites. You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
+CutClut currently covers very few websites.
+You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
 
 ## Usage
 ### Automatic (*[U-block origin](https://ublockorigin.com)*)
