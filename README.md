@@ -27,7 +27,6 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
 - User-scripts (*they can enhance UI*)
   - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
-     - [**LSposed**](https://github.com/JingMatrix/LSPosed): A Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework
   - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open source userscript manager for browsers
     - [**GreasyFork**](https://greasyfork.org): User-scripts repository
