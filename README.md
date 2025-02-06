@@ -24,3 +24,6 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
+- [**ViolentMonkey**](https://violentmonkey.github.io)
+: An open source userscript manager for browsers (*user scripts can enhance UI*)
+  - [**GreasyFork**](https://greasyfork.org): User scripts repository
