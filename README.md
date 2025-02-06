@@ -34,4 +34,4 @@ CutClut still doesn't cover most websites. You can [create a *site request* issu
   - recommended setup
      - *Background*: a dark color chosen from your wallpaper
      - *text color*: a light shade of the background color
-     - *visited link color*: opposite (*light* colour of the text color
+     - *visited link color*: opposite (*light*) colour of the text color
