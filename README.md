@@ -1,4 +1,3 @@
-# CutClut
 AdBlock filter that
 - cleans websites by removing
   - premium content ads
