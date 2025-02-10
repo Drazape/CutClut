@@ -21,13 +21,6 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
   - Manually download and import
 ## Recommended tools for further clutter-cutting
-### Redirection
-- [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and mostly less-cluttered*) alternatives
-- [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
-### User-scripts (*they can enhance UI*)
-- [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
-- [**ViolentMonkey**](https://violentmonkey.github.io)
-: An open source userscript manager for browsers
 ### Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
@@ -36,3 +29,10 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
      - **visited link**: opposite (*light*) colour of the text color
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
+### Redirection
+- [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and mostly less-cluttered*) alternatives
+- [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
+### User-scripts (*they can enhance UI*)
+- [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
+- [**ViolentMonkey**](https://violentmonkey.github.io)
+: An open source userscript manager for browsers
