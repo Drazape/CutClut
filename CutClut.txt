@@ -3,8 +3,8 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 8 Feb 2025
-! Version: 6.13.18
+! Last modified: 11 Feb 2025
+! Version: 6.13.19
 ! Syntax: AdBlock
 
 
@@ -796,7 +796,10 @@ creativecloud.adobe.com##._2vptxiQbl6JUHoXjyDcLn
 creativecloud.adobe.com##.Y_vkSOM6GkzHRWfnm1dWA
 creativecloud.adobe.com##._20wMjdugmJjqypcF4WKjRl
 
-! 8 Feb 2025 https://www.google.com
+! 8 Feb 2025 Google
 www.google.com##.mWcf0e.WzNHm > .LRZwuc.VfL2Y
 www.google.com###GzLgge
+
+! 11 Feb 2025 GitHub
+github.com##.mr-2.Button.Button--small.Button--secondary
 
