@@ -12,8 +12,7 @@ bw.projectsegfau.lt##[href="https://gitdab.com/cadence/breezewiki"]
 ||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##[href="https://docs.breezewiki.com"]
 bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
-bw.projectsegfau.lt##p:nth-of-type(5)
-bw.projectsegfau.lt##p:nth-of-type(2)
+bw.projectsegfau.lt##p:nth-of-type(2,5)
 bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
 blox-fruits.fandom.com##lalala
 blox-fruits.fandom.com##.rwl-exempt
