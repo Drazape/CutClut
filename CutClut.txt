@@ -1,19 +1,13 @@
-[Adblock Plus]
 ! Title: CutClut
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 11 Feb 2025
-! Version: 6.13.19
+! Version: 6.14.19
 ! Syntax: AdBlock
 
-
-! Dec 24, 2024 https://bw.projectsegfau.lt
 bw.projectsegfau.lt##.bw-top-banner
-
-! Dec 24, 2024 https://blox-fruits.fandom.com
 blox-fruits.fandom.com##.global-top-navigation__start-new-wiki__anchor.global-top-navigation__link
-
 bw.projectsegfau.lt##[href="https://gitdab.com/cadence/breezewiki"]
 ||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##[href="https://docs.breezewiki.com"]
@@ -21,12 +15,9 @@ bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
 bw.projectsegfau.lt##p:nth-of-type(5)
 bw.projectsegfau.lt##p:nth-of-type(2)
 bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
-
 blox-fruits.fandom.com##lalala
 blox-fruits.fandom.com##.rwl-exempt
 ||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
-
-! Dec 24, 2024 https://www.elevenforum.com
 www.elevenforum.com##.js-styleVariationsLink.p-navgroup-link--variations.p-navgroup-link--iconic.p-navgroup-link
 www.elevenforum.com##.xb-footer-block-1.xb-footer-block
 www.elevenforum.com##.p-footer-custom > .p-footer-inner
@@ -35,8 +26,6 @@ www.elevenforum.com##.xb-toggle-default.pageWidthToggle
 www.elevenforum.com###js-XFUniqueId158
 www.elevenforum.com###js-XFUniqueId157 > .fa-adjust.fal.fa--xf > svg
 www.elevenforum.com##.p-linkList-changeStyle > .js-styleVariationsLink
-
-! Dec 24, 2024 https://xdaforums.com
 xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row > li > [href="https://xdaforums.com/t/xda-developers-forum-rules.4200559/"]
 xdaforums.com##.block-body > .p-footer-copyright
 xdaforums.com##a.xda_footerLink:nth-of-type(2)
@@ -47,31 +36,18 @@ xdaforums.com##.uix_extendedFooter
 xdaforums.com###js-XFUniqueId6
 xdaforums.com##.p-footer-inner > .pageContent
 xdaforums.com##.p-footer-inner
-
-! Dec 24, 2024 https://www.google.com
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(4)
 www.google.com###dk2qOd
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(1)
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(3)
-
-! Dec 24, 2024 https://github.com
 github.com##.Link.Link--secondary
 github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
 github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
 github.com##.text-light.text-small.color-fg-subtle
 github.com##a.mr-2.Link:nth-of-type(1)
-
-! Dec 25, 2024 https://bw.projectsegfau.lt
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735097015$image
-
-! Dec 30, 2024 https://meet.google.com
 meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
-
-! Dec 30, 2024 https://userstyles.world
 userstyles.world##[href="/modlog"]
-
-! Dec 30, 2024 https://www.youtube.com
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###copyright
@@ -79,31 +55,20 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
 www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-
 userstyles.world##.copyright
-
-! Dec 30, 2024 https://greasyfork.org
 greasyfork.org###site-name-text [href]
-
-! Dec 30, 2024 https://support.mozilla.org
 support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
 support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
 support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
 support.mozilla.org##.mzp-c-footer-legal > ul
-
-! Dec 31, 2024 https://copilot.microsoft.com
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
 copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
 copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1)
 copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(2)
-
-! Dec 31, 2024 https://fmhy.net
 fmhy.net##.copyright
 fmhy.net##.feedback-footer
 fmhy.net##.message
 fmhy.net##.VPFooter
-
-! Dec 31, 2024 https://www.elevenforum.com
 www.elevenforum.com###js-XFUniqueId115
 www.elevenforum.com##.totalContainer--lessPadding.totalContainer
 www.elevenforum.com##.block-footer.main-container
@@ -112,18 +77,9 @@ www.elevenforum.com##.p-body-pageContent > div.block > .block-container > .block
 www.elevenforum.com##.listInline--comma.listInline
 www.elevenforum.com##.block-row--minor.block-row
 www.elevenforum.com##.block-row.block-body
-
-! Dec 31, 2024 https://xdaforums.com
-xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row
-
-! Dec 31, 2024 https://www.freetogame.com
 www.freetogame.com##.pt-3.deep-dark.font-small.page-footer
-
-! Dec 31, 2024 https://bw.projectsegfau.lt
 bw.projectsegfau.lt##.text
 bw.projectsegfau.lt##p:nth-of-type(1)
-
-! Dec 31, 2024 https://www.google.com
 www.google.com##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.com##.aajZCb > .lJ9FBc > center > .gNO89b
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
@@ -133,7 +89,6 @@ www.google.com##a.MV3Tnb:nth-of-type(2)
 www.google.com##a.MV3Tnb:nth-of-type(1)
 www.google.com##.gb_W
 www.google.com##a.pHiOh:nth-of-type(3)
-
 www.google.co.in##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.co.in##.aajZCb > .lJ9FBc > center > .gNO89b
 www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh
@@ -143,17 +98,11 @@ www.google.co.in##a.MV3Tnb:nth-of-type(2)
 www.google.co.in##a.MV3Tnb:nth-of-type(1)
 www.google.co.in##.gb_W
 www.google.co.in##a.pHiOh:nth-of-type(3)
-
 ||ko-fi.com^
-
-! Dec 31, 2024 https://getindie.wiki
 getindie.wiki##[href="privacy"]
 getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
-
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
-
-! Dec 31, 2024 https://www.youtube.com
 www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape
 www.youtube.com###startSegmentButton > .playerButtonImage
 www.youtube.com###deleteButton > .playerButtonImage
@@ -169,44 +118,24 @@ www.youtube.com###manage-account > .yt-formatted-string.style-scope.yt-simple-en
 www.youtube.com##ytd-toggle-theme-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
-
-! Dec 31, 2024 https://thebrowser.company
 thebrowser.company##[href="https://arc.net/privacy"]
 thebrowser.company##[href="https://arc.net/security"]
 thebrowser.company##.eloOXn.Elements__BlueSection-sc-qpg4il-0
-
-! Dec 31, 2024 https://browsercompany.substack.com
 browsercompany.substack.com##[href^="https://substack.com/ccpa"]
 browsercompany.substack.com##[href^="https://browsercompany.substack.com/tos"]
 browsercompany.substack.com##.subscribe-page-footer._reset_h3mln_1.pc-reset.pencraft
-
-! Dec 31, 2024 https://discohook.org
 discohook.org##.bbmwyd.sc-1al5n2i-0
-
-! Dec 31, 2024 https://github.com
 github.com##.mt-3.text-small > [href="/sponsors"]
 github.com##.flex-items-center.d-flex.Button.Button--small.Button--secondary
 github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.text-light.text-small.flex-wrap.d-flex
 github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
-
-getindie.wiki##div.align-center.content.container:nth-of-type(9)
-getindie.wiki##div.align-center.content.container:nth-of-type(8)
-getindie.wiki##div.content:nth-of-type(8)
-
-! Dec 31, 2024 https://ublockorigin.com
 ublockorigin.com##.author-attribution
 ublockorigin.com##.copyright > p
-
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
-
-! Dec 31, 2024 https://legcord.app
 legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
-
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
-
-! Dec 31, 2024 https://www.roblox.com
 www.roblox.com###navigation-robux-container > div > .robux-menu-btn.text-header.nav-menu-title.font-header-2
 www.roblox.com###header-develop-md-link
 www.roblox.com##.footer-note.text-footer
@@ -219,54 +148,30 @@ www.roblox.com##.container-footer
 ||images.rbxcdn.com/a057a8bc94e7ab78517765ddb4e77384-generic_dark_11062018.svg$image
 www.roblox.com##.ng-binding.text-error
 www.roblox.com##.text-report
-
-! Dec 31, 2024 https://store.steampowered.com
 store.steampowered.com##a.menuitem:nth-of-type(5)
-
-! Dec 31, 2024 https://steamcommunity.com
 steamcommunity.com###footerText
 steamcommunity.com###footer_spacer
 ||community.fastly.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1$image
-
 store.steampowered.com##.footer_content
 store.steampowered.com###footer
-
-! Dec 31, 2024 https://store.epicgames.com
 store.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 store.epicgames.com##.eds_14hl3lj3.eds_14hl3lja.eds_1ypbntdc.eds_14hl3ljj.eds_14hl3ljc.eds_14hl3lj9
 store.epicgames.com##.css-1potjqa > .css-1247nep.eds_1ypbntdk.eds_1ypbntda.eds_1ypbntd0
 store.epicgames.com##.css-k204li
 store.epicgames.com##.css-1jd731i > span
-
-! Dec 31, 2024 https://scribe.rip
 scribe.rip##[href="https://sr.ht/~edwardloveall/Scribe"]
-scribe.rip##span:nth-of-type(2)
-
-! Dec 31, 2024 https://read.sudovanilla.org
 read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
-
-! Dec 31, 2024 https://chatgpt.com
 chatgpt.com##.min-h-4 > div
-
-! Dec 31, 2024 https://openai.com
 openai.com##.items-center.w-full.h-full.flex.relative.px-s\/2.duration-250.ease-curve-a.transition
-
-! Dec 31, 2024 https://render.com
 render.com##.lg\:mr-0.py-\[--nav-bar-py\].px-\[--nav-bar-px\].mr-10.dark\:text-gray-100.text-gray-900.text-body-sm.transition-colors.cursor-pointer.inline-flex.z-\[1\].relative.group
 render.com##.lg\:py-15.lg\:px-0.p-\[40px\].border-gray-700.border-t-1.items-center.flex-1.w-full.flex
 render.com##.lg\:border-t-1.text-gray-100.bg-gray-800.border-gray-700.flex-col.w-full.h-full.flex
 render.com##.lg\:p-0.bg-gray-800.row-start-2.row-span-8.col-start-3.col-span-14.z-2.relative
 render.com##.sm\:basis-\[initial\].sm\:inline.text-body-sm.basis-full.flex
-
-! Dec 31, 2024 https://accounts.google.com
 accounts.google.com##.dMNVAe
 accounts.google.com##.OKMeHe
 accounts.google.com##.FZfKCe
-
-! Dec 31, 2024 https://dashboard.render.com
 dashboard.render.com##.py-1.space-x-2.outline-2.focus\:outline-focus-action.focus-visible\:outline.hover\:shell-side-nav-item-text--hover.text-secondary.type-interface-01.hover\:shell-side-nav-item-background--hover.shell-side-nav-item-background.text-left.px-2.w-full.items-center.flex.group\/shell-side-nav-item
-
-! Jan 1, 2025 https://webextension.org
 webextension.org###rate-us
 webextension.org##[href="#reviews"]
 webextension.org##[href^="mailto:andy.portmen@gmail.com"]
@@ -278,34 +183,17 @@ webextension.org###donation > div
 webextension.org###cookie > div
 webextension.org###adb > tbody > tr > td > div
 webextension.org###adb > tbody > tr > td
-
-! Jan 1, 2025 https://ocr.space
-||ocr.space/Content/Images/downArrow.png$image
-ocr.space###header > .row
-ocr.space###footer-bottom
-ocr.space##body > .row
 ocr.space##.bigborder
 ocr.space##.headline
 ocr.space##p:nth-of-type(10)
 ocr.space##p:nth-of-type(3)
-
-! Jan 1, 2025 https://searchtweaks.com
 ||searchtweaks.com/src/mainback.png$image
-
-! Jan 1, 2025 https://www.oo-software.com
 www.oo-software.com##.footer2
 www.oo-software.com##.spacer-3x
-
-! Jan 1, 2025 https://www.bcuninstaller.com
 ||img.shields.io/badge/donate-paypal%2Fbitcoin-brightgreen.svg$image
 www.bcuninstaller.com##.site-footer
 www.bcuninstaller.com###licensing-and-commercial-use
 www.bcuninstaller.com##p:nth-of-type(15)
-
-! Jan 1, 2025 https://www.fosshub.com
-www.fosshub.com###head-menu-cta-about > .n-cta__l
-www.fosshub.com###head-menu-cta-faq > .n-cta__l
-www.fosshub.com###head-menu-cta-contact > .n-cta__l
 www.fosshub.com##.vp
 www.fosshub.com##.block--center > .w
 www.fosshub.com##.fm__p > .block--center.nm
@@ -314,8 +202,6 @@ www.fosshub.com##.pfm__p
 www.fosshub.com###fh-ss
 www.fosshub.com##.ad > .block--center
 www.fosshub.com##.ad
-
-! Jan 1, 2025 https://sourceforge.net
 sourceforge.net##.l-header-nav-bottom.sandiego > .row > .links
 sourceforge.net##.l-header-nav-bottom.sandiego > .row
 sourceforge.net##.links > [href="/software/vendors/"]
@@ -328,478 +214,4 @@ sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
 sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
-sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw
-sourceforge.net###img_ithc48o1m8l161l1i0y
-sourceforge.net###img_ithc13861008p1i86e1h8f8gs8o8p
-sourceforge.net##.footer-wrapper
-sourceforge.net##.l-nav-bottom
-sourceforge.net##.m-wide-projects-widget.m-wide-widget > .as-header
-sourceforge.net##.m-wide-projects-widget.m-wide-widget > .body > ul > li
-sourceforge.net##.img_irrr0oroksh0o3okh6hzlorhz
-sourceforge.net###img_irrrgwogo3h8 > div
-sourceforge.net##.l-side-column
-sourceforge.net###img_irrrco50okojoih44o6vorhhhm
-
-! Jan 1, 2025 https://privacy.sexy
-privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"] > span
-privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"] > .icon.icon-container > .inline-icon > svg > path
-privacy.sexy##[href="https://github.com/undergroundwires/privacy.sexy/issues"]
-privacy.sexy##div.footer__section__item:nth-of-type(4)
-privacy.sexy##.brand.child
-
-! Jan 1, 2025 https://github.com
-github.com##.mr-1.Button.Button--small.Button--secondary
-
-! Jan 1, 2025 https://copilot.microsoft.com
-copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(3)
-copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(7)
-copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(6)
-copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(5)
-copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(4)
-copilot.microsoft.com##button.text-start.justify-between.focus-visible\:outline-stroke-900.focus-visible\:outline.focus-visible\:z-\[1\].outline-offset-1.outline-2.before\:contrast-more\:border-2.before\:border-transparent.before\:border.before\:pointer-events-none.before\:inset-0.before\:absolute.before\:rounded-xl.rounded-xl.gap-x-2.py-2.px-3.min-w-10.min-h-10.text-sm.dark\:active\:bg-white\/5.dark\:hover\:bg-white\/8.active\:bg-black\/3.hover\:bg-black\/5.bg-transparent.dark\:active\:fill-foreground-650.dark\:active\:text-foreground-650.active\:fill-foreground-600.active\:text-foreground-600.fill-foreground-800.text-foreground-800.justify-center.items-center.flex.relative:nth-of-type(3)
-
-! Jan 1, 2025 https://account.live.com
-account.live.com###privacyLink
-account.live.com##.c-uhff-base
-
-! Jan 1, 2025 https://answers.microsoft.com
-answers.microsoft.com###c-uhf-nav-cta > .c-uhf-nav-link
-answers.microsoft.com###Announcements > .f-information.m-alert > div
-answers.microsoft.com###Footer
-answers.microsoft.com##.message-voting-text.message-voting-question.c-paragraph-4
-answers.microsoft.com##.message-voting-button-up.message-voting-button.f-lightweight.c-button
-answers.microsoft.com##.message-voting-button-down.message-voting-button.f-lightweight.c-button
-answers.microsoft.com##.message-voting-spacer
-answers.microsoft.com##div.thread-message-content-footer-message-action-link > .hidden-xs.msgAbuseBtn.reportAbuseMessageItem.message-action-button.f-lightweight.c-action-trigger
-answers.microsoft.com##.asking-text-asked-on-link > .hidden-xs.msgAbuseBtn.reportAbuseMessageItem.message-action-button.f-lightweight.c-action-trigger
-answers.microsoft.com##.ucsRailContainer
-
-! Jan 1, 2025 https://support.microsoft.com
-support.microsoft.com###c-shellmenu_0
-support.microsoft.com###c-uhf-nav-cta > .c-uhf-nav-link
-support.microsoft.com###c-shellmenu_1
-support.microsoft.com##.prrColumnWrapper
-support.microsoft.com##.c-uhff-nav
-support.microsoft.com##.c-uhff-base
-support.microsoft.com###articleFooterSupportBridge-supTabControlContent-1 > .supHomeAndLandingPageFeatureGrid.supARG > .supARG-row
-support.microsoft.com###articleFooterSupportBridge-supTabControlContent-1 > .supportBridgeText
-support.microsoft.com###supWrapperToPreventFeedbackFlickering
-
-! Jan 1, 2025 https://account.microsoft.com
-account.microsoft.com###O365_MainLink_Help > .o365cs-base
-||assets.account.microsoft.com/family/compassassets/125e3018-3cdd-494a-9492-254d28a1f5b5.png?n=BackgroundImage$image
-account.microsoft.com##.c-uhff-base
-account.microsoft.com###helpIcon_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
-account.microsoft.com###helpIcon_container
-account.microsoft.com###home\.banner\.alta-column\.cta
-account.microsoft.com##.root-180.ms-Button--primary.ms-Button
-account.microsoft.com###xboxUpsellCard > .css-210.ms-Stack > .css-211.ms-Stack
-account.microsoft.com###xboxUpsellCard > .css-210.ms-Stack
-account.microsoft.com###home\.drawers\.copilot > .css-210.ms-Stack > .css-211.ms-Stack
-account.microsoft.com###home\.drawers\.copilot > .css-210.ms-Stack
-account.microsoft.com###home\.drawers\.subscriptions > .css-210.ms-Stack > .css-211.ms-Stack
-account.microsoft.com###home\.drawers\.subscriptions > .css-210.ms-Stack
-account.microsoft.com###home\.cards\.card\.outlook\.cold > .css-233.ms-Stack
-account.microsoft.com##div.css-342.ms-StackItem > .css-232.ms-Stack
-
-! Jan 1, 2025 https://wpd.app
-wpd.app##.rounded.px-4.py-1\.5.text-gray-700.border-yellow-400.border.transition-colors.hover\:border-yellow-400.hover\:bg-yellow-300.bg-yellow-400
-wpd.app##a.hover\:text-gray-900.text-gray-500.px-3.py-4.font-medium:nth-of-type(3)
-wpd.app##.p-4.text-xs.text-center > p
-wpd.app##.p-4.text-xs.text-center
-
-! Jan 1, 2025 https://crazymax.dev
-crazymax.dev##.md-announce.md-banner
-
-! Jan 1, 2025 https://community.chocolatey.org
-community.chocolatey.org##.show.fade.alert-dismissible-center.alert-dismissible.alert-purple.alert
-community.chocolatey.org##.pe-md-c75.pe-0.container-fluid > .justify-content-sm-end.flex-sm-fill.flex-wrap.fw-bold.global-nav-ul.nav > .align-items-center.d-md-flex.d-none.nav-item
-community.chocolatey.org##.d-md-block.d-none.col-xl-2.col-md-3 > ul.list-unstyled [href="/packages/windowsspyblocker/4.39.0/ReportAbuse"]
-community.chocolatey.org##li:nth-of-type(13)
-community.chocolatey.org##.d-md-block.d-none.col-xl-2.col-md-3 > ul.list-unstyled [href="/packages/windowsspyblocker/4.39.0/ContactAdmins"]
-community.chocolatey.org##ul.list-unstyled:nth-of-type(3)
-community.chocolatey.org##.pt-3.px-3.text-center.border-top.text-bg-body-secondary
-community.chocolatey.org##.text-md-start.text-center.py-5.border-top.fw-bold.text-bg-adaptive
-community.chocolatey.org##.py-3.border-top.text-bg-primary
-community.chocolatey.org##.dsq-brlink
-
-! Jan 1, 2025 https://www.getblackbird.net
-||www.getblackbird.net/download/images/donate_n4.png$image
-www.getblackbird.net###snotebox2 > .ws11
-www.getblackbird.net##.ws12 > code
-
-! Jan 1, 2025 https://namazso.github.io
-||namazso.github.io/nanami-tan/demoness/html/nanami2016.png$image
-
-sourceforge.net###img_dggnatab5gign > div
-
-! Jan 1, 2025 https://vsthemes.org
-vsthemes.org##[href="https://vsthemes.org/en/premium/"]
-vsthemes.org##p:nth-of-type(1)
-vsthemes.org##p:nth-of-type(2)
-vsthemes.org##.block.link-black.s2b.guide-menu
-
-! Jan 1, 2025 https://www.stardock.com
-||www.stardock.com/games/images/nav/shopping_cart.svg$image
-www.stardock.com##span:nth-of-type(6)
-www.stardock.com###stardock_organization
-www.stardock.com##.columns.container
-www.stardock.com##.second.container
-www.stardock.com##.altbg.getitnow > p
-
-! Jan 1, 2025 https://nsaneforums.com
-||nsaneforums.com/Matt/bgw.webp$image
-nsaneforums.com##[href="https://nsaneforums.com/privacy/"]
-nsaneforums.com###elCopyright_userLine
-nsaneforums.com##[href="https://www.invisioncommunity.com/"]
-nsaneforums.com##li:nth-of-type(3) > [href="https://nsaneforums.com/contact/"]
-
-! Jan 1, 2025 https://rectify11.net
-rectify11.net##.footer
-
-! Jan 2, 2025 https://www.deviantart.com
-www.deviantart.com##._2tlvx.IAIzg._1yv1h.a75R0._2nKf8.reset-button
-||st.deviantart.net/badges/confetti_override.svg$image
-www.deviantart.com##.NiJf1._2nWL_._3B6eV.ds-surface-tertiary
-www.deviantart.com##._20GZU > ._2wKSP > ._2pnwh > ._355-o.bvpjc.reset-button
-www.deviantart.com##._3IffI._1noJ6
-
-! Jan 2, 2025 https://uxthemepatcher.com
-uxthemepatcher.com###jet-menu-item-131 > .top-level-link
-uxthemepatcher.com###jet-menu-item-102 > .top-level-link
-||www.google.com/recaptcha/api2/anchor?ar=1&k=6Leig88ZAAAAAFVBdglevZuYwfUR8bBksWFOQhvK&co=aHR0cHM6Ly91eHRoZW1lcGF0Y2hlci5jb206NDQz&hl=en&v=zIriijn3uj5Vpknvt_LnfNbF&size=invisible&cb=mh846icw9rs8$subdocument
-||i0.wp.com/uxthemepatcher.com/wp-content/uploads/2020/09/footer-home-6-line-bg.jpg?fit=1920%2C80&ssl=1$image
-uxthemepatcher.com##.elementor-widget-text-editor.elementor-widget.elementor-element-4cb69726.elementor-element > .elementor-widget-container
-
-! Jan 3, 2025 https://browser-use.com
-browser-use.com##.items-center.justify-between.flex > .text-muted-foreground.text-sm
-
-! Jan 3, 2025 https://www.betterbird.eu
-www.betterbird.eu##[href="../donate/index.html"]
-||https://www.betterbird.eu/end-of-year
-
-! Jan 3, 2025 https://vault.bitwarden.com
-vault.bitwarden.com##div.\!tw-text-sm:nth-of-type(1)
-vault.bitwarden.com##div.\!tw-text-sm:nth-of-type(2)
-vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-border-b.tw-border-solid.tw-bg-clip-padding.tw-border-transparent.tw-text-main.tw-pl-4.tw-p-2.tw-gap-2.tw-items-center.tw-flex
-
-! Jan 3, 2025 https://xdaforums.com
-xdaforums.com##.p-footer-copyrightRow
-
-! Jan 3, 2025 https://libredirect.github.io
-libredirect.github.io##[href="./contact.html"]
-libredirect.github.io##[href="./donate.html"]
-
-! Jan 3, 2025 https://help.adblockplus.org
-help.adblockplus.org##.container.footer__wrapper
-help.adblockplus.org##.article-vote-controls
-help.adblockplus.org##.article-vote-question
-||cloudstream.ws^
-||https://vencord.app^
-||bloxstrap.org^
-
-! Jan 4, 2025 AniList
-||anilist.co/forum/thread/234^
-anilist.co##.router-link-active.router-link-exact-active.secondary-link
-anilist.co##.router-link-active.router-link-exact-active.link
-anilist.co##a.link:nth-of-type(2)
-anilist.co##section > [href="/forum/thread/2340"]
-anilist.co##[href="#"]
-anilist.co##[href="https://anilist.co"]
-anilist.co##section > [href="/apps"]
-anilist.co##a.secondary-link:nth-of-type(1)
-anilist.co##[href="/site-stats"]
-anilist.co##[href="https://discord.gg/TF428cr"]
-anilist.co##[href="https://twitter.com/AniListco"]
-anilist.co##[href="https://bsky.app/profile/anilist.co"]
-anilist.co##[href="https://www.facebook.com/AniListco"]
-anilist.co##[href="https://github.com/AniList"]
-anilist.co##[href="https://submission-manual.anilist.co/"]
-anilist.co##[href="/moderators"]
-anilist.co##[href="mailto:contact@anilist.co"]
-anilist.co##[href="/terms"]
-anilist.co##[href="/sitemap/index.xml"]
-
-! Jan 4, 2025 https://cloudstream-on-fleek-co.ipns.dweb.link
-cloudstream-on-fleek-co.ipns.dweb.link##.gap-2.rounded.text-base-content.bg-base-200.mt-15.p-10.footer-center.footer
-
-! Jan 4, 2025 https://www.miruro.tv
-www.miruro.tv##.dRihCi.sc-bKXUjo
-www.miruro.tv##.jQgLwV.sc-bKXUjo
-www.miruro.tv##.bWGwqM.Zisnx.sc-hMEFUH.sc-gCpwsF
-
-! Jan 4, 2025 https://kuroiru.co
-kuroiru.co###content-footer
-
-! Jan 4, 2025 https://add0n.com
-add0n.com##[href^="mailto:stylus.openstyles@gmail.com"]
-
-! Jan 4, 2025 https://getgreenshot.org
-getgreenshot.org##.servicelinks
-getgreenshot.org##[href="/support/"]
-
-! Jan 4, 2025 https://10fastfingers.com
-||10fastfingers.com/img/layout-responsive^$image
-||img.10fastfingers.com/img/layout/background/patterns/dust.jpg$image
-10fastfingers.com##button.btn.btn-danger
-
-! Jan 4, 2025 https://greasyfork.org
-||riedler.wien/sfto/darklearning/double_triangles_top_bottom_AAA.svg$image
-
-! Jan 4, 2025 https://myanimelist.net
-myanimelist.net##.ga-impression.bottom-bar
-
-! Jan 4, 2025 https://copilot.microsoft.com
-copilot.microsoft.com##.pr-14.sm\:pl-10.sm\:gap-8.pl-7.gap-2\.5.dark\:border-slate-450\/40.border-saddle-250.border.mb-14.py-5.rounded-7xl.flex.relative
-
-! Jan 5, 2025 https://f-droid.org
-f-droid.org##a.page-link:nth-of-type(6)
-
-! Jan 5, 2025 https://forum.mobilism.org
-forum.mobilism.org##.bottomLinks.row-fluid
-forum.mobilism.org##p:nth-of-type(2)
-
-! Jan 5, 2025 https://jytechs.in
-jytechs.in##div.report > .btn-danger.btn
-
-! Jan 5, 2025 https://flash.getpczone.com
-flash.getpczone.com###news_last
-flash.getpczone.com##footer
-flash.getpczone.com###footer2
-flash.getpczone.com##.menufooter
-flash.getpczone.com##header
-flash.getpczone.com##.txt
-flash.getpczone.com##[class*="banner"]
-flash.getpczone.com##li:nth-of-type(n+1):nth-of-type(-n+8)
-
-! Jan 5, 2025 https://upfiles-urls.com
-upfiles-urls.com##fieldset
-upfiles-urls.com##footer
-upfiles-urls.com##.container > h2
-upfiles-urls.com##.col-lg-4
-upfiles-urls.com##.faqs > .container > .row
-upfiles-urls.com##header
-upfiles-urls.com##.spacer
-
-! Jan 5, 2025 https://flash.getpczone.com
-flash.getpczone.com##.report
-
-! Jan 5, 2025 https://katfile.com
-katfile.com##footer > .container-fluid
-katfile.com##.navbar-collapse.collapse
-katfile.com##.navbar-static-top.navbar-default.navbar > .container-fluid
-katfile.com##.navbar-static-top.navbar-default.navbar
-katfile.com##strong > [href^="https://katfile.com/"]
-katfile.com##span.sp:nth-of-type(1)
-katfile.com##span.sp:nth-of-type(2)
-katfile.com##div.container:nth-of-type(1)
-
-! Jan 5, 2025 https://app.fing.com
-app.fing.com##.text-center.text-muted
-
-! Jan 5, 2025 https://jytechs.in
-jytechs.in##.navbar-expand-lg.navbar
-jytechs.in##div#about.mb-4.aboutFile.col-md-12.col-lg-6:nth-of-type(1)
-jytechs.in##div.mb-4.aboutFile.col-md-12.col-lg-6 > .aboutSite
-jytechs.in##.aboutDis
-jytechs.in##.position-absolute.p-5.footer
-
-! Jan 5, 2025 https://aistudio.google.com
-aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger > .mat-focus-indicator
-aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger > .notranslate.material-symbols-outlined
-aistudio.google.com##.gmat-mdc-button.mat-mdc-button-base.mat-unthemed.mat-mdc-icon-button.mdc-icon-button.viewport-small-hidden.overflow-button.mat-mdc-tooltip-trigger.mat-mdc-menu-trigger
-
-! Jan 5, 2025 https://frdl.to
-frdl.to##.d-sm-block.d-none.report > .btn-danger.btn
-frdl.to##.fixed-top.bg-freedlink.header
-frdl.to##.my-4.download-btn
-frdl.to##ol
-frdl.to##.seperate
-frdl.to##.footer
-frdl.to###fdmMsg
-
-! Jan 5, 2025 https://www.dropbox.com
-www.dropbox.com##.dig-Banner--withIcon.dig-Banner--withCloseButton.dig-ekabin2b_3-10-0.dig-w54z3ih_21-2-2.dig-w54z3id_21-2-2.dig-w54z3ic_21-2-2.dig-w54z3i5_21-2-2.dig-w54z3ie_21-2-2.dig-w54z3ia_21-2-2.dig-w54z3i4_21-2-2.dig-Banner--basic.dig-Banner--attention.dig-Banner
-www.dropbox.com##.dig-1f09ta218_21-2-2.dig-1f09ta24_21-2-2.dig-Button-content
-www.dropbox.com##.account-menu-v2__quota-bar-btn.dig-1f09ta220_21-2-2.dig-1f09ta21r_21-2-2.dig-1f09ta21k_21-2-2.dig-1f09ta21p_21-2-2.dig-1f09ta21i_21-2-2.dig-1f09ta212_21-2-2.dig-1f09ta210_21-2-2.dig-t4vtb5c_21-2-2.dig-1f09ta2t_21-2-2.dig-1f09ta23_21-2-2.dig-Button-tone--neutral.dig-Button--small.dig-Button--transparent.dig-Button > .dig-1f09ta21e_21-2-2.dig-1f09ta21d_21-2-2.dig-1f09ta24_21-2-2.dig-Button-content
-
-! 08-Jan-2025 https://github.com
-github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-items-center.flex-justify-center.d-flex.f6.mt-6.py-6.p-responsive.container-lg.footer
-
-! 08-Jan-2025 https://webextension.org
-webextension.org##[href="#contact"]
-webextension.org###translate
-webextension.org##.darker
-webextension.org##footer:nth-of-type(1)
-webextension.org###contact
-||docs.zoho.com/forms/published.do?rid=03mtu961b743388af4aafa9dd568af06564bb$subdocument
-webextension.org###join > h2
-webextension.org###join > .content > p
-
-! 08-Jan-2025 https://bypass.vip
-bypass.vip##footer
-bypass.vip##header [href="https://bypass.vip/discord"]
-
-! 09-Jan-2025 https://tubestamp.com
-tubestamp.com##.footer-bottom
-
-! 09-Jan-2025 https://bumpups.com
-bumpups.com##.footer-container
-bumpups.com##.cookie-bar
-
-! 09-Jan-2025 https://addons.mozilla.org
-addons.mozilla.org##.Footer-wrapper
-addons.mozilla.org##.Card--no-footer.ContributeCard.Card > .Card-contents
-addons.mozilla.org##.Card--no-footer.ContributeCard.Card > .Card-header
-
-! 10-Jan-2025 https://x.com
-x.com##.r-17w48nw.r-117bsoe.r-13awgt0.r-16dba41.r-56xrmm.r-1gkfh8e.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1
-x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-3pj75a.r-1qi8awa.r-2yi16.r-p1pxzi.r-1ipicw7.r-eu3ka.r-a9p05.r-17w48nw.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
-
-! 10-Jan-2025 https://www.roblox.com
-www.roblox.com##.small.text-name
-
-! 15 Jan 2025 X (Twitter)
-x.com##.r-1mmae3n.r-1777fci.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
-
-! 15 Jan 2025 https://10minemail.com
-10minemail.com##.main-header
-10minemail.com##.temp-emailbox-text > p
-10minemail.com##.mid-intro-text
-10minemail.com##.section-populer-article
-10minemail.com##.bottom-seo-text
-10minemail.com##.page-footer
-10minemail.com##.temp-emailbox > h2
-
-! 15 Jan 2025 https://client-api.arkoselabs.com
-client-api.arkoselabs.com##.text.embeddedSessionID.kBxvZx.guHXDK.sc-1v6atg6-0.sc-1io4bok-0
-
-! 15 Jan 2025 https://search.bus-hit.me
-search.bus-hit.me##footer
-
-! 15 Jan 2025 Xcancel
-xcancel.com##div.nav-item > [href="/about"]
-
-! 15 Jan 2025 X (Twitter)
-x.com##.r-3pj75a.r-1w6e6rj.r-18u37iz.css-175oi2r
-
-! 15 Jan 2025 GitHub docs
-docs.github.com##div.col-xl-3.col-lg-6.col-12.mb-xl-0.mb-6.pr-4.float-left > .f5
-docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
-docs.github.com##.contribution.f5
-docs.github.com##.f3
-
-! 15 Jan 2025 BetterDiscord
-||camo.githubusercontent.com/826e4f512bfb7cec2b18f14a05d2f08b17b4e9d48c21119d542755f8ed70f22e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50617950616c266d6573736167653d446f6e617465267374796c653d666c6174266c6f676f3d70617970616c26636f6c6f723d626c7565$image
-betterdiscord.app##a.nav-item:nth-of-type(4)
-betterdiscord.app##div.footer-column:nth-of-type(4)
-
-! 19 Jan 2025 https://www.hikvision.com
-www.hikvision.com##.lang-a
-www.hikvision.com##.footer-body-content
-www.hikvision.com##.at-action.floating-pop-btn
-www.hikvision.com##.active.partner-nav-item.nav-left-item > .fis-title.cn-header-a.at-navigation
-www.hikvision.com##.active.partner-nav-item.nav-left-item
-
-! 19 Jan 2025 http://192.168.29.34
-192.168.29.34##.footer
-192.168.29.34##.ui-layout-pane-south.ui-layout-pane.layout-south
-192.168.29.34##.privacyTip-login.login-item > .ellipsis.ng-binding
-
-! 19 Jan 2025 https://supportusa.hikvision.com
-supportusa.hikvision.com##.footer-bottom-font
-
-! 25 Jan 2025 https://copilot.microsoft.com
-copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
-
-! 25 Jan 2025 https://semver.org
-semver.org##p:nth-of-type(28)
-
-! 25 Jan 2025 https://heck.ai
-heck.ai##.w-\[260px\].px-4.bottom-4.absolute > .justify-between.flex
-
-! 25 Jan 2025 https://account.microsoft.com
-account.microsoft.com##.root-272.ms-Button--primary.ms-Button
-||assets.account.microsoft.com/family/compassassets/*.svg?n=GrayFeatureCardImageBackground.svg$image
-
-! 25 Jan 2025 https://chatgpt.com
-chatgpt.com##.\@lg\/thread\:left-0.\@lg\/thread\:bottom-0.\@lg\/thread\:absolute.md\:px-\[60px\].empty\:hidden.text-token-text-secondary.text-xs.text-center.py-2.px-2.w-full
-
-! 25 Jan 2025 https://auth.openai.com
-auth.openai.com##.oai-footer
-auth.openai.com##button.social-btn:nth-of-type(3)
-
-! 25 Jan 2025 https://chatgpt.com
-chatgpt.com##.px-2.m-0.rounded-lg.screen-arch\:min-h-\[47px\].screen-arch\:py-1\.5.screen-arch\:px-2.hover\:bg-token-sidebar-surface-secondary.items-center.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus\:ring-0.cursor-pointer.text-sm.p-2\.5.gap-2.flex.group
-
-! 1 Feb 2025 https://drive.google.com
-drive.google.com##.M1zY4b.bMWlzf
-
-! 3 Feb 2025 https://cloudstream.miraheze.org
-cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy"]
-cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Terms_of_Use"]
-cloudstream.miraheze.org##[href="/wiki/CloudStream_Wiki:General_disclaimer"]
-cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Donate"]
-cloudstream.miraheze.org##.citizen-footer__bottom
-
-! 3 Feb 2025 https://cutt.ly
-cutt.ly##.copyright-text > p
-cutt.ly##div.col-sm-4.col-md-3:nth-of-type(4)
-cutt.ly##.arrow-up
-cutt.ly##.col-sm-12.col-md-3
-
-! 5 Feb 2025 https://www.mediafire.com
-www.mediafire.com##.MFDiscountOffer
-www.mediafire.com##.lifetime-promo
-www.mediafire.com##.footer
-www.mediafire.com##.header
-
-! 5 Feb 2025 https://marketplace.visualstudio.com
-marketplace.visualstudio.com###report
-marketplace.visualstudio.com##[href^="mailto:vsmarketplace@microsoft.com"]
-marketplace.visualstudio.com##[href^="https://www.twitter.com/home"]
-marketplace.visualstudio.com##.item-share-container > [href^="mailto:"]
-marketplace.visualstudio.com###baseFooter
-
-! 5 Feb 2025 https://helpx.adobe.com
-helpx.adobe.com##.sticker
-helpx.adobe.com##.aem-GridColumn--default--12.aem-GridColumn.legal-notices.text.legalNotices > .cmp-text > p
-helpx.adobe.com##.gnavFooter > .feds-navBar-wrapper
-helpx.adobe.com##.container.grid-container
-helpx.adobe.com##.helpx-footer
-helpx.adobe.com##.aem-GridColumn--default--12.aem-GridColumn.feedbackV2
-helpx.adobe.com##.dexter-FlexContainer--mobileAlignItemContentCenter.dexter-FlexContainer--mobileAlignContentCenter.dexter-FlexContainer--mobileAlignItemCenter.dexter-FlexContainer--mobileJustifyCenter.dexter-FlexContainer-Items
-helpx.adobe.com###gnt_490_3 > .feds-navLink
-helpx.adobe.com###gnt_621 > .feds-navLink-contentWrapper
-helpx.adobe.com##.sections--logged-out.plan-card__sections
-helpx.adobe.com###gnt_490_6 > .feds-navList-wrapper
-
-! 5 Feb 2025 https://www.adobe.com
-www.adobe.com##.fragment.georouting-wrapper
-www.adobe.com##.is-open.modal-curtain
-www.adobe.com##circle
-www.adobe.com##.dialog-close > svg
-www.adobe.com##.dialog-close
-
-! 5 Feb 2025 https://creativecloud.adobe.com
-creativecloud.adobe.com##._3zbbX3jLQvy1GJbggH3Rvn
-creativecloud.adobe.com##.primary-signin-btn._131hIB4VaG4wTkmVsFk3XZ.spectrum-Button--primary.spectrum-Button
-creativecloud.adobe.com###unav-help > svg
-creativecloud.adobe.com##span:nth-of-type(2)
-creativecloud.adobe.com##._1nLTjmCtG8kdOilr4cqgq9
-creativecloud.adobe.com##.luoS9a70AhqLhYATU4U41 > span
-creativecloud.adobe.com##.home-component.feedback-survey
-creativecloud.adobe.com##.footer-top
-creativecloud.adobe.com##.footer-bottom
-creativecloud.adobe.com##.cOAJg6tYnT_qgDLICQXjF
-creativecloud.adobe.com##._2vptxiQbl6JUHoXjyDcLn
-creativecloud.adobe.com##.Y_vkSOM6GkzHRWfnm1dWA
-creativecloud.adobe.com##._20wMjdugmJjqypcF4WKjRl
-
-! 8 Feb 2025 Google
-www.google.com##.mWcf0e.WzNHm > .LRZwuc.VfL2Y
-www.google.com###GzLgge
-
-! 11 Feb 2025 GitHub
-github.com##.mr-2.Button.Button--small.Button--secondary
 
