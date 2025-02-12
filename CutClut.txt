@@ -3,7 +3,8 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 12 Feb 2025
-! Version: 6.14.23
+! Version: 6.14.24
+! Expires: 24 hours
 ! Syntax: AdBlock
 
 bw.projectsegfau.lt##.bw-top-banner
@@ -215,3 +216,7 @@ sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
 github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
+
+! 12 Feb 2025 https://copilot.microsoft.com
+copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
+
