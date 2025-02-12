@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 12 Feb 2025
-! Version: 6.14.20
+! Version: 6.14.21
 ! Syntax: AdBlock
 
 bw.projectsegfau.lt##.bw-top-banner
