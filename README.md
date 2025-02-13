@@ -8,7 +8,7 @@ AdBlock filter that
 
 # Important information
 
-### Some websites never be added
+### Some websites will never be added
 [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
 ### Work in progress
 CutClut currently covers very few websites.
