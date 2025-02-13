@@ -3,9 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.14.25
+! Version: 7.14.26
 ! Expires: 24 hours
 ! Syntax: AdBlock
+
 
 ! BreezeWiki - ProjectSegfault
 bw.projectsegfau.lt##.bw-top-banner
