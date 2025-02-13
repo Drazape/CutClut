@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.15.28
+! Version: 7.15.29
 ! Expires: 24 hours
 ! Syntax: AdBlock
-! Number of entries: 199
+! Number of entries: 200
 
 
 ! BreezeWiki - ProjectSegfault
@@ -80,7 +80,7 @@ play.google.com###\39  > .VfPpkd-YVzG2b
 play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd.VfPpkd-AznF2e
 play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 
-! Github
+! GitHub
 github.com##.Link.Link--secondary
 github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
 github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
@@ -89,7 +89,9 @@ github.com##a.mr-2.Link:nth-of-type(1)
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
+! new PR experience
 github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
+github.com##.is-merging.Details.merge-pr > .flex-justify-end.d-flex
 
 ! Meet
 meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
@@ -132,7 +134,7 @@ support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.do
 support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
 support.mozilla.org##.mzp-c-footer-legal > ul
 
-! MIcrosoft Copilot
+! Microsoft Copilot
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
 copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
 copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1), a.focus\:underline.hover\:underline:nth-of-type(2)
@@ -287,4 +289,3 @@ sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
 sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
-
