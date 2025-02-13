@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.18.32
+! Version: 7.18.33
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 219
+! Number of entries: 222
 
 
 
@@ -133,6 +133,13 @@ github.com##li.ActionListItem:nth-of-type(1), li.ActionListItem:nth-of-type(7)
 archiveprogram.github.com##[href="https://partner.github.com/#form-signUp"]
 archiveprogram.github.com##[href="https://github.com/explore"]
 archiveprogram.github.com##[href="https://github.com/join"]
+
+! GitHub docs
+docs.github.com##.contribution.f5
+docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
+
+! GitHub support
+support.github.com##.kSencr.Box-sc-g0xbh4-0
 
 ! GotHub (top bar)
 gothub.lunar.icu##.navbar
