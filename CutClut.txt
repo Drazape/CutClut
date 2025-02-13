@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.15.30
+! Version: 7.16.30
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 201
+! Number of entries: 210
 
 
 ! BreezeWiki - ProjectSegfault
@@ -104,7 +104,7 @@ meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
 userstyles.world##[href="/modlog"]
 userstyles.world##.copyright
 
-! Youtube
+! YouTube
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###copyright
@@ -184,7 +184,7 @@ ublockorigin.com##.copyright > p
 ! Legcord
 legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
 
-! Roblox
+! ROBLOX
 www.roblox.com###navigation-robux-container > div > .robux-menu-btn.text-header.nav-menu-title.font-header-2
 www.roblox.com###header-develop-md-link
 www.roblox.com##.footer-note.text-footer
@@ -197,6 +197,11 @@ www.roblox.com##.container-footer
 ||images.rbxcdn.com/a057a8bc94e7ab78517765ddb4e77384-generic_dark_11062018.svg$image
 www.roblox.com##.ng-binding.text-error
 www.roblox.com##.text-report
+www.roblox.com###upgrade-now-button
+www.roblox.com##a#nav-home
+||www.roblox.com/premium$all
+www.roblox.com###nav-shop
+www.roblox.com###nav-trade
 
 ! Steam Store
 store.steampowered.com##a.menuitem:nth-of-type(5)
