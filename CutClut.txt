@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.17.30
+! Version: 7.17.31
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 210
+! Number of entries: 215
 
 
 ! BreezeWiki - ProjectSegfault
@@ -299,3 +299,9 @@ sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
 sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
+
+! 9to5google
+9to5google.com##[href="https://9to5mac.com/privacy/"]
+9to5google.com###nav-menu-item-295584 > .main-menu-link.menu-link
+9to5google.com##.flex.header-right > .js-button.darkmode-toggle
+9to5google.com###nav-menu-item-182576 > .main-menu-link.menu-link
