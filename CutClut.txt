@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.16.30
+! Version: 7.17.30
 ! Expires: 1 day
 ! Syntax: AdBlock
 ! Number of entries: 210
@@ -89,11 +89,13 @@ github.com##a.mr-2.Link:nth-of-type(1)
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
-! new PR experience
+! old PR experience
 github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
 github.com##.is-merging.Details.merge-pr > .flex-justify-end.d-flex
+! 'Home'&'Copilot' buttons in navigation bar
+github.com##li.ActionListItem:nth-of-type(1), li.ActionListItem:nth-of-type(7)
 
-! GotHub
+! GotHub (top bar)
 gothub.lunar.icu##.navbar
 
 ! Meet
