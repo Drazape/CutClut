@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 7.14.26
+! Version: 7.15.26
 ! Expires: 24 hours
 ! Syntax: AdBlock
 
@@ -17,9 +17,7 @@ bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
 bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
 ||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##.text
-bw.projectsegfau.lt##p:nth-of-type(1)
-bw.projectsegfau.lt##p:nth-of-type(2)
-bw.projectsegfau.lt##p:nth-of-type(5)
+bw.projectsegfau.lt##p:nth-of-type(1), p:nth-of-type(2), p:nth-of-type(5)
 bw.projectsegfau.lt##.bw-theme__select
 
 ! NoCookie
@@ -46,38 +44,26 @@ www.elevenforum.com##.block-row.block-body
 ! XDAforums
 xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row > li > [href="https://xdaforums.com/t/xda-developers-forum-rules.4200559/"]
 xdaforums.com##.block-body > .p-footer-copyright
-xdaforums.com##a.xda_footerLink:nth-of-type(2)
+xdaforums.com##a.xda_footerLink:nth-of-type(2), a.xda_footerLink:nth-of-type(3), a.xda_footerLink:nth-of-type(5)
 xdaforums.com##li > .xda_footerLink
-xdaforums.com##a.xda_footerLink:nth-of-type(3)
-xdaforums.com##a.xda_footerLink:nth-of-type(5)
 xdaforums.com##.uix_extendedFooter
 xdaforums.com###js-XFUniqueId6
 xdaforums.com##.p-footer-inner > .pageContent
 xdaforums.com##.p-footer-inner
 
 ! Google
-www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(4)
+www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(1), a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(3), a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(4)
 www.google.com###dk2qOd
-www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(1)
-www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(3)
 www.google.com##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.com##.aajZCb > .lJ9FBc > center > .gNO89b
-www.google.com##.iTjxkf.KxwPGc > a.pHiOh
-www.google.com##a.pHiOh:nth-of-type(1)
-www.google.com##a.pHiOh:nth-of-type(2)
-www.google.com##a.MV3Tnb:nth-of-type(2)
-www.google.com##a.MV3Tnb:nth-of-type(1)
+www.google.com##.iTjxkf.KxwPGc > a.pHiOh, a.pHiOh:nth-of-type(1), a.pHiOh:nth-of-type(2), a.pHiOh:nth-of-type(3)
+www.google.com##a.MV3Tnb:nth-of-type(1), a.MV3Tnb:nth-of-type(2)
 www.google.com##.gb_W
-www.google.com##a.pHiOh:nth-of-type(3)
 www.google.co.in##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.co.in##.aajZCb > .lJ9FBc > center > .gNO89b
-www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh
-www.google.co.in##a.pHiOh:nth-of-type(1)
-www.google.co.in##a.pHiOh:nth-of-type(2)
-www.google.co.in##a.MV3Tnb:nth-of-type(2)
-www.google.co.in##a.MV3Tnb:nth-of-type(1)
+www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh, a.pHiOh:nth-of-type(1), a.pHiOh:nth-of-type(2), a.pHiOh:nth-of-type(3)
+www.google.co.in##a.MV3Tnb:nth-of-type(1), a.MV3Tnb:nth-of-type(2)
 www.google.co.in##.gb_W
-www.google.co.in##a.pHiOh:nth-of-type(3)
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 
@@ -148,8 +134,7 @@ support.mozilla.org##.mzp-c-footer-legal > ul
 ! MIcrosoft Copilot
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
 copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
-copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1)
-copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(2)
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1), a.focus\:underline.hover\:underline:nth-of-type(2)
 copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
 
 ! Free Media Heck Yeah
@@ -301,3 +286,4 @@ sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
 sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
+
