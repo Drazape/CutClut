@@ -3,22 +3,28 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 13 Feb 2025
-! Version: 6.14.25
+! Version: 7.14.25
 ! Expires: 24 hours
 ! Syntax: AdBlock
 
+! BreezeWiki - ProjectSegfault
 bw.projectsegfau.lt##.bw-top-banner
-blox-fruits.fandom.com##.global-top-navigation__start-new-wiki__anchor.global-top-navigation__link
+bw.projectsegfau.lt##.custom-footer
 bw.projectsegfau.lt##[href="https://gitdab.com/cadence/breezewiki"]
-||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
 bw.projectsegfau.lt##[href="https://docs.breezewiki.com"]
 bw.projectsegfau.lt##[href="https://lists.sr.ht/~cadence/breezewiki-discuss"]
-bw.projectsegfau.lt##p:nth-of-type(5)
-bw.projectsegfau.lt##p:nth-of-type(2)
 bw.projectsegfau.lt##[href="https://www.fandom.com/licensing"]
-blox-fruits.fandom.com##lalala
-blox-fruits.fandom.com##.rwl-exempt
+||bw.projectsegfau.lt/static/breezewiki.svg?t=1735043925$image
+bw.projectsegfau.lt##.text
+bw.projectsegfau.lt##p:nth-of-type(1)
+bw.projectsegfau.lt##p:nth-of-type(2)
+bw.projectsegfau.lt##p:nth-of-type(5)
+bw.projectsegfau.lt##.bw-theme__select
+
+! NoCookie
 ||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
+
+! Elevenforum
 www.elevenforum.com##.js-styleVariationsLink.p-navgroup-link--variations.p-navgroup-link--iconic.p-navgroup-link
 www.elevenforum.com##.xb-footer-block-1.xb-footer-block
 www.elevenforum.com##.p-footer-custom > .p-footer-inner
@@ -27,6 +33,16 @@ www.elevenforum.com##.xb-toggle-default.pageWidthToggle
 www.elevenforum.com###js-XFUniqueId158
 www.elevenforum.com###js-XFUniqueId157 > .fa-adjust.fal.fa--xf > svg
 www.elevenforum.com##.p-linkList-changeStyle > .js-styleVariationsLink
+www.elevenforum.com###js-XFUniqueId115
+www.elevenforum.com##.totalContainer--lessPadding.totalContainer
+www.elevenforum.com##.block-footer.main-container
+www.elevenforum.com##div.block-footer:nth-of-type(2)
+www.elevenforum.com##.p-body-pageContent > div.block > .block-container > .block-minorHeader
+www.elevenforum.com##.listInline--comma.listInline
+www.elevenforum.com##.block-row--minor.block-row
+www.elevenforum.com##.block-row.block-body
+
+! XDAforums
 xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row > li > [href="https://xdaforums.com/t/xda-developers-forum-rules.4200559/"]
 xdaforums.com##.block-body > .p-footer-copyright
 xdaforums.com##a.xda_footerLink:nth-of-type(2)
@@ -37,50 +53,12 @@ xdaforums.com##.uix_extendedFooter
 xdaforums.com###js-XFUniqueId6
 xdaforums.com##.p-footer-inner > .pageContent
 xdaforums.com##.p-footer-inner
+
+! Google
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(4)
 www.google.com###dk2qOd
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(1)
 www.google.com##a.ZYHQ7e.wHYlTd.Fx4vi:nth-of-type(3)
-github.com##.Link.Link--secondary
-github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
-github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
-github.com##.text-light.text-small.color-fg-subtle
-github.com##a.mr-2.Link:nth-of-type(1)
-meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
-meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
-userstyles.world##[href="/modlog"]
-www.youtube.com###guide-links-primary
-www.youtube.com###guide-links-secondary
-www.youtube.com###copyright
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
-www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
-www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-userstyles.world##.copyright
-greasyfork.org###site-name-text [href]
-support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
-support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
-support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
-support.mozilla.org##.mzp-c-footer-legal > ul
-copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
-copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
-copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1)
-copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(2)
-fmhy.net##.copyright
-fmhy.net##.feedback-footer
-fmhy.net##.message
-fmhy.net##.VPFooter
-www.elevenforum.com###js-XFUniqueId115
-www.elevenforum.com##.totalContainer--lessPadding.totalContainer
-www.elevenforum.com##.block-footer.main-container
-www.elevenforum.com##div.block-footer:nth-of-type(2)
-www.elevenforum.com##.p-body-pageContent > div.block > .block-container > .block-minorHeader
-www.elevenforum.com##.listInline--comma.listInline
-www.elevenforum.com##.block-row--minor.block-row
-www.elevenforum.com##.block-row.block-body
-www.freetogame.com##.pt-3.deep-dark.font-small.page-footer
-bw.projectsegfau.lt##.text
-bw.projectsegfau.lt##p:nth-of-type(1)
 www.google.com##.lJ9FBc.FPdoLc > center > .gNO89b
 www.google.com##.aajZCb > .lJ9FBc > center > .gNO89b
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh
@@ -99,11 +77,48 @@ www.google.co.in##a.MV3Tnb:nth-of-type(2)
 www.google.co.in##a.MV3Tnb:nth-of-type(1)
 www.google.co.in##.gb_W
 www.google.co.in##a.pHiOh:nth-of-type(3)
-||ko-fi.com^
-getindie.wiki##[href="privacy"]
-getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+
+! Google Accounts
+accounts.google.com##.dMNVAe
+accounts.google.com##.OKMeHe
+accounts.google.com##.FZfKCe
+
+! Google Play
+play.google.com##.atOvg > .HcyOxe
+play.google.com##.yhtbu
+play.google.com###\39  > .VfPpkd-YVzG2b
+play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd.VfPpkd-AznF2e
+play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+
+! Github
+github.com##.Link.Link--secondary
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
+github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.text-light.text-small.color-fg-subtle
+github.com##a.mr-2.Link:nth-of-type(1)
+github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
+github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
+github.com##.f6.Link
+github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
+
+! Meet
+meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
+
+! Userstyles
+userstyles.world##[href="/modlog"]
+userstyles.world##.copyright
+
+! Youtube
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--overlay.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
 www.youtube.com##.yt-spec-touch-feedback-shape--overlay-touch-response.yt-spec-touch-feedback-shape
 www.youtube.com###startSegmentButton > .playerButtonImage
 www.youtube.com###deleteButton > .playerButtonImage
@@ -119,24 +134,65 @@ www.youtube.com###manage-account > .yt-formatted-string.style-scope.yt-simple-en
 www.youtube.com##ytd-toggle-theme-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
+
+! GreasyFork
+greasyfork.org###site-name-text [href]
+
+! Mozilla support
+support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
+support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
+support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
+support.mozilla.org##.mzp-c-footer-legal > ul
+
+! MIcrosoft Copilot
+copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
+copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1)
+copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(2)
+copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
+
+! Free Media Heck Yeah
+fmhy.net##.copyright
+fmhy.net##.feedback-footer
+fmhy.net##.message
+fmhy.net##.VPFooter
+
+! FreeToGame
+www.freetogame.com##.pt-3.deep-dark.font-small.page-footer
+
+! Ko-Fi
+||ko-fi.com^
+
+! IndieWIki
+getindie.wiki##[href="privacy"]
+getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
+
+! ThebrowserCompany
 thebrowser.company##[href="https://arc.net/privacy"]
 thebrowser.company##[href="https://arc.net/security"]
 thebrowser.company##.eloOXn.Elements__BlueSection-sc-qpg4il-0
+
+! SubStack - TheBrowserCompany
 browsercompany.substack.com##[href^="https://substack.com/ccpa"]
 browsercompany.substack.com##[href^="https://browsercompany.substack.com/tos"]
 browsercompany.substack.com##.subscribe-page-footer._reset_h3mln_1.pc-reset.pencraft
+
+! DiscoHook
 discohook.org##.bbmwyd.sc-1al5n2i-0
 github.com##.mt-3.text-small > [href="/sponsors"]
 github.com##.flex-items-center.d-flex.Button.Button--small.Button--secondary
 github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.text-light.text-small.flex-wrap.d-flex
 github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
+
+! uBlock Origin
 ublockorigin.com##.author-attribution
 ublockorigin.com##.copyright > p
-github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
+
+! Legcord
 legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
-github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
-github.com##.f6.Link
+
+! Roblox
 www.roblox.com###navigation-robux-container > div > .robux-menu-btn.text-header.nav-menu-title.font-header-2
 www.roblox.com###header-develop-md-link
 www.roblox.com##.footer-note.text-footer
@@ -149,30 +205,45 @@ www.roblox.com##.container-footer
 ||images.rbxcdn.com/a057a8bc94e7ab78517765ddb4e77384-generic_dark_11062018.svg$image
 www.roblox.com##.ng-binding.text-error
 www.roblox.com##.text-report
+
+! Steam Store
 store.steampowered.com##a.menuitem:nth-of-type(5)
+
+! Steam community
 steamcommunity.com###footerText
 steamcommunity.com###footer_spacer
 ||community.fastly.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1$image
 store.steampowered.com##.footer_content
 store.steampowered.com###footer
+
+! Epic Games
 store.epicgames.com##.epic_games.mobile-border-color.bg-color.container-fluid.egf
 store.epicgames.com##.eds_14hl3lj3.eds_14hl3lja.eds_1ypbntdc.eds_14hl3ljj.eds_14hl3ljc.eds_14hl3lj9
 store.epicgames.com##.css-1potjqa > .css-1247nep.eds_1ypbntdk.eds_1ypbntda.eds_1ypbntd0
 store.epicgames.com##.css-k204li
 store.epicgames.com##.css-1jd731i > span
+
+! Scribe
 scribe.rip##[href="https://sr.ht/~edwardloveall/Scribe"]
+
+! SudoVanilla
 read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
+
+! ChatGPT
 chatgpt.com##.min-h-4 > div
+
+! OpenAI
 openai.com##.items-center.w-full.h-full.flex.relative.px-s\/2.duration-250.ease-curve-a.transition
+
+! Render
 render.com##.lg\:mr-0.py-\[--nav-bar-py\].px-\[--nav-bar-px\].mr-10.dark\:text-gray-100.text-gray-900.text-body-sm.transition-colors.cursor-pointer.inline-flex.z-\[1\].relative.group
 render.com##.lg\:py-15.lg\:px-0.p-\[40px\].border-gray-700.border-t-1.items-center.flex-1.w-full.flex
 render.com##.lg\:border-t-1.text-gray-100.bg-gray-800.border-gray-700.flex-col.w-full.h-full.flex
 render.com##.lg\:p-0.bg-gray-800.row-start-2.row-span-8.col-start-3.col-span-14.z-2.relative
 render.com##.sm\:basis-\[initial\].sm\:inline.text-body-sm.basis-full.flex
-accounts.google.com##.dMNVAe
-accounts.google.com##.OKMeHe
-accounts.google.com##.FZfKCe
 dashboard.render.com##.py-1.space-x-2.outline-2.focus\:outline-focus-action.focus-visible\:outline.hover\:shell-side-nav-item-text--hover.text-secondary.type-interface-01.hover\:shell-side-nav-item-background--hover.shell-side-nav-item-background.text-left.px-2.w-full.items-center.flex.group\/shell-side-nav-item
+
+! WebExtension
 webextension.org###rate-us
 webextension.org##[href="#reviews"]
 webextension.org##[href^="mailto:andy.portmen@gmail.com"]
@@ -184,25 +255,39 @@ webextension.org###donation > div
 webextension.org###cookie > div
 webextension.org###adb > tbody > tr > td > div
 webextension.org###adb > tbody > tr > td
+
+! OCR space
 ocr.space##.bigborder
 ocr.space##.headline
 ocr.space##p:nth-of-type(10)
 ocr.space##p:nth-of-type(3)
+
+! SearchTweaks
 ||searchtweaks.com/src/mainback.png$image
+
+! OO-software
 www.oo-software.com##.footer2
 www.oo-software.com##.spacer-3x
+
+! Shields
 ||img.shields.io/badge/donate-paypal%2Fbitcoin-brightgreen.svg$image
+
+! BCuninstaller
 www.bcuninstaller.com##.site-footer
 www.bcuninstaller.com###licensing-and-commercial-use
 www.bcuninstaller.com##p:nth-of-type(15)
+
+! FOSS-hub
 www.fosshub.com##.vp
 www.fosshub.com##.block--center > .w
-www.fosshub.com##.fm__p > .block--center.nm
+www.fosshub.co##.fm__p > .block--center.nm
 www.fosshub.com##.fm__s
 www.fosshub.com##.pfm__p
 www.fosshub.com###fh-ss
 www.fosshub.com##.ad > .block--center
 www.fosshub.com##.ad
+
+! SourceForge
 sourceforge.net##.l-header-nav-bottom.sandiego > .row > .links
 sourceforge.net##.l-header-nav-bottom.sandiego > .row
 sourceforge.net##.links > [href="/software/vendors/"]
@@ -215,11 +300,3 @@ sourceforge.net##.img_ithc868b1g8g1at8n8r78a1fkd
 sourceforge.net###img_dggndg7qgs2g7ydaw56dd2a9awac2ygaa9agg72da9gw > div > div
 sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
-github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
-copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
-play.google.com##.atOvg > .HcyOxe
-play.google.com##.yhtbu
-play.google.com###\39  > .VfPpkd-YVzG2b
-play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd.VfPpkd-AznF2e
-play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
-
