@@ -6,6 +6,8 @@ AdBlock filter that
 - Blocks ugly fake/unofficial websites with ADs and trackers
 - **New!**: Attempts to bypass bot verifications
 
+---
+
 # Important information
 
 ## Some websites will never be added
