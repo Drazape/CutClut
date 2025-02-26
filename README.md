@@ -43,4 +43,4 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 ## User-scripts (*they can enhance UI*)
 - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
 - [**ViolentMonkey**](https://violentmonkey.github.io)
-: An open source userscript manager for browsers
+: An open-source userscript manager for browsers
