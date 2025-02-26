@@ -40,7 +40,7 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 ## Redirection
 - [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and mostly less-cluttered*) alternatives
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
-## User-scripts (*they can enhance UI*)
+## UserScripts (*they can enhance UI*)
 ### Manage
 - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
 - [**ViolentMonkey**](https://violentmonkey.github.io)
