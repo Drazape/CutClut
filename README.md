@@ -23,7 +23,7 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 ### Manual (*others*)
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
   - Manually download and import
-## Recommended tools for further clutter-cutting
+# Recommended tools for further clutter-cutting
 ### Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
