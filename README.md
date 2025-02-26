@@ -6,25 +6,25 @@ AdBlock filter that
 - blocks ugly fake/unofficial websites with ADs and trackers
 - **New!**: attempts to bypass bot verifications
 
-## Important information
+# Important information
 
-### Some websites will never be added
+## Some websites will never be added
 [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
-#### Exceptions
+### Exceptions
 - The front-end doesn't have some functionality (*for the end-user*) present in the original website
 - the front-end is uglier than the original website
-### Work in progress
+## Work in progress
 CutClut currently covers very few websites.
 You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
 
-## Usage
-### Automatic (*[U-block origin](https://ublockorigin.com)*)
+# Usage
+## Automatic (*[U-block origin](https://ublockorigin.com)*)
   - [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
-### Manual (*others*)
+## Manual (*others*)
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
   - Manually download and import
-## Recommended tools for further clutter-cutting
-### Theming
+# Recommended tools for further clutter-cutting
+## Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
      - **Background**: a dark color chosen from your wallpaper
@@ -32,10 +32,10 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
      - **visited link**: opposite (*light*) colour of the text color
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
-### Redirection
+## Redirection
 - [**LibRedirect**](https://libredirect.github.io): Redirects to privacy-friendly (*and mostly less-cluttered*) alternatives
 - [**indie Wiki Buddy**](https://getindie.wiki): Redirects to known independent (*and less-cluttered*) wikis, also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt)
-### User-scripts (*they can enhance UI*)
+## User-scripts (*they can enhance UI*)
 - [**ChromeXT**](https://github.com/JingMatrix/ChromeXt): Add UserScript and DevTools supports to Chromium based and WebView based browsers using Xposed framework
 - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open source userscript manager for browsers
