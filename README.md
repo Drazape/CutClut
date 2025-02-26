@@ -1,10 +1,10 @@
 AdBlock filter that
-- cleans websites by removing
-  - premium content ads
-  - privacy policies
-  - other unnecessary elements
-- blocks ugly fake/unofficial websites with ADs and trackers
-- **New!**: attempts to bypass bot verifications
+- Cleans websites by removing
+  - Premium content ads
+  - Privacy policies
+  - Other unnecessary elements
+- Blocks ugly fake/unofficial websites with ADs and trackers
+- **New!**: Attempts to bypass bot verifications
 
 # Important information
 
@@ -12,7 +12,7 @@ AdBlock filter that
 [Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
 ### Exceptions
 - The front-end doesn't have some functionality (*for the end-user*) present in the original website
-- the front-end is uglier than the original website
+- The front-end is uglier than the original website
 ## Work in progress
 CutClut currently covers very few websites.
 You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
@@ -27,8 +27,8 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 ## Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - recommended color setup
-     - **Background**: a dark color chosen from your wallpaper
-     - **text**: a light shade of the background color
+     - **Background**: A dark color chosen from your wallpaper
+     - **text**: A light shade of the background color
      - **visited link**: opposite (*light*) colour of the text color
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
