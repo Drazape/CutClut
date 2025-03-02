@@ -46,4 +46,4 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 - [**ViolentMonkey**](https://violentmonkey.github.io)
 : An open-source UserScript manager for browsers
 ### Discover
-- [GreasyFork](https://greasyfork.org): A UserScript repository where you will find all UserScripts you'll ever need
+- [**GreasyFork**](https://greasyfork.org): A UserScript repository where you will find all UserScripts you'll ever need
