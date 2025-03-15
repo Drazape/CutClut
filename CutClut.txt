@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 15 Mar 2025
-! Version: 7.19.33
+! Version: 7.19.34
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 233
+! Number of entries: 234
 
 
 
@@ -172,6 +172,7 @@ userstyles.world##.copyright
 ! GreasyFork
 greasyfork.org###site-name-text [href]
 
+!Mozilla
 
 ! Mozilla support
 support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
@@ -179,6 +180,8 @@ support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.do
 support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
 support.mozilla.org##.mzp-c-footer-legal > ul
 
+! Firefox account
+accounts.firefox.com##p
 
 ! Microsoft Copilot
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
@@ -369,6 +372,7 @@ sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
 
 ! FebBox
 www.febbox.com##.login_popup > .desc
+
 
 ! RemoveBG
 www.remove.bg##.align-items-center.flex
