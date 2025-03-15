@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 13 Feb 2025
-! Version: 7.18.33
+! Last modified: 15 Mar 2025
+! Version: 7.19.33
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 222
+! Number of entries: 233
 
 
 
@@ -82,6 +82,15 @@ www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .
 accounts.google.com##.dMNVAe
 accounts.google.com##.OKMeHe
 accounts.google.com##.FZfKCe
+myaccount.google.com##.yv7Gae.Z8F8sf
+myaccount.google.com##.Bdlund.mN1ivc.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+
+!Google Photos
+photos.google.com##.JJpMec
+photos.google.com##.GIj5nd
+photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe > .pYTkkf-Bz112c-RLmnJb
+photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe
+photos.google.com###gbwa > .gb_D > .gb_B
 
 ! Google Play
 play.google.com##.atOvg > .HcyOxe
@@ -89,6 +98,16 @@ play.google.com##.yhtbu
 play.google.com###\39  > .VfPpkd-YVzG2b
 play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd.VfPpkd-AznF2e
 play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+
+! Google Meet
+meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
+
+!  Google Tasks
+tasks.google.com##.yVc39c.tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd
+
+! Google Keep
+keep.google.com##.PvRhvb-hSRGPd
 
 ! YouTube
 www.youtube.com###guide-links-primary
@@ -143,11 +162,6 @@ support.github.com##.kSencr.Box-sc-g0xbh4-0
 
 ! GotHub (top bar)
 gothub.lunar.icu##.navbar
-
-
-! Meet
-meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
-meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
 
 
 ! Userstyles
@@ -351,3 +365,10 @@ sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
 9to5google.com###nav-menu-item-295584 > .main-menu-link.menu-link
 9to5google.com##.flex.header-right > .js-button.darkmode-toggle
 9to5google.com###nav-menu-item-182576 > .main-menu-link.menu-link
+
+
+! FebBox
+www.febbox.com##.login_popup > .desc
+
+! RemoveBG
+www.remove.bg##.align-items-center.flex
