@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 15 Mar 2025
-! Version: 7.19.34
+! Last modified: 23 Mar 2025
+! Version: 7.21.36
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 234
+! Number of entries: 261
 
 
 
@@ -192,6 +192,17 @@ copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-ston
 Microsoft - open-source
 opensource.microsoft.com##.flex-column.flex-items-center.flex-justify-between.d-xl-flex.wrapper > ul
 
+! OneDrive
+onedrive.live.com##.root-172.ms-MessageBar-multiline.ms-MessageBar
+onedrive.live.com##.od-QuotaBanner-upsell
+onedrive.live.com##.od-QuotaBannerWrapper-placeholder.od-QuotaBannerWrapper
+onedrive.live.com##.bannerGleam_860752dd.storageUpsellBanner_860752dd
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond > .o365cs-base
+onedrive.live.com###GiveFeedbackButton > .o365cs-base
+onedrive.live.com###O365_MainLink_Help_container > .rSDngy50C4hLvjN77R3dbA\=\= > .o365sx-button.clgiLVKPzugZZns0LiPTqw\=\=
+onedrive.live.com###WorkloadSettingsSubLinks2
+onedrive.live.com###SuiteMenu_Language
+
 
 ! Free Media Heck Yeah
 fmhy.net##.copyright
@@ -376,3 +387,33 @@ www.febbox.com##.login_popup > .desc
 
 ! RemoveBG
 www.remove.bg##.align-items-center.flex
+
+
+! RoPro
+ropro.io##.footercontainer
+
+
+! DropBox
+www.dropbox.com##._hr-label_1rzgs_4
+www.dropbox.com##.dwg-color--standard.disabled\:dwg-border-color--disabled.dwg-bg-color--core-secondary.dwg-p--0.dwg-align-items--center.dwg-width--full.dwg-display--flex.dwg-theme--coconut-200.dwg-box.auth-apple.dwg-sso-button-v2.dwg-sso-button
+www.dropbox.com##.dwg-pb--6.dwg-pt--4.dwg-box
+www.dropbox.com##.dwg-align-items--center.dwg-flex-direction--column.dwg-width--full.dwg-display--flex.dwg-box.dwg-plank-frame__inner--max-content-width.dwg-plank-frame__inner > .dwg-display--flex.dwg-box.dwg-flex-row-gap--4.dwg-flex-grid
+www.dropbox.com##.dwg-m--0.dwg-p--0.dwg-width--full.dwg-display--flex.dwg-box.dwg-nav-menu--horizontal.dwg-nav-menu
+www.dropbox.com##.dwg-height--full.dwg-width--full.mobile-lg\:dwg-display--flex.dwg-display--none.dwg-box
+www.dropbox.com##.dig-Banner--withIcon.dig-Banner--withCloseButton.dig-ekabin2b_3-12-0.dig-w54z3ih_21-6-0.dig-w54z3id_21-6-0.dig-w54z3ic_21-6-0.dig-w54z3i5_21-6-0.dig-w54z3ie_21-6-0.dig-w54z3ia_21-6-0.dig-w54z3i4_21-6-0.dig-Banner--basic.dig-Banner--attention.dig-Banner
+www.dropbox.com##.dig-1f09ta219_21-6-0.dig-1f09ta24_21-6-0.dig-Button-content
+www.dropbox.com##.dig-4rjmw90_3-12-0.dig-ekabin71_3-12-0.dig-ekabin85_3-12-0.dig-ekabin18_3-12-0.dig-ekabin25g_3-12-0.dig-1f09ta21s_21-6-0.dig-1f09ta21r_21-6-0.dig-1f09ta21k_21-6-0.dig-t4vtb5g_21-6-0.dig-1f09ta21i_21-6-0.dig-t4vtb5d_21-6-0.dig-1f09ta2o_21-6-0.dig-1f09ta23_21-6-0.dig-Button-tone--neutral.dig-Button--medium.dig-Button--standard.dig-Button--primary.dig-Button > .dig-1f09ta218_21-6-0.dig-1f09ta24_21-6-0.dig-Button-content
+www.dropbox.com##._learningCenterHeaderDesktop_1qej8_3._railButton_1qej8_33.dig-4rjmw90_3-12-0.dig-ekabinr_3-12-0.dig-ekabin8_3-12-0.dig-ekabin2b_3-12-0.dig-ekabin9e_3-12-0.dig-ekabina3_3-12-0.dig-ekabin8z_3-12-0.dig-ekabin38h_3-12-0.dig-ekabin36t_3-12-0.dig-ekabin2ur_3-12-0.dig-ekabin2qg_3-12-0.dig-ekabin25m_3-12-0.dig-ekabinhl_3-12-0.dig-ekabind5_3-12-0.dig-ekabinqh_3-12-0.dig-ekabinm1_3-12-0
+www.dropbox.com##.account-menu-v2__quota-bar-btn.dig-1f09ta220_21-6-0.dig-1f09ta21r_21-6-0.dig-1f09ta21k_21-6-0.dig-1f09ta21p_21-6-0.dig-1f09ta21i_21-6-0.dig-1f09ta212_21-6-0.dig-1f09ta210_21-6-0.dig-t4vtb5c_21-6-0.dig-1f09ta2t_21-6-0.dig-1f09ta23_21-6-0.dig-Button-tone--neutral.dig-Button--small.dig-Button--transparent.dig-Button > .dig-1f09ta21e_21-6-0.dig-1f09ta21d_21-6-0.dig-1f09ta24_21-6-0.dig-Button-content
+www.dropbox.com##.trial-cards-container-GENERAL_TAB.trial-cards-container--2-cards.trial-cards-container
+
+
+! Rufus
+rufus.ie##.hide_on_small_screens
+rufus.ie###right_column
+rufus.ie##.footer
+
+
+! LinuxMint
+linuxmint.com##.mb-0.btn-white.btn-sm.btn
+linuxmint.com##.py-3.footer-copyright
