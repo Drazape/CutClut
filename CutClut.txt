@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 23 Mar 2025
-! Version: 7.21.36
+! Version: 7.21.37
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 261
+! Number of entries: 262
 
 
 
@@ -417,3 +417,8 @@ rufus.ie##.footer
 ! LinuxMint
 linuxmint.com##.mb-0.btn-white.btn-sm.btn
 linuxmint.com##.py-3.footer-copyright
+
+
+! Etcher
+etcher.balena.io##.footer
+
