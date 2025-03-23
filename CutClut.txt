@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 23 Mar 2025
-! Version: 7.21.38
+! Version: 7.21.39
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 266
+! Number of entries: 267
 
 
 
@@ -428,4 +428,7 @@ www.mediafire.com###subFooterWrap
 www.mediafire.com##.header
 www.mediafire.com##.MFUltra-content
 www.mediafire.com##.DlBtnUltraUpsell
+
+! LinuxMint installation guide
+linuxmint-installation-guide.readthedocs.io##footer > div > p
 
