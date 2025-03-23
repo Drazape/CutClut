@@ -1,4 +1,4 @@
-AdBlock filter that
+[AdBlock filter](https://adguard.com/en/blog/what-are-filters.html) that
 - Cleans websites by removing
   - Premium content ads
   - Privacy policies
