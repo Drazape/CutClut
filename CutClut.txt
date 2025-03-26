@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 23 Mar 2025
-! Version: 7.21.40
+! Last modified: 26 Mar 2025
+! Version: 7.22.42
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 267
+! Number of entries: 276
 
 
 
@@ -148,6 +148,8 @@ github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--s
 github.com##.is-merging.Details.merge-pr > .flex-justify-end.d-flex
 ! 'Home'&'Copilot' buttons in navigation bar
 github.com##li.ActionListItem:nth-of-type(1), li.ActionListItem:nth-of-type(7)
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-items-center.flex-justify-center.d-flex.f6.mt-6.py-6.p-responsive.container-lg.footer
+
 ! archive program bottom-bar irrelevant hypertext
 archiveprogram.github.com##[href="https://partner.github.com/#form-signUp"]
 archiveprogram.github.com##[href="https://github.com/explore"]
@@ -159,6 +161,7 @@ docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 
 ! GitHub support
 support.github.com##.kSencr.Box-sc-g0xbh4-0
+
 
 ! GotHub (top bar)
 gothub.lunar.icu##.navbar
@@ -293,11 +296,14 @@ scribe.rip##[href="https://sr.ht/~edwardloveall/Scribe"]
 read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
 
 
-! ChatGPT
-chatgpt.com##.min-h-4 > div
-
 ! OpenAI
 openai.com##.items-center.w-full.h-full.flex.relative.px-s\/2.duration-250.ease-curve-a.transition
+
+! ChatGPT
+chatgpt.com##div.pr-3:nth-of-type(3)
+chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex:nth-of-type(5)
+chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overflow-hidden.text-token-text-secondary.font-semibold.radix-state-open\:bg-token-main-surface-secondary.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
+chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
 
 
 ! Render
@@ -431,3 +437,14 @@ www.mediafire.com###subFooterWrap
 www.mediafire.com##.header
 www.mediafire.com##.MFUltra-content
 www.mediafire.com##.DlBtnUltraUpsell
+
+
+! BitWarden Vault
+vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-border-b.tw-border-solid.tw-bg-clip-padding.tw-border-transparent.tw-text-main.tw-pl-4.tw-p-2.tw-gap-2.tw-items-center.tw-flex
+
+
+! BetterDiscord
+||camo.githubusercontent.com/*/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d*266d6573736167653d*6f6e*267374796c653d666c6174266c6f676f3d*26636f6c6f723d626c*
+betterdiscord.app##.text-center.footer-copyright
+betterdiscord.app##div.footer-column:nth-of-type(4)
+betterdiscord.app##a.nav-item:nth-of-type(4)
