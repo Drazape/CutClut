@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 26 Mar 2025
-! Version: 7.22.42
+! Version: 8.22.42
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 276
+! Number of entries: 289
 
 
 
@@ -108,6 +108,12 @@ tasks.google.com##.yVc39c.tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd
 
 ! Google Keep
 keep.google.com##.PvRhvb-hSRGPd
+
+
+! Android - flash
+flash.android.com##.policy-statement.gmat-caption
+flash.android.com##unified-flashstation-app > .gmat-caption
+
 
 ! YouTube
 www.youtube.com###guide-links-primary
@@ -420,11 +426,11 @@ rufus.ie###right_column
 rufus.ie##.footer
 
 
-! LinuxMint
+! Linux Mint
 linuxmint.com##.mb-0.btn-white.btn-sm.btn
 linuxmint.com##.py-3.footer-copyright
 
-! LinuxMint installation guide
+! Linux Mint installation guide
 linuxmint-installation-guide.readthedocs.io##footer > div > p
 
 
@@ -448,3 +454,23 @@ vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-b
 betterdiscord.app##.text-center.footer-copyright
 betterdiscord.app##div.footer-column:nth-of-type(4)
 betterdiscord.app##a.nav-item:nth-of-type(4)
+
+
+! Scratch
+scratch.mit.edu##.donate-banner.title-banner
+scratch.mit.edu##dl:nth-of-type(1)
+scratch.mit.edu###donor
+scratch.mit.edu##.select > .row.form-group > .col-sm-9
+scratch.mit.edu##dl:nth-of-type(4)
+
+
+! Linux Journey
+linuxjourney.com##.dropdown-toggle
+linuxjourney.com##.footer
+
+
+! Wikipedia
+en.wikipedia.org###p-vector-user-menu-overflow > .vector-menu-content > .vector-menu-content-list
+en.wikipedia.org##.vector-search-box.vector-search-box-auto-expand-width.vector-search-box-show-thumbnail.vector-search-box-collapses.vector-search-box-vue
+en.wikipedia.org##.vector-header-end
+en.wikipedia.org###footer-places
