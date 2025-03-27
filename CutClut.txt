@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 26 Mar 2025
-! Version: 8.22.42
+! Version: 8.22.43
 ! Expires: 1 day
 ! Syntax: AdBlock
 ! Number of entries: 289
@@ -218,6 +218,7 @@ fmhy.net##.copyright
 fmhy.net##.feedback-footer
 fmhy.net##.message
 fmhy.net##.VPFooter
+fmhy.net##.duration-300.transition-all.font-bold.border-solid.border-2.rounded.select-none.mt-2.hover\:border-primary.border-\$vp-c-default-soft.py1.px2.text-primary.bg-\$vp-c-default-soft
 
 
 ! Ko-Fi
