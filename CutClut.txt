@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 27 Mar 2025
-! Version: 8.23.48
+! Version: 8.23.49
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 298
+! Number of entries: 299
 
 
 
@@ -500,3 +500,6 @@ www.winehq.org##.row
 ! Rofi
 davatorium.github.io##.md-typeset.md-footer-meta
 
+
+! AutoKey
+autokey.github.io##div > p
