@@ -2,10 +2,12 @@
 - Cleans websites by removing
   - Premium content ads
   - Privacy policies
-  - Other unnecessary elements
+  - Donations
+  - Repetative elements
+    - Unrelated elements already available with a minimalistic approach
   - Light-themed background media spoiling the forced-dark themes
 - Blocks ugly fake/unofficial websites with ADs and trackers
-- **New!**: Attempts to bypass bot verifications
+- Attempts to bypass bot verifications
 
 ------
 
