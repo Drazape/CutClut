@@ -1,5 +1,5 @@
 [AdBlock filter](https://adguard.com/en/blog/what-are-filters.html) that
-- Cleans websites by removing
+- Removes
   - Premium content ads
   - Privacy policies
   - Donations
