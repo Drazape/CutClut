@@ -35,9 +35,11 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 ## Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
   - Recommended color setup
-     - **Background**: A dark color chosen from your wallpaper
-     - **text**: A light shade of the background color
-     - **visited link**: opposite (*light*) colour of the text color
+     - **Background**: A very dark color chosen from your wallpaper
+     - **Text**: A very light shade of the background color
+     - **Default link**: Darker than *Text* color
+     - **Selection**: Darker than *Default* color
+     - **Visited link**: Opposite (*light*) colour of the text color
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
 ## Redirection
