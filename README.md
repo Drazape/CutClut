@@ -34,7 +34,7 @@ You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/
 # Curated tools for further clutter-cutting
 ## Theming
 - [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
-  - recommended color setup
+  - Recommended color setup
      - **Background**: A dark color chosen from your wallpaper
      - **text**: A light shade of the background color
      - **visited link**: opposite (*light*) colour of the text color
