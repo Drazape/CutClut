@@ -20,7 +20,7 @@
 - The front-end is uglier than the original website
 ## Work in progress
 CutClut currently covers very few websites.
-You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites
+You can [create a *site request* issue](https://github.com/DestroyerBDT/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title=) to request more websites!
 
 ---
 
