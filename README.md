@@ -3,6 +3,7 @@
   - Premium content ads
   - Privacy policies
   - Other unnecessary elements
+  - Light-themed background media spoiling the forced-dark themes
 - Blocks ugly fake/unofficial websites with ADs and trackers
 - **New!**: Attempts to bypass bot verifications
 
