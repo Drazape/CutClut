@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 27 Mar 2025
-! Version: 8.22.44
+! Version: 8.22.46
 ! Expires: 1 day
 ! Syntax: AdBlock
-! Number of entries: 290
+! Number of entries: 292
 
 
 
@@ -476,3 +476,11 @@ en.wikipedia.org###p-vector-user-menu-overflow > .vector-menu-content > .vector-
 en.wikipedia.org##.vector-search-box.vector-search-box-auto-expand-width.vector-search-box-show-thumbnail.vector-search-box-collapses.vector-search-box-vue
 en.wikipedia.org##.vector-header-end
 en.wikipedia.org###footer-places
+
+
+! Oh my Zsh
+ohmyz.sh##.position-relative.container > .nav__list [href="https://opencollective.com/ohmyzsh"]
+
+
+! Coreboot
+coreboot.org##.centered.legal-link
