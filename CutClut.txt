@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 27 Mar 2025
-! Version: 8.23.49
+! Last modified: 28 Mar 2025
+! Version: 8.23.52
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 299
+! Number of entries: 304
 
 
 
@@ -503,3 +503,17 @@ davatorium.github.io##.md-typeset.md-footer-meta
 
 ! AutoKey
 autokey.github.io##div > p
+
+
+! Ghostwritter - KDE
+ghostwriter.kde.org###kFooter
+||ghostwriter.kde.org/aether/languages.png$image
+ghostwriter.kde.org##.dropdown-toggle.nav-link
+
+
+! VinegarHQ - Sober
+sober.vinegarhq.org##footer
+
+
+! Dunst
+dunst-project.org##p:nth-of-type(9)
