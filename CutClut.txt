@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 28 Mar 2025
-! Version: 8.23.52
+! Version: 8.24.54
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 304
+! Number of entries: 311
 
 
 
@@ -504,6 +504,12 @@ davatorium.github.io##.md-typeset.md-footer-meta
 ! AutoKey
 autokey.github.io##div > p
 
+! KDE
+kde.org##li.nav-item:nth-of-type(6)
+kde.org##.h6.py-3.mb-0.flex-wrap.d-xl-flex.d-block
+kde.org##[href="https://kde.org/privacypolicy-apps"]
+kde.org##[href="https://kde.org/privacypolicy"]
+kde.org##[href="https://kde.org/code-of-conduct/"]
 
 ! Ghostwritter - KDE
 ghostwriter.kde.org###kFooter
@@ -517,3 +523,11 @@ sober.vinegarhq.org##footer
 
 ! Dunst
 dunst-project.org##p:nth-of-type(9)
+
+
+! FlatHub
+flathub.org##.md\:w-40.sm\:w-32.basis-1\/2.w-52.text-base.font-bold.px-8.h-11.hover\:bg-secondary\/80.shadow-xs.text-secondary-foreground.bg-secondary.\[\&_svg\]\:shrink-0.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-hidden.transition-colors.rounded-lg.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
+
+
+! Nix
+nixos.org##a.md\:bg-transparent.bg-nix-blue-extralight.md\:border-b-transparent.border-b-nix-blue-extralight.border-b-4.md\:hover\:border-b-nix-blue-light.md\:text-black.text-nix-blue-dark.text-center.pb-6.pt-7:nth-of-type(7)
