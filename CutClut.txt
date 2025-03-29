@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 29 Mar 2025
-! Version: 10.25.58
+! Version: 10.25.59
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 331
+! Number of entries: 332
 
 
 
@@ -655,3 +655,4 @@ app.todoist.com##._79077c62.b4e05554._2d7320f2._14423c92.fb8d74bb.a3c628a9
 app.todoist.com###\/app\/settings\/backups
 app.todoist.com##div.c3b69d70._2d7320f2._14423c92.fb8d74bb.hef77SW:nth-of-type(3)
 app.todoist.com##._7246d092.aa19cb97._3930afa0.uLapUW0._8c75067a.fb8d74bb
+www.todoist.com##li._navbarItem_53i31_1 > ._primary_alspx_188._button_alspx_1._semiBold_6gb1h_125._minor-base_6gb1h_144._text_6gb1h_1
