@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 28 Mar 2025
-! Version: 8.24.55
+! Last modified: 29 Mar 2025
+! Version: 8.25.55
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 313
+! Number of entries: 316
 
 
 
@@ -534,3 +534,8 @@ flathub.org##.md\:w-40.sm\:w-32.basis-1\/2.w-52.text-base.font-bold.px-8.h-11.ho
 ! Nix
 nixos.org##a.md\:bg-transparent.bg-nix-blue-extralight.md\:border-b-transparent.border-b-nix-blue-extralight.border-b-4.md\:hover\:border-b-nix-blue-light.md\:text-black.text-nix-blue-dark.text-center.pb-6.pt-7:nth-of-type(7)
 
+
+! Gnome
+www.gnome.org###nav-donate
+www.gnome.org##.nogap.colored-row
+www.gnome.org##footer
