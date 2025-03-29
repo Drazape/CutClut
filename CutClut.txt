@@ -3,10 +3,12 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 29 Mar 2025
-! Version: 8.25.57
+! Version: 9.25.58
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 321
+! Number of entries: 322
+
+
 
 
 
@@ -23,13 +25,16 @@ bw.projectsegfau.lt##.text
 bw.projectsegfau.lt##p:nth-of-type(1), p:nth-of-type(2), p:nth-of-type(5)
 bw.projectsegfau.lt##.bw-theme__select
 
+
 ! IndieWIki
 getindie.wiki##[href="privacy"]
 getindie.wiki##div.align-center.content.container > .content > [href="https://github.com/KevinPayravi/indie-wiki-buddy"]
 
 
+
 ! NoCookie
 ||static.wikia.nocookie.net/3f46912f-45a8-47f0-ac9d-6dca02c3a5ca$image
+
 
 
 ! Elevenforum
@@ -51,6 +56,7 @@ www.elevenforum.com##.block-row--minor.block-row
 www.elevenforum.com##.block-row.block-body
 
 
+
 ! XDAforums
 xdaforums.com##.listInline.listInline--bullet.xda_canvasSiteLinks.block-row > li > [href="https://xdaforums.com/t/xda-developers-forum-rules.4200559/"]
 xdaforums.com##.block-body > .p-footer-copyright
@@ -60,6 +66,7 @@ xdaforums.com##.uix_extendedFooter
 xdaforums.com###js-XFUniqueId6
 xdaforums.com##.p-footer-inner > .pageContent
 xdaforums.com##.p-footer-inner
+
 
 
 ! Google
@@ -78,12 +85,14 @@ www.google.co.in##.gb_W
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 
+
 ! Google Accounts
 accounts.google.com##.dMNVAe
 accounts.google.com##.OKMeHe
 accounts.google.com##.FZfKCe
 myaccount.google.com##.yv7Gae.Z8F8sf
 myaccount.google.com##.Bdlund.mN1ivc.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
+
 
 !Google Photos
 photos.google.com##.JJpMec
@@ -92,6 +101,7 @@ photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEO
 photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe
 photos.google.com###gbwa > .gb_D > .gb_B
 
+
 ! Google Play
 play.google.com##.atOvg > .HcyOxe
 play.google.com##.yhtbu
@@ -99,12 +109,15 @@ play.google.com###\39  > .VfPpkd-YVzG2b
 play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd.VfPpkd-AznF2e
 play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 
+
 ! Google Meet
 meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
 
+
 ! Google Tasks
 tasks.google.com##.yVc39c.tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd
+
 
 ! Google Keep
 keep.google.com##.PvRhvb-hSRGPd
@@ -140,57 +153,17 @@ www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-rendere
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
 
 
-! GitHub
-github.com##.Link.Link--secondary
-github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
-github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
-github.com##.text-light.text-small.color-fg-subtle
-github.com##a.mr-2.Link:nth-of-type(1)
-github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
-github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
-github.com##.f6.Link
-! old PR experience
-github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
-github.com##.is-merging.Details.merge-pr > .flex-justify-end.d-flex
-! 'Home'&'Copilot' buttons in navigation bar
-github.com##li.ActionListItem:nth-of-type(1), li.ActionListItem:nth-of-type(7)
-github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-items-center.flex-justify-center.d-flex.f6.mt-6.py-6.p-responsive.container-lg.footer
 
-! archive program bottom-bar irrelevant hypertext
-archiveprogram.github.com##[href="https://partner.github.com/#form-signUp"]
-archiveprogram.github.com##[href="https://github.com/explore"]
-archiveprogram.github.com##[href="https://github.com/join"]
-
-! GitHub docs
-docs.github.com##.contribution.f5
-docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
-
-! GitHub support
-support.github.com##.kSencr.Box-sc-g0xbh4-0
+! 9to5google
+9to5google.com##[href="https://9to5mac.com/privacy/"]
+9to5google.com###nav-menu-item-295584 > .main-menu-link.menu-link
+9to5google.com##.flex.header-right > .js-button.darkmode-toggle
+9to5google.com###nav-menu-item-182576 > .main-menu-link.menu-link
 
 
-! GotHub (top bar)
-gothub.lunar.icu##.navbar
 
+! Microsoft
 
-! Userstyles
-userstyles.world##[href="/modlog"]
-userstyles.world##.copyright
-
-
-! GreasyFork
-greasyfork.org###site-name-text [href]
-
-!Mozilla
-
-! Mozilla support
-support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
-support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
-support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
-support.mozilla.org##.mzp-c-footer-legal > ul
-
-! Firefox account
-accounts.firefox.com##p
 
 ! Microsoft Copilot
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
@@ -198,8 +171,10 @@ copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.fle
 copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1), a.focus\:underline.hover\:underline:nth-of-type(2)
 copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
 
+
 Microsoft - open-source
 opensource.microsoft.com##.flex-column.flex-items-center.flex-justify-between.d-xl-flex.wrapper > ul
+
 
 ! OneDrive
 onedrive.live.com##.root-172.ms-MessageBar-multiline.ms-MessageBar
@@ -213,17 +188,87 @@ onedrive.live.com###WorkloadSettingsSubLinks2
 onedrive.live.com###SuiteMenu_Language
 
 
+! GitHub
+github.com##.Link.Link--secondary
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
+github.com##.p-responsive.color-fg-muted.f6.pb-6.pt-8.footer
+github.com##.text-light.text-small.color-fg-subtle
+github.com##a.mr-2.Link:nth-of-type(1)
+github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
+github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
+github.com##.f6.Link
+
+! old PR experience
+github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
+github.com##.is-merging.Details.merge-pr > .flex-justify-end.d-flex
+
+! 'Home'&'Copilot' buttons in navigation bar
+github.com##li.ActionListItem:nth-of-type(1), li.ActionListItem:nth-of-type(7)
+github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-items-center.flex-justify-center.d-flex.f6.mt-6.py-6.p-responsive.container-lg.footer
+
+
+! archive program bottom-bar irrelevant hypertext
+archiveprogram.github.com##[href="https://partner.github.com/#form-signUp"]
+archiveprogram.github.com##[href="https://github.com/explore"]
+archiveprogram.github.com##[href="https://github.com/join"]
+
+
+! GitHub docs
+docs.github.com##.contribution.f5
+docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
+
+
+! GitHub support
+support.github.com##.kSencr.Box-sc-g0xbh4-0
+
+
+
+! GotHub (top bar)
+gothub.lunar.icu##.navbar
+
+
+
+! Userstyles
+userstyles.world##[href="/modlog"]
+userstyles.world##.copyright
+
+
+
+! GreasyFork
+greasyfork.org###site-name-text [href]
+
+
+
+!Mozilla
+
+
+! Mozilla support
+support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
+support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
+support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
+support.mozilla.org##.mzp-c-footer-legal > ul
+
+
+! Firefox account
+accounts.firefox.com##p
+
+
+
 ! Free Media Heck Yeah
 fmhy.net##.copyright
 fmhy.net##.feedback-footer
 fmhy.net##.message
 fmhy.net##.VPFooter
-! Feedback prompt
+
+! Feedback prompts
 fmhy.net##.duration-300.transition-all.font-bold.border-solid.border-2.rounded.select-none.mt-2.hover\:border-primary.border-\$vp-c-default-soft.py1.px2.text-primary.bg-\$vp-c-default-soft
+fmhy.net##.duration-250.transition-colors.col-span-3.rounded-xl.dark\:border-brand-800.dark\:bg-brand-950.border-brand-300.bg-brand-50.border-solid.border-2.p-4.mt-2
+
 
 
 ! Ko-Fi
 ||ko-fi.com^
+
 
 
 ! ThebrowserCompany
@@ -231,10 +276,12 @@ thebrowser.company##[href="https://arc.net/privacy"]
 thebrowser.company##[href="https://arc.net/security"]
 thebrowser.company##.eloOXn.Elements__BlueSection-sc-qpg4il-0
 
+
 ! SubStack - TheBrowserCompany
 browsercompany.substack.com##[href^="https://substack.com/ccpa"]
 browsercompany.substack.com##[href^="https://browsercompany.substack.com/tos"]
 browsercompany.substack.com##.subscribe-page-footer._reset_h3mln_1.pc-reset.pencraft
+
 
 
 ! DiscoHook
@@ -245,13 +292,17 @@ github.com##ul.list-style-none > .d-flex.mb-2
 github.com##.text-light.text-small.flex-wrap.d-flex
 github.com##show-dialog-on-load > .Button.Button--medium.Button--secondary
 
+
+
 ! Legcord
 legcord.app##.text-gray-400.text-xs.text-center.mt-4 > p
+
 
 
 ! uBlock Origin
 ublockorigin.com##.author-attribution
 ublockorigin.com##.copyright > p
+
 
 
 ! ROBLOX
@@ -274,8 +325,20 @@ www.roblox.com###nav-shop
 www.roblox.com###nav-trade
 
 
+
+! RoPro
+ropro.io##.footercontainer
+
+
+
+! VinegarHQ - Sober
+sober.vinegarhq.org##footer
+
+
+
 ! Steam Store
 store.steampowered.com##a.menuitem:nth-of-type(5)
+
 
 ! Steam community
 steamcommunity.com###footerText
@@ -284,8 +347,11 @@ steamcommunity.com###footer_spacer
 store.steampowered.com##.footer_content
 store.steampowered.com###footer
 
+
+
 ! FreeToGame
 www.freetogame.com##.pt-3.deep-dark.font-small.page-footer
+
 
 
 ! Epic Games
@@ -296,22 +362,27 @@ store.epicgames.com##.css-k204li
 store.epicgames.com##.css-1jd731i > span
 
 
+
 ! Scribe
 scribe.rip##[href="https://sr.ht/~edwardloveall/Scribe"]
+
 
 
 ! SudoVanilla
 read.sudovanilla.org##[href="https://git.batsense.net/realaravinth/libmedium"]
 
 
+
 ! OpenAI
 openai.com##.items-center.w-full.h-full.flex.relative.px-s\/2.duration-250.ease-curve-a.transition
+
 
 ! ChatGPT
 chatgpt.com##div.pr-3:nth-of-type(3)
 chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex:nth-of-type(5)
 chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overflow-hidden.text-token-text-secondary.font-semibold.radix-state-open\:bg-token-main-surface-secondary.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
+
 
 
 ! Render
@@ -321,6 +392,7 @@ render.com##.lg\:border-t-1.text-gray-100.bg-gray-800.border-gray-700.flex-col.w
 render.com##.lg\:p-0.bg-gray-800.row-start-2.row-span-8.col-start-3.col-span-14.z-2.relative
 render.com##.sm\:basis-\[initial\].sm\:inline.text-body-sm.basis-full.flex
 dashboard.render.com##.py-1.space-x-2.outline-2.focus\:outline-focus-action.focus-visible\:outline.hover\:shell-side-nav-item-text--hover.text-secondary.type-interface-01.hover\:shell-side-nav-item-background--hover.shell-side-nav-item-background.text-left.px-2.w-full.items-center.flex.group\/shell-side-nav-item
+
 
 
 ! WebExtension
@@ -337,6 +409,7 @@ webextension.org###adb > tbody > tr > td > div
 webextension.org###adb > tbody > tr > td
 
 
+
 ! OCR space
 ocr.space##.bigborder
 ocr.space##.headline
@@ -344,22 +417,27 @@ ocr.space##p:nth-of-type(10)
 ocr.space##p:nth-of-type(3)
 
 
+
 ! SearchTweaks
 ||searchtweaks.com/src/mainback.png$image
+
 
 
 ! OO-software
 www.oo-software.com##.footer2
 www.oo-software.com##.spacer-3x
 
+
 ! Shields
 ||img.shields.io/badge/donate-paypal%2Fbitcoin-brightgreen.svg$image
+
 
 
 ! BCuninstaller
 www.bcuninstaller.com##.site-footer
 www.bcuninstaller.com###licensing-and-commercial-use
 www.bcuninstaller.com##p:nth-of-type(15)
+
 
 
 ! FOSS-hub
@@ -371,6 +449,7 @@ www.fosshub.com##.pfm__p
 www.fosshub.com###fh-ss
 www.fosshub.com##.ad > .block--center
 www.fosshub.com##.ad
+
 
 
 ! SourceForge
@@ -388,23 +467,15 @@ sourceforge.net##.m-rate-project.row > .columns.small-12
 sourceforge.net##.img_ithcq8j1q1i8oeh81i8ji8l
 
 
-! 9to5google
-9to5google.com##[href="https://9to5mac.com/privacy/"]
-9to5google.com###nav-menu-item-295584 > .main-menu-link.menu-link
-9to5google.com##.flex.header-right > .js-button.darkmode-toggle
-9to5google.com###nav-menu-item-182576 > .main-menu-link.menu-link
-
 
 ! FebBox
 www.febbox.com##.login_popup > .desc
 
 
+
 ! RemoveBG
 www.remove.bg##.align-items-center.flex
 
-
-! RoPro
-ropro.io##.footercontainer
 
 
 ! DropBox
@@ -422,22 +493,27 @@ www.dropbox.com##.account-menu-v2__quota-bar-btn.dig-1f09ta220_21-6-0.dig-1f09ta
 www.dropbox.com##.trial-cards-container-GENERAL_TAB.trial-cards-container--2-cards.trial-cards-container
 
 
+
 ! Rufus
 rufus.ie##.hide_on_small_screens
 rufus.ie###right_column
 rufus.ie##.footer
 
 
+
 ! Linux Mint
 linuxmint.com##.mb-0.btn-white.btn-sm.btn
 linuxmint.com##.py-3.footer-copyright
+
 
 ! Linux Mint installation guide
 linuxmint-installation-guide.readthedocs.io##footer > div > p
 
 
+
 ! Etcher
 etcher.balena.io##.footer
+
 
 
 ! MediaFire
@@ -447,8 +523,10 @@ www.mediafire.com##.MFUltra-content
 www.mediafire.com##.DlBtnUltraUpsell
 
 
+
 ! BitWarden Vault
 vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-border-b.tw-border-solid.tw-bg-clip-padding.tw-border-transparent.tw-text-main.tw-pl-4.tw-p-2.tw-gap-2.tw-items-center.tw-flex
+
 
 
 ! BetterDiscord
@@ -456,6 +534,7 @@ vault.bitwarden.com##.tw-border-b-success-700.tw-bg-success-100.tw-border-0.tw-b
 betterdiscord.app##.text-center.footer-copyright
 betterdiscord.app##div.footer-column:nth-of-type(4)
 betterdiscord.app##a.nav-item:nth-of-type(4)
+
 
 
 ! Scratch
@@ -466,9 +545,11 @@ scratch.mit.edu##.select > .row.form-group > .col-sm-9
 scratch.mit.edu##dl:nth-of-type(4)
 
 
+
 ! Linux Journey
 linuxjourney.com##.dropdown-toggle
 linuxjourney.com##.footer
+
 
 
 ! Wikipedia
@@ -478,12 +559,15 @@ en.wikipedia.org##.vector-header-end
 en.wikipedia.org###footer-places
 
 
+
 ! Oh my Zsh
 ohmyz.sh##.position-relative.container > .nav__list [href="https://opencollective.com/ohmyzsh"]
 
 
+
 ! Coreboot
 coreboot.org##.centered.legal-link
+
 
 
 ! Hyprland
@@ -493,16 +577,21 @@ hyprland.org##.rounded-lg.gap-4.flex-col.grow.flex
 hyprland.org##div.gap-4.flex-col.flex:nth-of-type(2)
 
 
+
 ! WineHQ
 www.winehq.org##.row
+
 
 
 ! Rofi
 davatorium.github.io##.md-typeset.md-footer-meta
 
 
+
 ! AutoKey
 autokey.github.io##div > p
+
+
 
 ! KDE
 kde.org##li.nav-item:nth-of-type(6)
@@ -513,26 +602,27 @@ kde.org##[href="https://kde.org/code-of-conduct/"]
 kde.org###kDonateForm
 kde.org###kFooterIncome
 
+
 ! Ghostwritter - KDE
 ghostwriter.kde.org###kFooter
 ||ghostwriter.kde.org/aether/languages.png$image
 ghostwriter.kde.org##.dropdown-toggle.nav-link
 
 
-! VinegarHQ - Sober
-sober.vinegarhq.org##footer
-
 
 ! Dunst
 dunst-project.org##p:nth-of-type(9)
+
 
 
 ! FlatHub
 flathub.org##.md\:w-40.sm\:w-32.basis-1\/2.w-52.text-base.font-bold.px-8.h-11.hover\:bg-secondary\/80.shadow-xs.text-secondary-foreground.bg-secondary.\[\&_svg\]\:shrink-0.\[\&_svg\]\:pointer-events-none.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-hidden.transition-colors.rounded-lg.whitespace-nowrap.gap-2.justify-center.items-center.inline-flex
 
 
+
 ! Nix
 nixos.org##a.md\:bg-transparent.bg-nix-blue-extralight.md\:border-b-transparent.border-b-nix-blue-extralight.border-b-4.md\:hover\:border-b-nix-blue-light.md\:text-black.text-nix-blue-dark.text-center.pb-6.pt-7:nth-of-type(7)
+
 
 
 ! Gnome
@@ -541,11 +631,13 @@ www.gnome.org##.nogap.colored-row
 www.gnome.org##footer
 
 
+
 ! Lottie files
 lottiefiles.com##.c-idZwvW-ijTikFM-css.c-idZwvW-fGHEql-breakpoint-fluid.c-idZwvW > .CookieConsent
 lottiefiles.com##.c-qrVFM-ifCxcnZ-css.c-qrVFM-jWWQyU-size-md.c-qrVFM
 lottiefiles.com##.c-dINifs-iesDaaG-css.c-dINifs-icfOUq-fontWeight-bold.c-dINifs-bUylIU-size-sm.c-dINifs-gCTxhe-variant-link.c-dINifs
 lottiefiles.com##.c-kWnKGo-iegogZ-css.c-kWnKGo-jjMOzp-variant-body4.c-kWnKGo
+
 
 
 ! Cisofy
