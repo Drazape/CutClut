@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 29 Mar 2025
-! Version: 9.25.58
+! Version: 10.25.58
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 322
+! Number of entries: 331
 
 
 
@@ -642,3 +642,16 @@ lottiefiles.com##.c-kWnKGo-iegogZ-css.c-kWnKGo-jjMOzp-variant-body4.c-kWnKGo
 
 ! Cisofy
 cisofy.com##[href="/pricing/"]
+
+
+
+! Todoist
+app.todoist.com###agreement-footnote
+app.todoist.com##._2bda8f7a._79077c62.b9ff0c93.a87016fa.a65d9c55.b76144ce._202b0c8c._5f8879d9.d70b3c17._9510d053.ad0ccf15._4e9ab24b._14423c92.fb8d74bb.e0JL5rb
+app.todoist.com###\/app\/settings\/subscription
+app.todoist.com##.a87016fa.fb8d74bb
+app.todoist.com##.c68f8bf6.b76144ce._5f8879d9._14423c92.fb8d74bb._608df6ce
+app.todoist.com##._79077c62.b4e05554._2d7320f2._14423c92.fb8d74bb.a3c628a9
+app.todoist.com###\/app\/settings\/backups
+app.todoist.com##div.c3b69d70._2d7320f2._14423c92.fb8d74bb.hef77SW:nth-of-type(3)
+app.todoist.com##._7246d092.aa19cb97._3930afa0.uLapUW0._8c75067a.fb8d74bb
