@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 29 Mar 2025
-! Version: 8.25.55
+! Version: 8.25.57
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 316
+! Number of entries: 321
 
 
 
@@ -539,3 +539,14 @@ nixos.org##a.md\:bg-transparent.bg-nix-blue-extralight.md\:border-b-transparent.
 www.gnome.org###nav-donate
 www.gnome.org##.nogap.colored-row
 www.gnome.org##footer
+
+
+! Lottie files
+lottiefiles.com##.c-idZwvW-ijTikFM-css.c-idZwvW-fGHEql-breakpoint-fluid.c-idZwvW > .CookieConsent
+lottiefiles.com##.c-qrVFM-ifCxcnZ-css.c-qrVFM-jWWQyU-size-md.c-qrVFM
+lottiefiles.com##.c-dINifs-iesDaaG-css.c-dINifs-icfOUq-fontWeight-bold.c-dINifs-bUylIU-size-sm.c-dINifs-gCTxhe-variant-link.c-dINifs
+lottiefiles.com##.c-kWnKGo-iegogZ-css.c-kWnKGo-jjMOzp-variant-body4.c-kWnKGo
+
+
+! Cisofy
+cisofy.com##[href="/pricing/"]
