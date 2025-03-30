@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 29 Mar 2025
-! Version: 10.25.60
+! Last modified: 30 Mar 2025
+! Version: 11.25.63
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 333
+! Number of entries: 359
 
 
 
@@ -220,6 +220,10 @@ docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 
 ! GitHub support
 support.github.com##.kSencr.Box-sc-g0xbh4-0
+
+
+! Marker - GitHub
+||github.com/fabiocolacio/Marker/raw/master/donate.png$image
 
 
 
@@ -660,3 +664,33 @@ app.todoist.com##.fb8d74bb.e214ff2e._39f4eb1f.a83bd4e0
 app.todoist.com##._75ca308a.c3b69d70._68ab48ca.fb8d74bb._9dd31975 > ._8c75067a._2d7320f2._14423c92.fb8d74bb > .fb8d74bb.bff24867
 app.todoist.com##._8c75067a._966b120f._2d7320f2._14423c92.fb8d74bb.VvqZc2F > .a65d9c55.b76144ce._5f8879d9._14423c92.fb8d74bb.eae3d34f
 app.todoist.com##.fb8d74bb.b6f67ff8
+app.todoist.com##a._6a38242d.fb8d74bb.cdc8b08c._468ce45c.d77fcdc6:nth-of-type(2)
+
+
+
+! OnlyOffice
+||static-www.onlyoffice.com/v9.5.0/images/mainpage/bg.svg$image
+www.onlyoffice.com###navitem_prices
+||static-www.onlyoffice.com/v9.5.0/images/phone.svg$image
+www.onlyoffice.com##.pushy-submenu-closed.phone.pushy-submenu > .menuitem
+www.onlyoffice.com###launcher
+||static-www.onlyoffice.com/v9.5.0/images/globe.svg$image
+www.onlyoffice.com###LanguageItem > .en-US.title
+www.onlyoffice.com###LanguageItem > .selector
+www.onlyoffice.com##.dp-top-block
+www.onlyoffice.com###navitem_forbusiness
+www.onlyoffice.com##.signin_wrapper
+www.onlyoffice.com##.pushy-submenu-closed.partnership_menu_item.pushy-submenu > .menuitem
+www.onlyoffice.com##.customers_newdesign
+www.onlyoffice.com##.dp-rated
+www.onlyoffice.com##.tablet-view.footer_menu
+www.onlyoffice.com##[href="/legalterms.aspx"]
+www.onlyoffice.com##.compl_cert_icons
+www.onlyoffice.com##div.footer_menu_item > div > [href="/security.aspx"]
+www.onlyoffice.com##div.footer_menu_item:nth-of-type(3)
+
+
+
+! Duplicacy
+duplicacy.com##.footer-big.footer
+duplicacy.com##li:nth-of-type(3)
