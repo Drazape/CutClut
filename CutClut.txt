@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 30 Mar 2025
-! Version: 11.25.63
+! Version: 11.25.64
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 359
+! Number of entries: 363
 
 
 
@@ -694,3 +694,11 @@ www.onlyoffice.com##div.footer_menu_item:nth-of-type(3)
 ! Duplicacy
 duplicacy.com##.footer-big.footer
 duplicacy.com##li:nth-of-type(3)
+
+
+
+! actiona.tools - Wiki
+wiki.actiona.tools##.revs > [href^="/doku.php"] > svg
+wiki.actiona.tools##.revs > [href^="/doku.php"]
+wiki.actiona.tools##.buttons
+wiki.actiona.tools##.trace
