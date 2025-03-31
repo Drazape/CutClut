@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 30 Mar 2025
-! Version: 11.25.64
+! Last modified: 31 Mar 2025
+! Version: 11.25.67
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 363
+! Number of entries: 372
 
 
 
@@ -197,6 +197,9 @@ github.com##a.mr-2.Link:nth-of-type(1)
 github.com##.flex-md-justify-end.flex-justify-between.flex-items-center.gap-2.d-md-flex.d-none > .gap-2.flex-items-center.d-flex > .prc-Link-Link-85e08.text-normal.f5.no-wrap
 github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
+github.com##.Button--fullWidth.Button.Button--medium.Button--secondary
+github.com##.BorderGrid-cell > .mb-3.d-flex
+||github.com/sponsors/*
 
 ! old PR experience
 github.com##.d-md-inline.d-none.flex-shrink-0.pagehead-actions .Button.Button--small.Button--secondary
@@ -702,3 +705,21 @@ wiki.actiona.tools##.revs > [href^="/doku.php"] > svg
 wiki.actiona.tools##.revs > [href^="/doku.php"]
 wiki.actiona.tools##.buttons
 wiki.actiona.tools##.trace
+
+
+
+! LocalSend
+||sponsorapp.io/sponsor/01a74969ff16b90b$subdocument
+localsend.org##p:nth-of-type(2)
+localsend.org##.dark\:text-gray-300.dark\:bg-gray-800.text-sm.text-center.pt-8.pb-10.bg-gray-100 > .justify-center.flex-wrap.flex.mt-4
+
+
+
+! Image - Shields
+||img.shields.io/badge/Ko--fi-donate-red?logo=ko-fi&logoColor=red$image
+||img.shields.io/badge/patreon-donate-orange.svg?logo=patreon$image
+
+
+
+! Markdown guide
+www.markdownguide.org##.site-footer
