@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Mar 2025
-! Version: 11.25.71
+! Version: 11.26.71
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 380
+! Number of entries: 388
 
 
 
@@ -738,3 +738,15 @@ getsol.us##[href="https://opencollective.com/getsolus/donate"]
 ! system76
 system76.com##input.button-f7de2e4e-aa7d-43dd-8622-5bb70056f97a.button:nth-of-type(2)
 system76.com##.footer
+
+
+
+! BlissOS
+blissos.org###copyright
+blissos.org##div.px-1.col-sm:nth-of-type(1)
+blissos.org##.my-2.col-sm > [href="https://www.facebook.com/BlissFamilyOfROMs/"]
+blissos.org##.my-2.col-sm > [href="https://instagram.com/blissos_org"]
+blissos.org##.my-2.col-sm > [href="https://twitter.com/blissos_org"]
+blissos.org##li.mx-2.nav-item:nth-of-type(6)
+blissos.org##.bg-secondary.py-4
+blissos.org###funding
