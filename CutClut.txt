@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Mar 2025
-! Version: 11.25.67
+! Version: 11.25.69
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 372
+! Number of entries: 376
 
 
 
@@ -608,6 +608,8 @@ kde.org##[href="https://kde.org/privacypolicy"]
 kde.org##[href="https://kde.org/code-of-conduct/"]
 kde.org###kDonateForm
 kde.org###kFooterIncome
+kde.org##.button.d-block.ms-auto
+kde.org##nav.col-sm:nth-of-type(3)
 
 
 ! Ghostwritter - KDE
@@ -723,3 +725,9 @@ localsend.org##.dark\:text-gray-300.dark\:bg-gray-800.text-sm.text-center.pt-8.p
 
 ! Markdown guide
 www.markdownguide.org##.site-footer
+
+
+
+! Solus
+getsol.us##.legal
+getsol.us##[href="https://opencollective.com/getsolus/donate"]
