@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 31 Mar 2025
-! Version: 11.26.71
+! Version: 11.26.74
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 388
+! Number of entries: 393
 
 
 
@@ -174,6 +174,11 @@ copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-ston
 
 Microsoft - open-source
 opensource.microsoft.com##.flex-column.flex-items-center.flex-justify-between.d-xl-flex.wrapper > ul
+
+
+! To-do - Microsoft Office
+to-do.office.com##.terms
+to-do.office.com##.c-uhff-base
 
 
 ! OneDrive
@@ -389,6 +394,7 @@ chatgpt.com##div.pr-3:nth-of-type(3)
 chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-secondary.mx-2.px-3.my-0.rounded-md.dark\:focus-visible\:bg-token-main-surface-secondary.dark\:hover\:bg-token-main-surface-secondary.radix-state-open\:bg-\[\#f5f5f5\].focus-visible\:bg-\[\#f5f5f5\].hover\:bg-\[\#f5f5f5\].relative.group.radix-disabled\:opacity-50.radix-disabled\:pointer-events-none.focus-visible\:outline-0.cursor-pointer.text-sm.p-2\.5.m-1\.5.items-center.flex:nth-of-type(5)
 chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overflow-hidden.text-token-text-secondary.font-semibold.radix-state-open\:bg-token-main-surface-secondary.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 
 
 
@@ -671,6 +677,8 @@ app.todoist.com##._75ca308a.c3b69d70._68ab48ca.fb8d74bb._9dd31975 > ._8c75067a._
 app.todoist.com##._8c75067a._966b120f._2d7320f2._14423c92.fb8d74bb.VvqZc2F > .a65d9c55.b76144ce._5f8879d9._14423c92.fb8d74bb.eae3d34f
 app.todoist.com##.fb8d74bb.b6f67ff8
 app.todoist.com##a._6a38242d.fb8d74bb.cdc8b08c._468ce45c.d77fcdc6:nth-of-type(2)
+www.todoist.com##._bottomLinks_5898f_263
+www.todoist.com##._lg_1hbeh_15._container_1hbeh_1._bottomSectionContainer_5898f_249
 
 
 
@@ -750,3 +758,4 @@ blissos.org##.my-2.col-sm > [href="https://twitter.com/blissos_org"]
 blissos.org##li.mx-2.nav-item:nth-of-type(6)
 blissos.org##.bg-secondary.py-4
 blissos.org###funding
+
