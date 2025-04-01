@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 31 Mar 2025
-! Version: 11.26.74
+! Last modified: 1 Apr 2025
+! Version: 11.26.78
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 393
+! Number of entries: 400
 
 
 
@@ -759,3 +759,25 @@ blissos.org##li.mx-2.nav-item:nth-of-type(6)
 blissos.org##.bg-secondary.py-4
 blissos.org###funding
 
+
+
+! Hogbay software
+www.hogbaysoftware.com##.paddle_button.button
+www.hogbaysoftware.com##.terms
+www.hogbaysoftware.com##footer
+
+
+
+! TaskPaper
+www.taskpaper.com##.btn-primary-outline.btn-lg.btn.m-a.paddle_button
+
+
+
+! FreeCodeCamp
+www.freecodecamp.org##.toggle-button-nav
+
+
+
+! MX Linux
+mxlinux.org##.footer-widgets.site
+mxlinux.org##.site-info
