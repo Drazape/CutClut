@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 1 Apr 2025
-! Version: 11.26.78
+! Version: 11.26.81
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 400
+! Number of entries: 413
 
 
 
@@ -607,6 +607,12 @@ autokey.github.io##div > p
 
 
 
+! MX Linux
+mxlinux.org##.footer-widgets.site
+mxlinux.org##.site-info
+
+
+
 ! KDE
 kde.org##li.nav-item:nth-of-type(6)
 kde.org##.h6.py-3.mb-0.flex-wrap.d-xl-flex.d-block
@@ -623,6 +629,11 @@ kde.org##nav.col-sm:nth-of-type(3)
 ghostwriter.kde.org###kFooter
 ||ghostwriter.kde.org/aether/languages.png$image
 ghostwriter.kde.org##.dropdown-toggle.nav-link
+
+
+
+! Ubuntu help
+help.ubuntu.com##p:nth-of-type(1)
 
 
 
@@ -778,6 +789,31 @@ www.freecodecamp.org##.toggle-button-nav
 
 
 
-! MX Linux
-mxlinux.org##.footer-widgets.site
-mxlinux.org##.site-info
+! Documentation - Fedora
+docs.fedoraproject.org##.lg\:justify-start.\32 xl\:gap-28.xl\:gap-20.lg\:gap-12.lg\:mx-0.gap-4.justify-center.grow.items-center.flex.mx-4
+
+
+
+! OpenSUSE
+www.opensuse.org##p.text-center
+en.opensuse.org###footer-copyright
+en.opensuse.org##.mw-redirect
+en.opensuse.org##[href="/Terms_of_site"]
+
+
+
+! Endeavour OS
+endeavouros.com##.pb-2.pt-2.container
+
+
+
+! Arch Linux
+archlinux.org###footer > p
+archlinux.org##ul:nth-of-type(3)
+
+
+! Wiki - Arch Linux
+wiki.archlinux.org###footer-places-privacy
+wiki.archlinux.org###footer-places-disclaimers
+wiki.archlinux.org###footer-places-archwiki-code-of-conduct
+wiki.archlinux.org###footer-places-archwiki-terms-of-service
