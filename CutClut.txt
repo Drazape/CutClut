@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 2 Apr 2025
-! Version: 11.26.83
+! Last modified: 3 Apr 2025
+! Version: 11.26.84
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 422
+! Number of entries: 423
 
 
 
@@ -395,6 +395,7 @@ chatgpt.com##div.py-3.gap-2\.5.dark\:radix-state-open\:bg-token-main-surface-sec
 chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overflow-hidden.text-token-text-secondary.font-semibold.radix-state-open\:bg-token-main-surface-secondary.hover\:bg-token-main-surface-secondary.text-lg.px-3.py-1\.5.rounded-lg.gap-1.items-center.cursor-pointer.flex.group
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+chatgpt.com##.dark\:border-white\/20.empty\:hidden.py-2.flex-col.flex
 
 
 
@@ -834,4 +835,3 @@ www.gentoo.org##a.list-group-item:nth-of-type(6)
 ||linux.org/images/support_linuxorg-300.png$image
 ||linux.org/images/admin-apparel-linuxorg-300c.png$image
 linux.org##.p-footer-row-opposite > .p-footer-linkList
-
