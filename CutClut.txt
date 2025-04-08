@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 3 Apr 2025
-! Version: 11.26.84
+! Last modified: 8 Apr 2025
+! Version: 13.28.92
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 423
+! Number of entries: 444
 
 
 
@@ -77,13 +77,11 @@ www.google.com##.aajZCb > .lJ9FBc > center > .gNO89b
 www.google.com##.iTjxkf.KxwPGc > a.pHiOh, a.pHiOh:nth-of-type(1), a.pHiOh:nth-of-type(2), a.pHiOh:nth-of-type(3)
 www.google.com##a.MV3Tnb:nth-of-type(1), a.MV3Tnb:nth-of-type(2)
 www.google.com##.gb_W
-www.google.co.in##.lJ9FBc.FPdoLc > center > .gNO89b
-www.google.co.in##.aajZCb > .lJ9FBc > center > .gNO89b
-www.google.co.in##.iTjxkf.KxwPGc > a.pHiOh, a.pHiOh:nth-of-type(1), a.pHiOh:nth-of-type(2), a.pHiOh:nth-of-type(3)
-www.google.co.in##a.MV3Tnb:nth-of-type(1), a.MV3Tnb:nth-of-type(2)
-www.google.co.in##.gb_W
 www.google.com##.mWcf0e.PKDVJd > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
 www.google.com##.oIk2Cb > .xKf9F.KFFQ0c > .YfftMc > .EyBRub > .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+www.google.com##.Msi2Rc.z1asCe.RTZ84b
+www.google.com##.kno-fb.P58Kof.OwRFvb > .EyBRub .nKHyTc.mWcf0e > .LRZwuc.VfL2Y > .CNbPnc.W7GCoc
+
 
 
 ! Google Accounts
@@ -151,6 +149,11 @@ www.youtube.com###manage-account > .yt-formatted-string.style-scope.yt-simple-en
 www.youtube.com##ytd-toggle-theme-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
+
+
+! Developers - Google
+developers.google.com##.devsite-top-logo-row > devsite-language-selector
+developers.google.com##.devsite-devprofile-callout-paid-developer-program.devsite-devprofile-callout
 
 
 
@@ -835,3 +838,64 @@ www.gentoo.org##a.list-group-item:nth-of-type(6)
 ||linux.org/images/support_linuxorg-300.png$image
 ||linux.org/images/admin-apparel-linuxorg-300c.png$image
 linux.org##.p-footer-row-opposite > .p-footer-linkList
+
+
+
+! RoadMap
+roadmap.sh##.max-w-\[425px\] > .text-gray-400.text-sm > p
+
+
+
+! KernelSU Next
+ksunext.org##li.nav-item:nth-of-type(5)
+ksunext.org##body > .text-center
+
+
+
+! F-Droid
+f-droid.org##a.page-link:nth-of-type(5)
+f-droid.org##.donate-options.package-links
+f-droid.org##.package > h3
+
+
+
+! Swift apps
+www.swiftapps.org##.md\:py-12.py-8.px-4.container
+
+
+
+! Rare Animes
+www.rareanimes.com###menu-home-2 > .menu-item-41052.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.rareanimes.com/dmca/"]
+
+
+
+! Quetre - Puss-the-cat
+quetre.pussthecat.org###banner
+
+
+
+! Khan academy
+www.khanacademy.org##._axstxt
+www.khanacademy.org##._8i557f4
+en.khanacademy.org##._8i557f4
+en.khanacademy.org##._axstxt
+
+
+
+! Account - Proton
+account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+
+
+! Mail - Proton
+mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
+mail.proton.me##.gap-2.flex-column.flex.text-center.text-sm > .block
+mail.proton.me##.gap-2.flex-column.flex.text-center.text-sm > .justify-center.flex
+mail.proton.me##.items-start.w-full.flex-nowrap.flex
+
+
+
+! SitePoint
+www.sitepoint.com##.h-full.relative.xl\:w-\[235px\].xl\:block.hidden > .block.lg\:min-h-\[1000px\].lg\:h-1\/2
+www.sitepoint.com##.h-full.relative.xl\:w-\[235px\].xl\:block.hidden
+www.sitepoint.com##.disabled\:bg-panel-3.disabled\:text-neutral-alpha-8.hover\:bg-primary-10.text-white.bg-primary-9.w-auto.min-h-10.gap-1.text-jar-3.font-medium.rounded-lg.px-3.box-border.ease-out.duration-300.transition-all.justify-center.items-center.flex
+www.sitepoint.com##button.disabled\:bg-panel-3.disabled\:text-neutral-alpha-8.hover\:bg-neutral-alpha-3.text-neutral-12.bg-transparent.rounded-full.w-auto.min-h-8.gap-1.text-jar-3.font-medium.px-3.box-border.ease-out.duration-300.transition-all.justify-center.items-center.flex:nth-of-type(1)
