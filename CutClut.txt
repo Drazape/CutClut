@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 8 Apr 2025
-! Version: 13.28.92
+! Last modified: 15 Apr 2025
+! Version: 13.28.96
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 444
+! Number of entries: 452
 
 
 
@@ -899,3 +899,27 @@ www.sitepoint.com##.h-full.relative.xl\:w-\[235px\].xl\:block.hidden > .block.lg
 www.sitepoint.com##.h-full.relative.xl\:w-\[235px\].xl\:block.hidden
 www.sitepoint.com##.disabled\:bg-panel-3.disabled\:text-neutral-alpha-8.hover\:bg-primary-10.text-white.bg-primary-9.w-auto.min-h-10.gap-1.text-jar-3.font-medium.rounded-lg.px-3.box-border.ease-out.duration-300.transition-all.justify-center.items-center.flex
 www.sitepoint.com##button.disabled\:bg-panel-3.disabled\:text-neutral-alpha-8.hover\:bg-neutral-alpha-3.text-neutral-12.bg-transparent.rounded-full.w-auto.min-h-8.gap-1.text-jar-3.font-medium.px-3.box-border.ease-out.duration-300.transition-all.justify-center.items-center.flex:nth-of-type(1)
+
+
+
+! Mega
+mega.nz##.caption-running.storage-usage.js-storage-usage > .js-storage-usage-block.storage-usage-panel > .info
+
+
+
+! JDownloader
+||jdownloader.org/lib/tpl/arctic/images/btn_donate_SM.gif$image
+jdownloader.org##div.sidebar_box.namespace_sidebar > div
+
+
+
+! Send files to TV
+www.sendfilestotv.app##.pb56.o_cc3.o_cc.o_colored_level.pt40.s_text_block
+www.sendfilestotv.app##li.nav-item:nth-of-type(5)
+
+
+
+! Directory lister
+www.directorylister.com##.sm\:flex-row.mx-auto.py-2.px-4.text-white.shadow-lg.bg-black.rounded-lg.flex-wrap.items-center.justify-between.flex.container
+www.directorylister.com##.text-white.bg-slate-700
+www.directorylister.com##p.my-4:nth-of-type(2)
