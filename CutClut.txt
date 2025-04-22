@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 15 Apr 2025
-! Version: 13.28.96
+! Last modified: 22 Apr 2025
+! Version: 13.28.98
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 452
+! Number of entries: 458
 
 
 
@@ -923,3 +923,20 @@ www.sendfilestotv.app##li.nav-item:nth-of-type(5)
 www.directorylister.com##.sm\:flex-row.mx-auto.py-2.px-4.text-white.shadow-lg.bg-black.rounded-lg.flex-wrap.items-center.justify-between.flex.container
 www.directorylister.com##.text-white.bg-slate-700
 www.directorylister.com##p.my-4:nth-of-type(2)
+
+
+
+! Aria2
+aria2.github.io##.even
+
+
+
+! WayDroid
+waydro.id##li.nav-item:nth-of-type(5)
+waydro.id##li.nav-item:nth-of-type(4)
+waydro.id##.text-center.py-5.donate_bg
+waydro.id##.ud-footer-bottom-right
+
+
+! Docs
+docs.waydro.id##.xl\:hidden.text-sm.gap-3.flex-col.flex > .gap-2.items-center.flex-wrap.flex
