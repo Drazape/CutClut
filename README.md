@@ -33,13 +33,7 @@ You can create a [pull request](https://github.com/DestroyerBDT/CutClut/pulls) o
 ---
 # Curated tools for further clutter-cutting
 ## Theming
-- [**Dark background and Light text**](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text): Make every web page (*or just the pages you want*) display light text on dark backgrounds. All color variations are fully customizable
-  - Recommended color setup
-     - **Background**: A very dark color chosen from your wallpaper
-     - **Text**: A very light shade of the background color
-     - **Default link**: Darker than *Text* color
-     - **Selection**: Darker than *Default* color
-     - **Visited link**: Opposite (*light*) colour of the text color
+- [**Dark Reader**](https://darkreader.org): Universal, advanced and customzable dark-theme for all websites
 - [**Stylus**](https://github.com/openstyles/stylus): User-style manager
   - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
 ## Redirection
