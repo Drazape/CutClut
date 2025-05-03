@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 22 Apr 2025
-! Version: 13.28.98
+! Last modified: 3 May 2025
+! Version: 13.28.99
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 458
+! Number of entries: 462
 
 
 
@@ -940,3 +940,9 @@ waydro.id##.ud-footer-bottom-right
 
 ! Docs
 docs.waydro.id##.xl\:hidden.text-sm.gap-3.flex-col.flex > .gap-2.items-center.flex-wrap.flex
+
+! TeraBox
+www.1024tera.com##.membership-entry
+www.1024tera.com##.login-change-lang-tag
+www.1024tera.com##.not-premium-bg.header
+www.1024tera.com##.bottom-tip-wrap
