@@ -30,6 +30,7 @@ You can create a [pull request](https://github.com/DestroyerBDT/CutClut/pulls) o
   - Manually download and import
 ### Automatic
 [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
+
 ---
 # Curated tools for further clutter-cutting
 ## Theming
