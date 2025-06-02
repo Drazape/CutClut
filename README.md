@@ -26,7 +26,7 @@ You can create a [pull request](https://github.com/DestroyerBDT/CutClut/pulls) o
 
 # Usage
 ### Manual
-- **Fetch**: Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
+- **Fetch** (*auto-update*): Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt)
 - **Local**: Manually download and import
 ### Automatic
 [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
