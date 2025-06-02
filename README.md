@@ -25,11 +25,11 @@ You can create a [pull request](https://github.com/DestroyerBDT/CutClut/pulls) o
 ---
 
 # Usage
-### Automatic (*[U-block origin](https://ublockorigin.com)*)
-  - [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
-### Manual (*others*)
+### Manual
   - Import using the [raw URL](https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt) (*auto-update*)
   - Manually download and import
+### Automatic
+  - [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/DestroyerBDT/CutClut/refs/heads/main/CutClut.txt&title=CutClut)
 ---
 # Curated tools for further clutter-cutting
 ## Theming
