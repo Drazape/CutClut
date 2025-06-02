@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 3 May 2025
-! Version: 13.28.99
+! Last modified: 2 June 2025
+! Version: 13.29.103
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 462
+! Number of entries: 477
 
 
 
@@ -946,3 +946,42 @@ www.1024tera.com##.membership-entry
 www.1024tera.com##.login-change-lang-tag
 www.1024tera.com##.not-premium-bg.header
 www.1024tera.com##.bottom-tip-wrap
+
+! May 15, 2025 https://mail.google.com
+mail.google.com##.zo
+
+! May 15, 2025 https://aistudio.google.com
+aistudio.google.com##ms-settings-menu
+
+! May 18, 2025 https://xon.sh
+xon.sh##.align-middle.d-table-cell > [href="https://github.com/sponsors/xonsh"]
+xon.sh##li.nav-item:nth-of-type(9)
+
+! May 25, 2025 https://replugged.dev
+replugged.dev##div._section_qsf4z_12 > span
+replugged.dev##a._link_qsf4z_30:nth-of-type(8)
+replugged.dev##a._link_qsf4z_30:nth-of-type(7)
+replugged.dev##a._link_qsf4z_30:nth-of-type(6)
+replugged.dev##a._link_qsf4z_30:nth-of-type(4)
+replugged.dev##a._link_qsf4z_30:nth-of-type(3)
+
+
+
+! Sonarr
+sonarr.tv##[href="/donate"]
+
+
+
+! TRaSH guides
+||trash-guides.info/img/buy-me-a-coffee.png$image
+
+
+
+! Notifiarr
+notifiarr.com##.text-info
+
+
+
+! CachyOS
+cachyos.org##.overflow-hidden.sm\:px-6.px-4.mx-auto.max-w-6xl > .md\:py-20.py-12
+cachyos.org##.lg\:col-span-4.col-span-12 > .text-muted.text-sm
