@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 2 June 2025
-! Version: 13.29.103
+! Last modified: 3 June 2025
+! Version: 13.30.108
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 477
+! Number of entries: 484
 
 
 
@@ -985,3 +985,18 @@ notifiarr.com##.text-info
 ! CachyOS
 cachyos.org##.overflow-hidden.sm\:px-6.px-4.mx-auto.max-w-6xl > .md\:py-20.py-12
 cachyos.org##.lg\:col-span-4.col-span-12 > .text-muted.text-sm
+
+
+
+! Ladybird
+ladybird.org##.btn--small.btn
+||ladybird.org/assets/img/blurp.webp$image
+ladybird.org##.justify-center.flex.mb-12.bg-cover.bg-center.bg-\[url\(\'\/assets\/img\/blurp\.webp\'\)\].text-\[\#fff\].-top-4.z-10.relative
+ladybird.org##.font-normal.\[\&\>p\]\:text-\[\#757575\] > p
+
+
+
+! Redhat
+www.redhat.com##rh-footer-copyright
+www.redhat.com##[href="/en/about/privacy-policy"]
+www.redhat.com##[href="/en/about/terms-use"]
