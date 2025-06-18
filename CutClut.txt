@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 3 June 2025
-! Version: 13.30.108
+! Last modified: 18 June 2025
+! Version: 13.32.119
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 484
+! Number of entries: 497
 
 
 
@@ -1000,3 +1000,28 @@ ladybird.org##.font-normal.\[\&\>p\]\:text-\[\#757575\] > p
 www.redhat.com##rh-footer-copyright
 www.redhat.com##[href="/en/about/privacy-policy"]
 www.redhat.com##[href="/en/about/terms-use"]
+
+
+
+! Apps - GNOME
+apps.gnome.org##a.text-button:nth-of-type(5)
+apps.gnome.org##a.text-button:nth-of-type(4)
+
+
+
+! EduSparkk
+edusparkk.xyz##.cookie-consent-box
+
+
+
+! TeraBox
+dm.terabox.app##.bottom-tip-wrap
+dm.terabox.app##.membership-entry
+dm.terabox.app##.login-change-lang-tag
+www.1024terabox.com##.login-change-lang-tag
+dm.terabox.app##.report
+dm.terabox.app##.premium-equity-box
+dm.terabox.app##.premium-btn
+dm.terabox.app##.premium-equity-title
+dm.terabox.app##.card-premium-statetxt
+dm.terabox.app##li.list--item__entry:nth-of-type(3)
