@@ -2,13 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 18 June 2025
-! Version: 13.32.119
+! Last modified: 22 June 2025
+! Version: 13.32.125
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 497
-
-
+! Number of entries: 504
 
 
 
@@ -1025,3 +1023,21 @@ dm.terabox.app##.premium-btn
 dm.terabox.app##.premium-equity-title
 dm.terabox.app##.card-premium-statetxt
 dm.terabox.app##li.list--item__entry:nth-of-type(3)
+
+
+! KeyBR
+www.keybr.com##.oqpW0wVDci
+www.keybr.com##fieldset.iqPA1lQcAG:nth-of-type(2)
+
+
+
+! Colemak Academy
+www.colemak.academy##.support-button
+
+
+
+! OMDB API
+www.omdbapi.com##li:nth-of-type(1) > [href="https://www.patreon.com/join/omdb"]
+www.omdbapi.com##.navbar-right.navbar-nav.nav [href="donate.htm"]
+www.omdbapi.com##li:nth-of-type(3)
+www.omdbapi.com##[href="http://www.omdbapi.com/legal.htm"]
