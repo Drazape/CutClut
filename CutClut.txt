@@ -2,11 +2,13 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 22 June 2025
-! Version: 13.32.125
+! Last modified: 25 June 2025
+! Version: 13.32.129
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 504
+! Number of entries: 510
+
+
 
 
 
@@ -152,6 +154,19 @@ www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
 ! Developers - Google
 developers.google.com##.devsite-top-logo-row > devsite-language-selector
 developers.google.com##.devsite-devprofile-callout-paid-developer-program.devsite-devprofile-callout
+
+
+! Docs - Google
+docs.google.com##.docs-common-banner-flex-wrap.docsRecommendationBanner-banner-flex-wrap
+
+
+! Mail - Google
+mail.google.com##.zo
+
+
+! May 15, 2025 https://aistudio.google.com
+aistudio.google.com##ms-settings-menu
+
 
 
 
@@ -936,7 +951,7 @@ waydro.id##.text-center.py-5.donate_bg
 waydro.id##.ud-footer-bottom-right
 
 
-! Docs
+! Docs - WayDroid
 docs.waydro.id##.xl\:hidden.text-sm.gap-3.flex-col.flex > .gap-2.items-center.flex-wrap.flex
 
 ! TeraBox
@@ -945,17 +960,15 @@ www.1024tera.com##.login-change-lang-tag
 www.1024tera.com##.not-premium-bg.header
 www.1024tera.com##.bottom-tip-wrap
 
-! May 15, 2025 https://mail.google.com
-mail.google.com##.zo
 
-! May 15, 2025 https://aistudio.google.com
-aistudio.google.com##ms-settings-menu
 
-! May 18, 2025 https://xon.sh
+! Xonsh
 xon.sh##.align-middle.d-table-cell > [href="https://github.com/sponsors/xonsh"]
 xon.sh##li.nav-item:nth-of-type(9)
 
-! May 25, 2025 https://replugged.dev
+
+
+! RePlugged
 replugged.dev##div._section_qsf4z_12 > span
 replugged.dev##a._link_qsf4z_30:nth-of-type(8)
 replugged.dev##a._link_qsf4z_30:nth-of-type(7)
@@ -1009,6 +1022,7 @@ apps.gnome.org##a.text-button:nth-of-type(4)
 
 ! EduSparkk
 edusparkk.xyz##.cookie-consent-box
+edusparkk.xyz##.active.feedback-modal
 
 
 
@@ -1041,3 +1055,15 @@ www.omdbapi.com##li:nth-of-type(1) > [href="https://www.patreon.com/join/omdb"]
 www.omdbapi.com##.navbar-right.navbar-nav.nav [href="donate.htm"]
 www.omdbapi.com##li:nth-of-type(3)
 www.omdbapi.com##[href="http://www.omdbapi.com/legal.htm"]
+
+
+
+! Remarkable
+remarkableapp.github.io##div.pure-u-lg-1-2.pure-u-md-1-2.pure-u-1.l-box:nth-of-type(1)
+
+
+
+! Kagi
+kagi.com##.fw-b.align-center.px-3.py-3.flex
+kagi.com##.lg\:flex-row.flex-column.justify-between.align-center.flex.px-9.footerInner
+kagi.com##.cc-app-nav
