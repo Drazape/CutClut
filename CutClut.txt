@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 25 June 2025
-! Version: 13.32.129
+! Last modified: 12 July2025
+! Version: 13.32.137
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 510
+! Number of entries: 524
 
 
 
@@ -412,6 +412,9 @@ chatgpt.com##.overflow-hidden.gap-0.items-center.flex > .whitespace-nowrap.overf
 chatgpt.com##.text-token-text-secondary.text-xs.border-token-border-light.border.rounded-full.justify-center.items-center.w-6.h-6.flex
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-light.md\:items-center.shadow-xxs.lg\:mx-auto.dark\:border-transparent.\[text-wrap\:pretty\].text-sm.pr-3.pl-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 chatgpt.com##.dark\:border-white\/20.empty\:hidden.py-2.flex-col.flex
+chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].font-medium.text-sm.pe-3\.5.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-1\.5.items-center.flex
+chatgpt.com##.empty\:hidden.group-data-scrolled-from-end\/scrollport\:shadow-\(--sharp-edge-bottom-shadow\).py-1\.5.z-30.bottom-0.sticky.bg-token-bg-elevated-secondary
+chatgpt.com##div.gap-1\.5.__menu-item.group:nth-of-type(2)
 
 
 
@@ -1067,3 +1070,28 @@ remarkableapp.github.io##div.pure-u-lg-1-2.pure-u-md-1-2.pure-u-1.l-box:nth-of-t
 kagi.com##.fw-b.align-center.px-3.py-3.flex
 kagi.com##.lg\:flex-row.flex-column.justify-between.align-center.flex.px-9.footerInner
 kagi.com##.cc-app-nav
+
+! DuckDuckGo
+duckduckgo.com##.WktWJWUFfihMbuzAEqk2.hUUdRtuaOUx7mcSwc56s.ffON2NH02oMAcqyoh2UU
+
+
+
+! FanArt.tv
+fanart.tv##[href^="https://www.paypal.com/donate/"]
+fanart.tv##[href="https://fanart.tv/sponsors/"]
+fanart.tv##[href="https://wiki.fanart.tv/General/vip/"]
+
+
+
+! LibreMDB - PussTheCat
+libremdb.pussthecat.org###banner
+
+
+
+! RareAnimes
+www.rareanimes.co##.hidden-sm.hidden-xs.herald-single-wraper.herald-single-sticky
+www.rareanimes.co##.herald-sidebar-right.col-md-3.col-lg-3.herald-sidebar
+www.rareanimes.co##.herald-related-wrapper
+www.rareanimes.co##.herald-slide.herald-site-footer
+www.rareanimes.co###menu-main-menu-1 > .menu-item-22297.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://www.rareanimes.co/dmca/"]
+www.rareanimes.co###menu-item-22297 > [href="https://www.rareanimes.co/dmca/"]
