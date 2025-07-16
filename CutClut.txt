@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 12 July2025
-! Version: 13.32.139
+! Last modified: 16 July 2025
+! Version: 13.32.142
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 520
+! Number of entries: 523
 
 
 
@@ -827,6 +827,9 @@ wiki.archlinux.org###footer-places-privacy
 wiki.archlinux.org###footer-places-disclaimers
 wiki.archlinux.org###footer-places-archwiki-code-of-conduct
 wiki.archlinux.org###footer-places-archwiki-terms-of-service
+wiki.archlinux.org##.mw-interlanguage-selector.vector-dropdown-checkbox
+wiki.archlinux.org##.mw-portlet-lang-heading-10.cdx-button--action-progressive.cdx-button--weight-quiet.cdx-button--fake-button--enabled.cdx-button--fake-button.cdx-button.vector-dropdown-label
+wiki.archlinux.org##.vector-menu-content.vector-main-menu-action-content > [href^="/index.php"]
 
 
 
