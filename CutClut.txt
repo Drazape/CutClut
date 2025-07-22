@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 16 July 2025
-! Version: 13.32.142
+! Version: 13.33.151
 ! Expires: 3 hours
 ! Syntax: AdBlock
 ! Number of entries: 523
@@ -1007,6 +1007,11 @@ ladybird.org##.font-normal.\[\&\>p\]\:text-\[\#757575\] > p
 www.redhat.com##rh-footer-copyright
 www.redhat.com##[href="/en/about/privacy-policy"]
 www.redhat.com##[href="/en/about/terms-use"]
+www.redhat.com##.aside.lg\:dx-pt-0.dx-pt-4.xl\:dx-col-4.lg\:dx-col-5.dx-col-12
+www.redhat.com###rhb-main-content > .dx-w-full
+www.redhat.com##rh-footer-block:nth-of-type(2)
+www.redhat.com##[href="/en/about/all-policies-guidelines"]
+www.redhat.com###lang_selection
 
 
 
@@ -1094,3 +1099,14 @@ www.rareanimes.co###menu-item-22297 > [href="https://www.rareanimes.co/dmca/"]
 ! Mail - Proton
 mail.proton.me##.gap-2.button-promotion--full-gradient.button-promotion--icon-gradient.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 mail.proton.me##.empty\:hidden.gap-2.justify-center.flex
+
+
+
+! Monkey Type
+monkeytype.com###contactPopupButton
+monkeytype.com###supportMeButton
+monkeytype.com##a.textButton:nth-of-type(3)
+monkeytype.com##a.textButton:nth-of-type(4)
+monkeytype.com##a.textButton:nth-of-type(5)
+monkeytype.com##a.textButton:nth-of-type(6)
+monkeytype.com##.view-leaderboards.textButton
