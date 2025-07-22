@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 16 July 2025
+! Last modified: 22 July 2025
 ! Version: 13.33.151
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 523
+! Number of entries: 535
 
 
 
