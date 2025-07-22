@@ -164,7 +164,7 @@ docs.google.com##.docs-common-banner-flex-wrap.docsRecommendationBanner-banner-f
 mail.google.com##.zo
 
 
-! May 15, 2025 https://aistudio.google.com
+! AI Studio - Google
 aistudio.google.com##ms-settings-menu
 
 
