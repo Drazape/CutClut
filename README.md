@@ -1,4 +1,6 @@
-[AdBlock filter](https://adguard.com/en/blog/what-are-filters.html) that
+[Frontends]: https://github.com/mendel5/alternative-front-ends "List of websites with frontends"
+
+[AdBlock filter](https://adguard.com/en/blog/what-are-filters.html "What are AdBlock filters") that
 - Removes
   - Premium content ads
   - Privacy policies
@@ -14,7 +16,7 @@
 # Important information
 
 ## Some websites will never be added
-[Websites with front-ends](https://github.com/mendel5/alternative-front-ends) that remove all the clutter will not be accepted, but you can request the [front-end websites](https://github.com/mendel5/alternative-front-ends)
+[Websites with front-ends][Frontends] that remove all the clutter will not be accepted, but you can request the [front-end websites][Frontends]
 ### Exceptions
 - The front-end doesn't have some functionality (*for the end-user*) present in the original website
 - The front-end is uglier than the original website
