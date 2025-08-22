@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 22 July 2025
-! Version: 13.33.151
+! Last modified: 22 Aug 2025
+! Version: 13.33.158
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 535
+! Number of entries: 540
 
 
 
@@ -581,6 +581,8 @@ en.wikipedia.org###p-vector-user-menu-overflow > .vector-menu-content > .vector-
 en.wikipedia.org##.vector-search-box.vector-search-box-auto-expand-width.vector-search-box-show-thumbnail.vector-search-box-collapses.vector-search-box-vue
 en.wikipedia.org##.vector-header-end
 en.wikipedia.org###footer-places
+en.wikipedia.org##.mw-interlanguage-selector.vector-dropdown-checkbox
+en.wikipedia.org##.mw-portlet-lang-heading-5.cdx-button--action-progressive.cdx-button--weight-quiet.cdx-button--fake-button--enabled.cdx-button--fake-button.cdx-button.vector-dropdown-label
 
 
 
@@ -1110,3 +1112,10 @@ monkeytype.com##a.textButton:nth-of-type(4)
 monkeytype.com##a.textButton:nth-of-type(5)
 monkeytype.com##a.textButton:nth-of-type(6)
 monkeytype.com##.view-leaderboards.textButton
+
+
+
+! ReactOS
+reactos.org##li.dropdown > [href="/donate"]
+reactos.org##a.btn-success.btn:nth-of-type(2)
+reactos.org##.col-right.col-md-4.col-sm-5 > div
