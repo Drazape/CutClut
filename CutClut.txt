@@ -2,11 +2,11 @@
 ! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
-! Last modified: 22 Aug 2025
-! Version: 13.33.158
+! Last modified: 22 Sep 2025
+! Version: 13.33.159
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 540
+! Number of entries: 541
 
 
 
@@ -1119,3 +1119,9 @@ monkeytype.com##.view-leaderboards.textButton
 reactos.org##li.dropdown > [href="/donate"]
 reactos.org##a.btn-success.btn:nth-of-type(2)
 reactos.org##.col-right.col-md-4.col-sm-5 > div
+
+
+
+! ShellScript
+www.shellscript.sh##.mb-4.tm-col-home.col-lg-4 > .tm-text-container .gumroad-button
+
