@@ -1,5 +1,5 @@
 ! Title: CutClut
-! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements
+! Description: Filters websites from premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 22 Sep 2025
