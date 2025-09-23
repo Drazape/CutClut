@@ -1,7 +1,7 @@
 ! Title: CutClut
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
-! Homepage: https://github.com/DestroyerBDT/CutClut
-! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
+! Homepage: https://github.com/Dracape/CutClut
+! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 22 Sep 2025
 ! Version: 13.34.160
 ! Expires: 3 hours
