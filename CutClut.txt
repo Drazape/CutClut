@@ -1,12 +1,12 @@
 ! Title: CutClut
-! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements, providing users with a streamlined and clutter-free browsing experience. Simple, efficient, and effective
+! Description: Cleans websites by removing premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/DestroyerBDT/CutClut
 ! License: https://github.com/DestroyerBDT/CutClut/blob/main/LICENSE
 ! Last modified: 22 Sep 2025
-! Version: 13.33.159
+! Version: 13.34.160
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 541
+! Number of entries: 542
 
 
 
@@ -1124,4 +1124,13 @@ reactos.org##.col-right.col-md-4.col-sm-5 > div
 
 ! ShellScript
 www.shellscript.sh##.mb-4.tm-col-home.col-lg-4 > .tm-text-container .gumroad-button
+www.shellscript.sh##.my-gumroad-button
+
+
+
+! GNU
+www.gnu.org###mission-statement > .button
+www.gnu.org##p:nth-of-type(2)
+www.gnu.org###bottom-notes > p
+www.gnu.org###language-button
 
