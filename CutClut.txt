@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 24 Sep 2025
-! Version: 155.2
+! Version: 155.3
 ! Expires: 3 hours
 ! Syntax: AdBlock
 ! Number of entries: 545
@@ -1139,6 +1139,5 @@ www.gnu.org###language-button
 ! RegexLearn
 regexlearn.com##.space-y-2.flex-col.sm\:flex.hidden.right-5.bottom-5.fixed
 regexlearn.com##.hover\:text-regreen-400\/80.text-regreen-400.text-sm.mt-3.items-center.flex > [href]
-regexlearn.com###headlessui-popover-button-\:Rv36\:
-regexlearn.com###headlessui-popover-button-\:r0\: > span
 regexlearn.com##.transition-colors.hover\:text-neutral-300.text-neutral-500.text-\[11px\].items-center.inline-flex
+regexlearn.com##[id^="headlessui-popover-button-:R"]
