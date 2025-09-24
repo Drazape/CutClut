@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 22 Sep 2025
-! Version: 13.34.160
+! Last modified: 24 Sep 2025
+! Version: 13.35.160
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 542
+! Number of entries: 545
 
 
 
@@ -1134,3 +1134,9 @@ www.gnu.org##p:nth-of-type(2)
 www.gnu.org###bottom-notes > p
 www.gnu.org###language-button
 
+
+
+! RegexLearn
+regexlearn.com##.space-y-2.flex-col.sm\:flex.hidden.right-5.bottom-5.fixed
+regexlearn.com##.hover\:text-regreen-400\/80.text-regreen-400.text-sm.mt-3.items-center.flex > [href]
+regexlearn.com###headlessui-popover-button-\:Rv36\:
