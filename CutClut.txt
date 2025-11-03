@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 20 Oct 2025
-! Version: 156.0
+! Last modified: 3 Nov 2025
+! Version: 157.0
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 553
+! Number of entries: 556
 
 
 
@@ -1148,4 +1148,11 @@ cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLangua
 cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Terms_of_Use"]
 cloudstream.miraheze.org##[href="/wiki/CloudStream_Wiki:General_disclaimer"]
 cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLanguage/Donate"]
+
+
+
+! Caesium
+caesium.app##.transition-colors.gap-1.items-center.flex.cursor-pointer.dark\:hover\:text-purple-500.dark\:text-gray-400.hover\:text-purple-400.text-gray-600.font-medium.group
+caesium.app##.dark\:text-gray-200.text-gray-800.text-xs
+caesium.app##.gap-1.flex-col.flex
 
