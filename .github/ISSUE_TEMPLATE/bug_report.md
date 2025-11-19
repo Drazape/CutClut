@@ -18,10 +18,10 @@ describe the issue you are facing on the site
 - navigate to [....]
 - there is a [....]
 
-## Expected behaviour (*without CutClut*)
+## Expected behaviour (without *CutClut*)
 - [...] opens
 - the hidden button [....] responsible for doing [....]
 
-## Actual behaviour (*with CutClut*)
+## Actual behaviour (with *CutClut*)
 - [....] doesn't [....]
 - the required menu [....] is missing
