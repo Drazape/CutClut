@@ -37,9 +37,9 @@ You can create a [pull request](https://github.com/Dracape/CutClut/pulls "Pull r
 ---
 # Curated tools for further clutter-cutting
 ## Theming
-- [**Dark Reader**](https://darkreader.org "The *Dark Reader* homepage"): Universal, advanced and customzable dark-theme for all websites
-- [**Stylus**](https://github.com/openstyles/stylus "The *Stylus* GitHub repository"): User-style manager
-  - [**UserStyles.World**](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
+- [***Dark Reader***](https://darkreader.org "The *Dark Reader* homepage"): Universal, advanced and customzable dark-theme for all websites
+- [***Stylus***](https://github.com/openstyles/stylus "The *Stylus* GitHub repository"): User-style manager
+  - [***UserStyles.World***](https://userstyles.world): FOSS, community-driven website for browsing and sharing UserCSS user-styles
 ## Redirection
-- [**LibRedirect**](https://libredirect.github.io "The *LibRedirect* extension homepage"): Redirects to privacy-friendly (and mostly less-cluttered) alternatives
-- [**indie Wiki Buddy**](https://getindie.wiki "The *Indie Wiki Buddy* extension homepage"): Redirects to known independent (and less-cluttered) wikis; also supports redirection to [BreezeWiki](https://bw.projectsegfau.lt "The *BreezeWiki*, *Project Segfault* instance")
+- [***LibRedirect***](https://libredirect.github.io "The *LibRedirect* extension homepage"): Redirects to privacy-friendly (and mostly less-cluttered) alternatives
+- [***indie Wiki Buddy***](https://getindie.wiki "The *Indie Wiki Buddy* extension homepage"): Redirects to known independent (and less-cluttered) wikis; also supports redirection to [*BreezeWiki*](https://bw.projectsegfau.lt "The *BreezeWiki*, *Project Segfault* instance")
