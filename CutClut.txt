@@ -2,8 +2,8 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 3 Nov 2025
-! Version: 157.0
+! Last modified: 15 Nov 2025
+! Version: 159.0
 ! Expires: 3 hours
 ! Syntax: AdBlock
 ! Number of entries: 556
@@ -1155,4 +1155,16 @@ cloudstream.miraheze.org##[href="https://meta.miraheze.org/wiki/Special:MyLangua
 caesium.app##.transition-colors.gap-1.items-center.flex.cursor-pointer.dark\:hover\:text-purple-500.dark\:text-gray-400.hover\:text-purple-400.text-gray-600.font-medium.group
 caesium.app##.dark\:text-gray-200.text-gray-800.text-xs
 caesium.app##.gap-1.flex-col.flex
+
+
+
+! Create learn
+www.create-learn.us##.chat-button
+
+
+
+! RebornOS
+rebornos.org###menu-item-2531 > [href="https://rebornos.org/donate/"]
+rebornos.org###menu-item-3721 > [href="https://rebornos.org/"]
+rebornos.org##.elementor-element-72f20d80.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-widget-wrap
 
