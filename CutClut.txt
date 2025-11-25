@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 25 Nov 2025
-! Version: 161.0
+! Version: 161.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 569
+! Number of entries: 570
 
 
 
@@ -1184,4 +1184,5 @@ zemail.me##.transition-transform.rtl\:translate-x-full.-translate-x-full.dark\:b
 zemail.me###lofi-menu-item-9a3b9f5c35f81
 zemail.me##ui-dropdown:nth-of-type(1)
 zemail.me##.py-3.gap-1.items-center.flex > ui-tooltip > .dark\:hover\:text-white.dark\:text-zinc-400.hover\:text-zinc-800.text-zinc-400.dark\:hover\:bg-white\/15.hover\:bg-zinc-800\/5.bg-transparent.inline-flex.w-10.rounded-lg.text-sm.h-10.disabled\:pointer-events-none.disabled\:cursor-default.dark\:disabled\:opacity-75.disabled\:opacity-75.whitespace-nowrap.gap-2.justify-center.font-medium.items-center.relative
+zemail.me##.w-full.mt-2.premium-btn
 
