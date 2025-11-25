@@ -4,7 +4,7 @@
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 25 Nov 2025
 ! Version: 161.0
-! Expires: 3 hours
+! Expires: 3 days
 ! Syntax: AdBlock
 ! Number of entries: 569
 
