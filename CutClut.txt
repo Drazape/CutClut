@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 15 Nov 2025
-! Version: 159.0
+! Last modified: 25 Nov 2025
+! Version: 161.0
 ! Expires: 3 hours
 ! Syntax: AdBlock
-! Number of entries: 560
+! Number of entries: 569
 
 
 
@@ -1167,4 +1167,21 @@ www.create-learn.us##.chat-button
 rebornos.org###menu-item-2531 > [href="https://rebornos.org/donate/"]
 rebornos.org###menu-item-3721 > [href="https://rebornos.org/"]
 rebornos.org##.elementor-element-72f20d80.elementor-element.elementor-top-column.elementor-col-33.elementor-column > .elementor-element-populated.elementor-widget-wrap
+
+
+
+!StartPage
+www.startpage.com##.css-9g5pfm.feedback-button
+www.startpage.com##.css-1m1xaoa.blog-menu-button
+www.startpage.com##.css-prznfu.hamburger-drawer > .css-13lqrqo.app-banner-promo-container > .css-1npx2yb.hamburger-app-promo-banner
+www.startpage.com##.css-prznfu.hamburger-drawer > div.css-1o337ku.link-section > div.css-jndhww > .fmhy-processed.css-1q92idj > .link-text
+www.startpage.com##.eu3pp1u0.css-ntpuhp
+
+
+
+! ZeMail
+zemail.me##.transition-transform.rtl\:translate-x-full.-translate-x-full.dark\:border-zinc-700.border-zinc-200.rtl\:border-l.rtl\:border-r-0.border-r.dark\:bg-zinc-900.bg-zinc-50.overscroll-contain.overflow-y-auto.max-h-dvh.data-stashed\:max-h-dvh\!.data-stashed\:min-h-dvh\!.data-stashed\:top-0\!.data-stashed\:fixed\!.data-stashed\:start-0\!.z-20\!.lg\:translate-x-0\!.\[\[data-show-stashed-sidebar\]_\&\]\:translate-x-0\!.max-lg\:data-mobile-cloak\:hidden.p-4.\[\:where\(\&\)\]\:w-64.gap-4.flex-col.flex.z-1.\[grid-area\:sidebar\]
+zemail.me###lofi-menu-item-9a3b9f5c35f81
+zemail.me##ui-dropdown:nth-of-type(1)
+zemail.me##.py-3.gap-1.items-center.flex > ui-tooltip > .dark\:hover\:text-white.dark\:text-zinc-400.hover\:text-zinc-800.text-zinc-400.dark\:hover\:bg-white\/15.hover\:bg-zinc-800\/5.bg-transparent.inline-flex.w-10.rounded-lg.text-sm.h-10.disabled\:pointer-events-none.disabled\:cursor-default.dark\:disabled\:opacity-75.disabled\:opacity-75.whitespace-nowrap.gap-2.justify-center.font-medium.items-center.relative
 
