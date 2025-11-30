@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 25 Nov 2025
-! Version: 161.1
+! Last modified: 30 Nov 2025
+! Version: 163.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 570
+! Number of entries: 595
 
 
 
@@ -1186,3 +1186,35 @@ zemail.me##ui-dropdown:nth-of-type(1)
 zemail.me##.py-3.gap-1.items-center.flex > ui-tooltip > .dark\:hover\:text-white.dark\:text-zinc-400.hover\:text-zinc-800.text-zinc-400.dark\:hover\:bg-white\/15.hover\:bg-zinc-800\/5.bg-transparent.inline-flex.w-10.rounded-lg.text-sm.h-10.disabled\:pointer-events-none.disabled\:cursor-default.dark\:disabled\:opacity-75.disabled\:opacity-75.whitespace-nowrap.gap-2.justify-center.font-medium.items-center.relative
 zemail.me##.w-full.mt-2.premium-btn
 
+
+
+! Ecosia
+www.ecosia.org##.fmhy-processed.button--icon-position-start.base-button--text-size-m.base-button--elevation-0.base-button--size-m.base-button--variant-solid-green.base-button.cta__button.button
+www.ecosia.org##.button-icon.button--icon-position-start.base-button--text-size-m.base-button--elevation-0.base-button--size-m.base-button--variant-solid-white.base-button.button
+www.ecosia.org##.icon--size-m.icon--icon-seed.icon > path
+www.ecosia.org##.icon--size-m.icon--icon-seed.icon
+www.ecosia.org##span.counter__item:nth-of-type(2)
+www.ecosia.org##.tooltip--padding.tooltip--color-variant-default.tooltip--size-s.tooltip--side-center-bottom.tooltip > .tooltip__content
+www.ecosia.org##.main-footer
+www.ecosia.org##li.main-nav-menu__group:nth-of-type(1)
+www.ecosia.org##.main-nav-menu__footer-links
+www.ecosia.org##li.main-nav-menu__group:nth-of-type(2)
+
+
+
+! Search — Brave
+search.brave.com##.headerless.svelte-uguqax.card
+search.brave.com##.svelte-o5qn1z.settings-content > section > .svelte-uguqax.card > .layout-row.svelte-3ltauh
+search.brave.com##section.svelte-3ltauh:nth-of-type(3)
+search.brave.com##.svelte-o5qn1z.settings-content > section:nth-of-type(1)
+search.brave.com##.svelte-1i19ct2.settings-layout > section:nth-of-type(1)
+search.brave.com##.layout-row.svelte-3ltauh
+search.brave.com##.layout-column.svelte-3ltauh
+search.brave.com##.svelte-1f8i7g0.sidebar
+search.brave.com##.svelte-1i19ct2.footer > .svelte-jz8lnl
+search.brave.com###safe-search
+search.brave.com##.svelte-1ere1g8.filter > .svelte-1l025ye.desktop-default-regular.filter-btn
+search.brave.com##.svelte-h4tei9.noscript-hide.subutton
+search.brave.com##.svelte-1uha8ag.noscript-hide.noscrollbar.example-searches
+search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
+search.brave.com###main > .svelte-jz8lnl
