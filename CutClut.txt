@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 30 Nov 2025
-! Version: 163.0
+! Last modified: 2 Dec 2025
+! Version: 164.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 595
+! Number of entries: 597
 
 
 
@@ -1218,3 +1218,10 @@ search.brave.com##.svelte-h4tei9.noscript-hide.subutton
 search.brave.com##.svelte-1uha8ag.noscript-hide.noscrollbar.example-searches
 search.brave.com##.svelte-4jwo3w.t-tertiary.desktop-small-regular
 search.brave.com###main > .svelte-jz8lnl
+
+
+
+! Transmission
+transmissionbt.com##.mb-md-0.justify-content-center.mt-3.mb-2.me-lg-auto.col-lg-auto.col-12.nav > li:nth-of-type(5) > .px-2.nav-link
+transmissionbt.com##.mb-md-0.justify-content-center.mt-4.mb-2.me-lg-auto.col-lg-auto.col-12.nav > li:nth-of-type(5) > .px-2.nav-link
+
