@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 20 Dec 2025
-! Version: 165.0
+! Last modified: 21 Dec 2025
+! Version: 166.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 600
+! Number of entries: 601
 
 
 
@@ -1231,4 +1231,9 @@ transmissionbt.com##.mb-md-0.justify-content-center.mt-4.mb-2.me-lg-auto.col-lg-
 ! toml
 toml.io##li.rounded.border-orange-300.border.bg-white.px-2.mx-2.md\:w-auto.md\:w-1\/2:nth-of-type(2)
 toml.io##.text-sm.font-bold.font-mono
+
+
+
+! W3 schools
+www.w3schools.com##.ga-top-plus.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-right-side-btn.tnb-upgrade-btn.user-anonymous
 
