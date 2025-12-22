@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 22 Dec 2025
-! Version: 167.0
+! Version: 167.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 602
+! Number of entries: 603
 
 
 
@@ -227,13 +227,14 @@ archiveprogram.github.com##[href="https://github.com/explore"]
 archiveprogram.github.com##[href="https://github.com/join"]
 
 
-! GitHub docs
+! Docs – GitHub
 docs.github.com##.contribution.f5
 docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 docs.github.com##.d-flex > .prc-Button-IconButton-szpyj.prc-Button-ButtonBase-c50BI
+docs.github.com##.f5.Survey_underlineLinks__Z2RJW
 
 
-! GitHub support
+! Support – GitHub
 support.github.com##.kSencr.Box-sc-g0xbh4-0
 
 
