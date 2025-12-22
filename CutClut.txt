@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 21 Dec 2025
-! Version: 166.0
+! Last modified: 22 Dec 2025
+! Version: 167.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 601
+! Number of entries: 602
 
 
 
@@ -1237,3 +1237,7 @@ toml.io##.text-sm.font-bold.font-mono
 ! W3 schools
 www.w3schools.com##.ga-top-plus.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-right-side-btn.tnb-upgrade-btn.user-anonymous
 
+
+
+! SpaceLift
+spacelift.io##.NewsletterSidebar_container__8Sxt6
