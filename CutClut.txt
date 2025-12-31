@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 22 Dec 2025
-! Version: 167.1
+! Last modified: 31 Dec 2025
+! Version: 168.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 603
+! Number of entries: 607
 
 
 
@@ -1242,3 +1242,12 @@ www.w3schools.com##.ga-top-plus.ga-top.w3-white.w3-right.w3-button.w3-bar-item.t
 
 ! SpaceLift
 spacelift.io##.NewsletterSidebar_container__8Sxt6
+
+
+
+! Nu Shell
+www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type(5) > .vp-navbar-dropdown-wrapper
+www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type(2)
+www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type(1)
+www.nushell.sh##.vp-toggle-color-mode-button
+
