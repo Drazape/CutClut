@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 31 Dec 2025
-! Version: 168.0
+! Last modified: 17 Jan 2026
+! Version: 171.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 607
+! Number of entries: 614
 
 
 
@@ -1250,4 +1250,23 @@ www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type
 www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type(2)
 www.nushell.sh##.vp-hide-mobile.vp-navbar-items > div.vp-navbar-item:nth-of-type(1)
 www.nushell.sh##.vp-toggle-color-mode-button
+
+
+
+! Cloutgist
+||go.cloutgist.com/modern_theme/build/img/footer.jpg$image
+||go.cloutgist.com/modern_theme/build/img/header.jpg$image
+go.cloutgist.com##.navbar-default.navbar
+go.cloutgist.com##.copyright-container
+
+
+
+! PostgreSQL
+www.postgresql.org##li.p-2.nav-item:nth-of-type(8)
+
+
+
+! W3 schools
+www.w3schools.com##.-next-btn-modal-ad-container
+www.w3schools.com##.ga-top-goals.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-right-side-btn.tnb-upgrade-btn.user-authenticated
 
