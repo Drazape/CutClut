@@ -84,7 +84,7 @@ www.google.com##.kno-fb.P58Kof.OwRFvb > .EyBRub .nKHyTc.mWcf0e > .LRZwuc.VfL2Y >
 
 
 
-! Google Accounts
+!! Google Accounts
 accounts.google.com##.dMNVAe
 accounts.google.com##.OKMeHe
 accounts.google.com##.FZfKCe
@@ -92,7 +92,7 @@ myaccount.google.com##.yv7Gae.Z8F8sf
 myaccount.google.com##.Bdlund.mN1ivc.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 
 
-!Google Photos
+!!Google Photos
 photos.google.com##.JJpMec
 photos.google.com##.GIj5nd
 photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc.pYTkkf-Bz112c-LgbsSe > .pYTkkf-Bz112c-RLmnJb
@@ -100,7 +100,7 @@ photos.google.com##.m6aMje.G6iPcb.KIqTIe.pYTkkf-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEO
 photos.google.com###gbwa > .gb_D > .gb_B
 
 
-! Google Play
+!! Google Play
 play.google.com##.atOvg > .HcyOxe
 play.google.com##.yhtbu
 play.google.com###\39  > .VfPpkd-YVzG2b
@@ -108,25 +108,25 @@ play.google.com##.ROhV3c.YmRZ5d.FEsNhd.WbUJNb.VfPpkd-AznF2e-OWXEXe-jJNx8e-QBLLGd
 play.google.com##.mN1ivc.QDwDD.eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 
 
-! Google Meet
+!! Google Meet
 meet.google.com##.VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd > div > span > .eT1oJ.yHy1rc.VfPpkd-Bz112c-LgbsSe
 meet.google.com##.bxxkd > .sxAeHb > .fu5Cm
 
 
-! Google Tasks
+!! Google Tasks
 tasks.google.com##.yVc39c.tB5Jxf-xl07Ob-XxIAqe-OWXEXe-oYxtQd
 
 
-! Google Keep
+!! Google Keep
 keep.google.com##.PvRhvb-hSRGPd
 
 
-! Android - flash
+!! Android - flash
 flash.android.com##.policy-statement.gmat-caption
 flash.android.com##unified-flashstation-app > .gmat-caption
 
 
-! YouTube
+!! YouTube
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###copyright
@@ -151,20 +151,20 @@ www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-rendere
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
 
 
-! Developers - Google
+!! Developers - Google
 developers.google.com##.devsite-top-logo-row > devsite-language-selector
 developers.google.com##.devsite-devprofile-callout-paid-developer-program.devsite-devprofile-callout
 
 
-! Docs - Google
+!! Docs - Google
 docs.google.com##.docs-common-banner-flex-wrap.docsRecommendationBanner-banner-flex-wrap
 
 
-! Mail - Google
+!! Mail - Google
 mail.google.com##.zo
 
 
-! AI Studio - Google
+!! AI Studio - Google
 aistudio.google.com##ms-settings-menu
 
 
@@ -181,23 +181,23 @@ aistudio.google.com##ms-settings-menu
 ! Microsoft
 
 
-! Microsoft Copilot
+!! Microsoft Copilot
 copilot.microsoft.com##.dark\:text-slate-250\/60.text-xs.text-stone-550\/90.pb-8.space-y-8
 copilot.microsoft.com##.p-4.bg-background-200.rounded-3xl.gap-4.items-center.flex-col.flex.mb-2
 copilot.microsoft.com##a.focus\:underline.hover\:underline:nth-of-type(1), a.focus\:underline.hover\:underline:nth-of-type(2)
 copilot.microsoft.com##.dark\:bg-midnight-850\/70.backdrop-blur-\[10px\].bg-stone-850\/30.justify-center.items-center.flex.inset-0.fixed
 
 
-Microsoft - open-source
+!! Microsoft - open-source
 opensource.microsoft.com##.flex-column.flex-items-center.flex-justify-between.d-xl-flex.wrapper > ul
 
 
-! To-do - Microsoft Office
+!! To-do - Microsoft Office
 to-do.office.com##.terms
 to-do.office.com##.c-uhff-base
 
 
-! OneDrive
+!! OneDrive
 onedrive.live.com##.root-172.ms-MessageBar-multiline.ms-MessageBar
 onedrive.live.com##.od-QuotaBanner-upsell
 onedrive.live.com##.od-QuotaBannerWrapper-placeholder.od-QuotaBannerWrapper
@@ -209,7 +209,7 @@ onedrive.live.com###WorkloadSettingsSubLinks2
 onedrive.live.com###SuiteMenu_Language
 
 
-! GitHub
+!! GitHub
 ||github.com/sponsors/*
 github.com##.Link.Link--secondary
 github.com##.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-column-reverse.flex-items-center.flex-justify-center.d-flex
@@ -221,29 +221,29 @@ github.com##.f6.Link
 github.com##.BorderGrid-cell > .mb-3.d-flex
 
 
-! archive program bottom-bar irrelevant hypertext
+!!! archive program bottom-bar irrelevant hypertext
 archiveprogram.github.com##[href="https://partner.github.com/#form-signUp"]
 archiveprogram.github.com##[href="https://github.com/explore"]
 archiveprogram.github.com##[href="https://github.com/join"]
 
 
-! Docs – GitHub
+!!! Docs – GitHub
 docs.github.com##.contribution.f5
 docs.github.com##.color-fg-muted.px-md-6.pb-8.mt-6.px-3.container-xl
 docs.github.com##.d-flex > .prc-Button-IconButton-szpyj.prc-Button-ButtonBase-c50BI
 docs.github.com##.f5.Survey_underlineLinks__Z2RJW
 
 
-! Support – GitHub
+!!! Support – GitHub
 support.github.com##.kSencr.Box-sc-g0xbh4-0
 
 
-! Marker - GitHub
+!!! Marker - GitHub
 ||github.com/fabiocolacio/Marker/raw/master/donate.png$image
 
 
 
-! GotHub (top bar)
+!!! GotHub (top bar)
 gothub.lunar.icu##.navbar
 
 
@@ -262,14 +262,14 @@ greasyfork.org###site-name-text [href]
 !Mozilla
 
 
-! Mozilla support
+!! Mozilla support
 support.mozilla.org##.button-lg.primary-button.sumo-button.download-button
 support.mozilla.org##.document-vote--sidebar-wrap > .text-center.elevation-01.document-vote
 support.mozilla.org##[href="https://www.mozilla.org/privacy/websites/"]
 support.mozilla.org##.mzp-c-footer-legal > ul
 
 
-! Firefox account
+!! Firefox account
 accounts.firefox.com##p
 
 
@@ -279,7 +279,6 @@ fmhy.net##.copyright
 fmhy.net##.feedback-footer
 fmhy.net##.message
 fmhy.net##.VPFooter
-
 ! Feedback prompts
 fmhy.net##.duration-300.transition-all.font-bold.border-solid.border-2.rounded.select-none.mt-2.hover\:border-primary.border-\$vp-c-default-soft.py1.px2.text-primary.bg-\$vp-c-default-soft
 fmhy.net##.duration-250.transition-colors.col-span-3.rounded-xl.dark\:border-brand-800.dark\:bg-brand-950.border-brand-300.bg-brand-50.border-solid.border-2.p-4.mt-2
@@ -346,12 +345,12 @@ www.roblox.com###nav-trade
 
 
 
-! RoPro
+!! RoPro
 ropro.io##.footercontainer
 
 
 
-! VinegarHQ - Sober
+!! VinegarHQ - Sober
 sober.vinegarhq.org##footer
 
 
@@ -360,7 +359,7 @@ sober.vinegarhq.org##footer
 store.steampowered.com##a.menuitem:nth-of-type(5)
 
 
-! Steam community
+!! Steam community
 steamcommunity.com###footerText
 steamcommunity.com###footer_spacer
 ||community.fastly.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1$image
@@ -532,7 +531,7 @@ linuxmint.com##.mb-0.btn-white.btn-sm.btn
 linuxmint.com##.py-3.footer-copyright
 
 
-! Linux Mint installation guide
+!! Linux Mint installation guide
 linuxmint-installation-guide.readthedocs.io##footer > div > p
 
 
@@ -639,7 +638,7 @@ kde.org##.button.d-block.ms-auto
 kde.org##nav.col-sm:nth-of-type(3)
 
 
-! Ghostwritter - KDE
+!! Ghostwritter - KDE
 ghostwriter.kde.org###kFooter
 ||ghostwriter.kde.org/aether/languages.png$image
 ghostwriter.kde.org##.dropdown-toggle.nav-link
@@ -670,6 +669,11 @@ nixos.org##a.md\:bg-transparent.bg-nix-blue-extralight.md\:border-b-transparent.
 www.gnome.org###nav-donate
 www.gnome.org##.nogap.colored-row
 www.gnome.org##footer
+
+
+!! Apps - GNOME
+apps.gnome.org##a.text-button:nth-of-type(5)
+apps.gnome.org##a.text-button:nth-of-type(4)
 
 
 
@@ -826,7 +830,7 @@ archlinux.org###footer > p
 archlinux.org##ul:nth-of-type(3)
 
 
-! Wiki - Arch Linux
+!! Wiki - Arch Linux
 wiki.archlinux.org###footer-places-privacy
 wiki.archlinux.org###footer-places-disclaimers
 wiki.archlinux.org###footer-places-archwiki-code-of-conduct
@@ -899,7 +903,7 @@ en.khanacademy.org##._axstxt
 account.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 
 
-! Mail - Proton
+!! Mail - Proton
 mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
 mail.proton.me##.gap-2.flex-column.flex.text-center.text-sm > .block
 mail.proton.me##.gap-2.flex-column.flex.text-center.text-sm > .justify-center.flex
@@ -951,8 +955,10 @@ waydro.id##.text-center.py-5.donate_bg
 waydro.id##.ud-footer-bottom-right
 
 
-! Docs - WayDroid
+!! Docs - WayDroid
 docs.waydro.id##.xl\:hidden.text-sm.gap-3.flex-col.flex > .gap-2.items-center.flex-wrap.flex
+
+
 
 ! TeraBox
 www.1024tera.com##.membership-entry
@@ -1016,12 +1022,6 @@ www.redhat.com###rhb-main-content > .dx-w-full
 www.redhat.com##rh-footer-block:nth-of-type(2)
 www.redhat.com##[href="/en/about/all-policies-guidelines"]
 www.redhat.com###lang_selection
-
-
-
-! Apps - GNOME
-apps.gnome.org##a.text-button:nth-of-type(5)
-apps.gnome.org##a.text-button:nth-of-type(4)
 
 
 
@@ -1269,9 +1269,8 @@ www.postgresql.org##li.p-2.nav-item:nth-of-type(8)
 ! W3 schools
 www.w3schools.com##.-next-btn-modal-ad-container
 www.w3schools.com##.ga-top-goals.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-right-side-btn.tnb-upgrade-btn.user-authenticated
-! Excercises: Share
+!! Excercises: Share
 www.w3schools.com##.completed_all > p:nth-of-type(2)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(1)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(2)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(3)
-
