@@ -32,8 +32,7 @@ You can create a [pull request](https://github.com/Dracape/CutClut/pulls "Pull r
 - **Fetch** (*auto-update*): Import using the [raw URL][RawFilter]
 - **Local**: Manually [download][RawFilter] and import
 ### Automatic
-[Subscribe](https://intradeus.github.io/http-protocol-redirector?r=abp:subscribe?location=https://raw.githubusercontent.com/Dracape/CutClut/refs/heads/main/CutClut.txt&title=CutClut "Subscribe to CutClut on supported platforms")
-
+[Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Dracape/CutClut/refs/heads/main/CutClut.txt&title=CutClut "Subscribe to CutClut on supported platforms")
 
 ---
 # Curated tools for further clutter-cutting
