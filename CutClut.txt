@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 17 Jan 2026
-! Version: 171.1
+! Version: 172.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 618
+! Number of entries: 620
 
 
 
@@ -1274,3 +1274,10 @@ www.w3schools.com##.completed_all > p:nth-of-type(2)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(1)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(2)
 www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(3)
+
+
+
+! SemVer
+semver.org##.lang.nav
+semver.org##ul.nav:nth-of-type(2)
+
