@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
 ! Last modified: 17 Jan 2026
-! Version: 172.0
+! Version: 172.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 620
+! Number of entries: 621
 
 
 
@@ -149,6 +149,7 @@ www.youtube.com###manage-account > .yt-formatted-string.style-scope.yt-simple-en
 www.youtube.com##ytd-toggle-theme-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope
 www.youtube.com##yt-multi-page-menu-section-renderer.ytd-multi-page-menu-renderer.style-scope:nth-of-type(5)
 www.youtube.com##li.watch-now-menu__list-item:nth-of-type(3)
+www.youtube.com###sponsor-button
 
 
 !! Developers - Google
@@ -1281,3 +1282,7 @@ www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(3)
 semver.org##.lang.nav
 semver.org##ul.nav:nth-of-type(2)
 
+! Feb 4, 2026 https://filemoon.sx
+filemoon.sx##.mt-auto.site-footer
+filemoon.sx##.video-download-page__footer
+filemoon.sx##.site-header
