@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Dracape/CutClut
 ! License: https://github.com/Dracape/CutClut/blob/main/LICENSE
-! Last modified: 17 Jan 2026
-! Version: 172.1
+! Last modified: 22 Feb 2026
+! Version: 174.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 621
+! Number of entries: 635
 
 
 
@@ -1282,7 +1282,25 @@ www.w3schools.com##a.somebutton.ga-exercise:nth-of-type(3)
 semver.org##.lang.nav
 semver.org##ul.nav:nth-of-type(2)
 
-! Feb 4, 2026 https://filemoon.sx
+
+
+! FileMoon
 filemoon.sx##.mt-auto.site-footer
 filemoon.sx##.video-download-page__footer
 filemoon.sx##.site-header
+
+
+
+! PreMiD
+premid.app##.mb-12.mt-20
+premid.app##div:nth-of-type(4)
+premid.app##.md\:text-left.text-center.text-gray-400.text-sm > div:nth-of-type(1)
+premid.app##.text-gray-400.text-sm.gap-2.items-center.flex
+premid.app##.mb-12.gap-8.lg\:grid-cols-5.md\:grid-cols-2.grid > div:nth-of-type(2)
+premid.app##li:nth-of-type(2)
+premid.app##li:nth-of-type(3)
+premid.app##li:nth-of-type(4)
+premid.app##.tracking-wider.uppercase.text-sm.mb-4.text-white.font-semibold
+premid.app##.gap-2.items-center.flex.transition-colors.rounded-lg.border-dark-100\/50.border.hover\:text-white.text-gray-400.hover\:bg-dark-100\/80.bg-dark-100.py-1\.5.px-3
+premid.app##.transition-colors.focus\:outline-none.hover\:border-primary\/50.border-border.border.rounded-lg.bg-background-secondary.py-2\.5.px-4.gap-3.justify-between.items-center.flex.\!border-dark-100\/50.hover\:\!text-white.\!text-gray-400.hover\:\!bg-dark-100\/80.\!bg-dark-100.\!py-1\.5.\!px-3
+
