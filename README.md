@@ -35,7 +35,7 @@ You can create a [pull request](https://github.com/Drazape/CutClut/pulls "Pull r
 [Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Drazape/CutClut/refs/heads/main/CutClut.txt&title=CutClut "Subscribe to CutClut on supported platforms")
 
 ---
-# Curated tools for further clutter-cutting
+# Curated 3rd-party tools for further clutter-cutting
 ## Theming
 - [**Dark Reader**](https://darkreader.org "The *Dark Reader* homepage"): Universal, advanced and customzable dark-theme for all websites
 - [**Stylus**](https://github.com/openstyles/stylus "The *Stylus* GitHub repository"): User-style manager
