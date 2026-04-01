@@ -1,5 +1,5 @@
 [Frontends]: https://github.com/mendel5/alternative-front-ends "List of websites with frontends"
-[RawFilter]: https://raw.githubusercontent.com/Dracape/CutClut/refs/heads/main/CutClut.txt "Raw CutClut filter URL"
+[RawFilter]: https://raw.githubusercontent.com/Drazape/CutClut/refs/heads/main/CutClut.txt "Raw CutClut filter URL"
 
 [AdBlock filter](https://adguard.com/en/blog/what-are-filters.html "What are AdBlock filters") that
 - Removes
@@ -23,7 +23,7 @@
 - The front-end is uglier than the original website
 ## Work in progress
 CutClut currently covers very few websites.
-You can create a [pull request](https://github.com/Dracape/CutClut/pulls "Pull requests of 'CutClut'") or a [*site request* issue](https://github.com/Dracape/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title= "Create an issue to add a new site") for more!
+You can create a [pull request](https://github.com/Drazape/CutClut/pulls "Pull requests of 'CutClut'") or a [*site request* issue](https://github.com/Drazape/CutClut/issues/new?assignees=&labels=Site+request&projects=&template=site-request.md&title= "Create an issue to add a new site") for more!
 
 ---
 
@@ -32,7 +32,7 @@ You can create a [pull request](https://github.com/Dracape/CutClut/pulls "Pull r
 - **Fetch** (*auto-update*): Import using the [raw URL][RawFilter]
 - **Local**: Manually [download][RawFilter] and import
 ### Automatic
-[Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Dracape/CutClut/refs/heads/main/CutClut.txt&title=CutClut "Subscribe to CutClut on supported platforms")
+[Subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Drazape/CutClut/refs/heads/main/CutClut.txt&title=CutClut "Subscribe to CutClut on supported platforms")
 
 ---
 # Curated tools for further clutter-cutting
