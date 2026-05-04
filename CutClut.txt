@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
-! Last modified: 26 Mar 2026
-! Version: 175.0
+! Last modified: 4 May 2026
+! Version: 175.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 640
+! Number of entries: 641
 
 
 
@@ -167,7 +167,7 @@ mail.google.com##.zo
 
 !! AI Studio - Google
 aistudio.google.com##ms-settings-menu
-
+aistudio.google.com##ms-opaque-container-485387979.ng-star-inserted.ng-tns-c3823231829-1s
 
 
 
@@ -1312,4 +1312,3 @@ premid.app##.sm\:p-6.p-4.relative
 allthingslinux.org##.space-y-6.mb-16 > .transition-all.hover\:shadow-lg.border-2.shadow-xs.text-card-foreground.bg-card.rounded-lg
 allthingslinux.org##.lg\:grid-cols-4.md\:grid-cols-2.gap-8.grid > div:nth-of-type(3)
 allthingslinux.org##a.hover\:text-foreground.hover\:bg-background\/80.text-foreground\/90.font-normal.relative.transition-all.text-sm.rounded-full.py-2.px-4:nth-of-type(3)
-
