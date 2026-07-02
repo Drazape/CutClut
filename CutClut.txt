@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
-! Last modified: 12 Jun 2026
-! Version: 176.0
+! Last modified: 2 Jul 2026
+! Version: 178.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 642
+! Number of entries: 644
 
 
 
@@ -1318,3 +1318,13 @@ allthingslinux.org##a.hover\:text-foreground.hover\:bg-background\/80.text-foreg
 
 ! Drazape: Fish subAbbr
 drazape.github.io##[href="https://drazape.github.io/fish-subAbbr/#__consent"]
+
+
+
+! Tynker
+www.tynker.com##.margin-right-1.--tertiary.ty-button
+
+
+
+! Blockly Games
+blockly.games##body > table .farSide
