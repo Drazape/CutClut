@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
 ! Last modified: 21 Jul 2026
-! Version: 179.0
+! Version: 179.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 651
+! Number of entries: 652
 
 
 
@@ -221,6 +221,7 @@ github.com##.mb-2.mt-md-2.mt-3.color-fg-muted.text-small
 github.com##.f6.Link
 github.com##.BorderGrid-cell > .mb-3.d-flex
 github.com##.OptionsSection-module__ActionListOverrides__e4GEe.prc-ActionList-ActionList-rPFF2
+github.com##.tmp-mb-5.d-block.feed-right-column
 
 
 !!! archive program bottom-bar irrelevant hypertext
@@ -1339,4 +1340,3 @@ disboard.org##div.column:nth-of-type(2) > ul > li:nth-of-type(2)
 disboard.org##div.column:nth-of-type(2) > ul > li:nth-of-type(3)
 disboard.org##div.column:nth-of-type(2) > ul > li:nth-of-type(6)
 disboard.org##div.column:nth-of-type(2) > ul > li:nth-of-type(9)
-
