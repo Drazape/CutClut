@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
-! Last modified: 19 Aug 2026
-! Version: 180.0
+! Last modified: 23 Aug 2026
+! Version: 181.0
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 653
+! Number of entries: 656
 
 
 
@@ -1346,3 +1346,9 @@ disboard.org##div.column:nth-of-type(2) > ul > li:nth-of-type(9)
 ! CodeBerg
 codeberg.org##.donation-pretty.item
 
+
+
+! MediaFile CC
+mediafile.cc##section:nth-of-type(2)
+mediafile.cc##.order-lg-1.col-lg-5
+mediafile.cc##.space--xs.text-center-xs
