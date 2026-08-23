@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
 ! Last modified: 23 Aug 2026
-! Version: 181.0
+! Version: 181.1
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 656
+! Number of entries: 659
 
 
 
@@ -1352,3 +1352,7 @@ codeberg.org##.donation-pretty.item
 mediafile.cc##section:nth-of-type(2)
 mediafile.cc##.order-lg-1.col-lg-5
 mediafile.cc##.space--xs.text-center-xs
+mediafile.cc##p
+mediafile.cc##th:nth-of-type(3)
+mediafile.cc##td:nth-of-type(3)
+
