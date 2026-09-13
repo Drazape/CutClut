@@ -2,11 +2,11 @@
 ! Description: Filters premium content ads, privacy policies, and other unnecessary elements
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
-! Last modified: 23 Aug 2026
-! Version: 181.1
+! Last modified: 13 Sep 2026
+! Version: 181.2
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 659
+! Number of entries: 661
 
 
 
@@ -155,7 +155,8 @@ www.youtube.com###sponsor-button
 !! Developers - Google
 developers.google.com##.devsite-top-logo-row > devsite-language-selector
 developers.google.com##.devsite-devprofile-callout-paid-developer-program.devsite-devprofile-callout
-
+developers.google.com##.devsite-concierge-panel-header-buttons > devsite-feedback
+developers.google.com##.devsite-footer-utility-links
 
 !! Docs - Google
 docs.google.com##.docs-common-banner-flex-wrap.docsRecommendationBanner-banner-flex-wrap
