@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/Drazape/CutClut
 ! License: https://github.com/Drazape/CutClut/blob/main/LICENSE
 ! Last modified: 13 Sep 2026
-! Version: 181.2
+! Version: 181.3
 ! Expires: 3 days
 ! Syntax: AdBlock
-! Number of entries: 661
+! Number of entries: 664
 
 
 
@@ -157,6 +157,9 @@ developers.google.com##.devsite-top-logo-row > devsite-language-selector
 developers.google.com##.devsite-devprofile-callout-paid-developer-program.devsite-devprofile-callout
 developers.google.com##.devsite-concierge-panel-header-buttons > devsite-feedback
 developers.google.com##.devsite-footer-utility-links
+developers.google.com##.devsite-article > devsite-feedback.nocontent > button
+developers.google.com##.nocontent.devsite-article-meta > devsite-thumb-rating > .devsite-thumb-rating > .devsite-thumb-label
+developers.google.com##.nocontent.devsite-article-meta > devsite-thumb-rating > .devsite-thumb-rating > .devsite-thumbs
 
 !! Docs - Google
 docs.google.com##.docs-common-banner-flex-wrap.docsRecommendationBanner-banner-flex-wrap
@@ -1356,4 +1359,3 @@ mediafile.cc##.space--xs.text-center-xs
 mediafile.cc##p
 mediafile.cc##th:nth-of-type(3)
 mediafile.cc##td:nth-of-type(3)
-
